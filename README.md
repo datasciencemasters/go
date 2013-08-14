@@ -1,4 +1,4 @@
-The Curriculum for learning Data Science, Open Source and at your fingertips.
+The Curriculum for learning Data Science, the Open Source way.
 
 ## The Internet is Your Oyster
 
