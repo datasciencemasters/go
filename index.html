@@ -4,29 +4,40 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>The /Open Source/ Data Science Masters by datasciencemasters</title>
-
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
   <body>
-    <div class="wrapper">
+
       <header>
         <h1>The /Open Source/ Data Science Masters</h1>
         <p>Curriculum</p>
-
-        <p class="view"><a href="https://github.com/datasciencemasters/go">View the Project on GitHub <small>datasciencemasters/go</small></a></p>
-
-
-        <ul>
-          <li><a href="https://github.com/datasciencemasters/go/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/datasciencemasters/go/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/datasciencemasters/go">View On <strong>GitHub</strong></a></li>
-        </ul>
       </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/datasciencemasters/go" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/datasciencemasters/go/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/datasciencemasters/go/tarball/master" class="button">TAR</a></li>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
       <section>
         <p>The Curriculum for learning Data Science, Open Source and at your fingertips.</p>
 
@@ -65,24 +76,171 @@
 
 <p>-- James Kobielus, <a href="http://www.ibmbigdatahub.com/blog/data-scientist-closing-talent-gap">Closing the Talent Gap</a> 17 Jan 2013</p>
 
-<h2>
-<a name="the-open-source-curriculum" class="anchor" href="#the-open-source-curriculum"><span class="octicon octicon-link"></span></a>The Open Source Curriculum</h2>
+<p><strong>Ready?</strong></p>
 
-<p><strong><a href="http://datasciencemasters.org">Start Here</a></strong>.</p>
+<hr><h2>
+<a name="the-open-source-data-science-curriculum" class="anchor" href="#the-open-source-data-science-curriculum"><span class="octicon octicon-link"></span></a>The Open Source Data Science Curriculum</h2>
 
-<h2>
+<ul>
+<li>
+<strong>Intro to Data Science</strong> <a href="https://www.coursera.org/course/datasci">UW / Coursera</a>
+
+<ul>
+<li>
+<em>Topics:</em> Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop &amp; Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.</li>
+</ul>
+</li>
+</ul><h3>
+<a name="math" class="anchor" href="#math"><span class="octicon octicon-link"></span></a>Math</h3>
+
+<ul>
+<li>Linear Algebra / Levandosky <a href="http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&amp;qid=1376546498&amp;sr=8-1&amp;keywords=linear+algebra+levandosky#">Stanford / Book</a>
+</li>
+<li>Statistics <a href="http://shop.oreilly.com/product/9780596510497.do">Stats in a Nutshell / Book</a>
+</li>
+<li>Problem-Solving Heuristics "How To Solve It" <a href="http://en.wikipedia.org/wiki/How_to_Solve_It">Polya / Book</a>
+</li>
+</ul><h3>
+<a name="computing" class="anchor" href="#computing"><span class="octicon octicon-link"></span></a>Computing</h3>
+
+<ul>
+<li>
+<p><strong>Algorithms</strong></p>
+
+<ul>
+<li>Algorithms Design &amp; Analysis I <a href="https://www.coursera.org/course/algo">Stanford / Coursera</a>
+</li>
+<li>Algorithm Design <a href="http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&amp;qid=1376702127&amp;sr=8-1&amp;keywords=kleinberg+algorithms">Kleinberg &amp; Tardos / Book</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Databases</strong></p>
+
+<ul>
+<li>Introduction to Databases <a href="https://www.coursera.org/course/db">Stanford / Coursera</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Data Mining</strong></p>
+
+<ul>
+<li>Mining Massive Data Sets <a href="http://i.stanford.edu/%7Eullman/mmds.html">Stanford / Book</a>
+</li>
+<li>Mining The Social Web <a href="http://shop.oreilly.com/product/0636920010203.do">O'Reilly / Book</a>
+</li>
+<li>Introduction to Information Retrieval <a href="http://nlp.stanford.edu/IR-book/information-retrieval-book.html">Stanford / Book</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Machine Learning</strong></p>
+
+<ul>
+<li>Machine Learning / Ng <a href="https://www.coursera.org/course/ml">Stanford / Coursera</a>
+</li>
+<li>Programming Collective Intelligence <a href="">O'Reilly / Book</a>
+</li>
+<li>Statistics <a href="http://www-stat.stanford.edu/%7Etibs/ElemStatLearn/">The Elements of Statistical Learning</a> #current</li>
+</ul>
+</li>
+<li>
+<p><strong>Probabilistic Graphical Models</strong></p>
+
+<ul>
+<li>Probabilistic Programming and Bayesian Methods for Hackers <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">Github / Tutorials</a>
+</li>
+<li>PGMs / Koller <a href="https://www.coursera.org/course/pgm">Stanford / Coursera</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Natural Language Processing</strong></p>
+
+<ul>
+<li>NLP with Python <a href="http://shop.oreilly.com/product/9780596516499.do">O'Reilly / Book</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Analysis</strong></p>
+
+<ul>
+<li>Python for Data Analysis <a href="http://www.kqzyfj.com/click-7040302-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023784.do&amp;cjsku=0636920023784">O'Reilly / Book</a>
+</li>
+<li>Big Data Analysis with Twitter <a href="http://blogs.ischool.berkeley.edu/i290-abdt-s12/">UC Berkeley / Lectures</a>
+</li>
+<li>Social and Economic Networks: Models and Analysis / <a href="https://www.coursera.org/course/networksonline">Stanford / Coursera</a>
+</li>
+<li>Information Visualization <a href="http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&amp;qid=1376709039&amp;sr=8-8&amp;keywords=information+design">"Envisioning Information" Tufte / Book</a>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Python</strong> (Learning)</p>
+
+<ul>
+<li>New To Python: <a href="http://learnpythonthehardway.org/">Learn Python the Hard Way</a>, <a href="code.google.com/edu/languages/google-python-class/">Google's Python Class</a>
+</li>
+</ul>
+</li>
+<li>
+<p>Python (Libraries)</p>
+
+<ul>
+<li>Basic Packages <a href="http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/">Python, virtualenv, NumPy, SciPy, matplotlib and IPython </a>
+</li>
+<li>Bayesian Inference | <a href="https://github.com/pymc-devs/pymc">pymc</a>
+</li>
+<li>Labeled data structures objects, statistical functions, etc <a href="https://github.com/pydata/pandas">pandas</a> (See: Python for Data Analysis)</li>
+<li>Python wrapper for the Twitter API <a href="https://github.com/ryanmcgrath/twython">twython</a>
+</li>
+<li>Tools for Data Mining &amp; Analysis <a href="http://scikit-learn.org/stable/">scikit-learn</a>
+</li>
+<li>Network Modeling &amp; Viz <a href="http://networkx.github.io/">networkx</a>
+</li>
+<li>Natural Language Toolkit <a href="http://nltk.org/">NLTK</a>
+</li>
+</ul>
+</li>
+</ul><h3>
+<a name="capstone-project" class="anchor" href="#capstone-project"><span class="octicon octicon-link"></span></a>Capstone Project</h3>
+
+<ul>
+<li><a href="www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science">Toy Data Ideas</a></li>
+<li>Capstone Analysis of Your Own Design
+
+<ul>
+<li>(ideas?)</li>
+</ul>
+</li>
+</ul><hr><h3>
+<a name="further-study-resources" class="anchor" href="#further-study-resources"><span class="octicon octicon-link"></span></a>Further Study Resources:</h3>
+
+<ul>
+<li><a href="http://coursera.org">Coursera</a></li>
+<li><a href="https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability">Khan Academy</a></li>
+<li><a href="http://www.wolframalpha.com/input/?i=torus">Wolfram Alpha</a></li>
+<li><a href="http://en.wikipedia.org/wiki/List_of_cognitive_biases">Wikipedia</a></li>
+<li><a href="http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science">Quora</a></li>
+<li>Kindle .mobis</li>
+<li>Fave PopSci Read: <a href="http://www.amazon.com/Signal-Noise-Predictions-Fail-but-ebook/dp/B007V65R54/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1376699450">The Signal and The Noise</a> Nate Silver</li>
+</ul><h2>
 <a name="contribute" class="anchor" href="#contribute"><span class="octicon octicon-link"></span></a>Contribute</h2>
 
 <p>I'm not the expert -- please Share and Contribute. <strong>It's Open Source</strong>!</p>
 
-<p>Follow me on Twitter <a href="http://twitter.com/clarecorthell">@clarecorthell</a></p>
+<p>Take a look at <a href="https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell">my transcript</a>; Please <strong>showcase your transcript on the <a href="https://github.com/datasciencemasters/go/wiki">wiki</a> too!</strong></p>
+
+<p><a href="http://twitter.com/clarecorthell">Follow me on Twitter @clarecorthell</a></p>
       </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/datasciencemasters">datasciencemasters</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p>Project maintained by <a href="https://github.com/datasciencemasters">datasciencemasters</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
