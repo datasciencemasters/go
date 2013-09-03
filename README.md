@@ -1,3 +1,7 @@
+NB: Homepage [here](http://datasciencemasters.org), Community version [HERE](https://github.com/datasciencemasters/go/wiki)
+
+***
+
 The Curriculum for learning Data Science, Open Source and at your fingertips.
 
 ## The Internet is Your Oyster
