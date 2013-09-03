@@ -36,6 +36,6 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 
 ## Contribute
 
-I'm not the expert -- please Share and Contribute. **It's Open Source**!
+Please Share and Contribute -- **it's Open Source**!
 
 Follow me on Twitter [@clarecorthell](http://twitter.com/clarecorthell)
