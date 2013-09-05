@@ -1,4 +1,4 @@
-###### NB: Homepage [here](http://datasciencemasters.org), Community version [HERE](https://github.com/datasciencemasters/go/)
+###### NB: Fancy Homepage [here](http://datasciencemasters.org) (You are currently seeing the living document)
 
 ## The Open-Source Curriculum for learning Data Science
 
