@@ -117,6 +117,6 @@ Start here.
 
 Please Share and Contribute Your Ideas -- **it's Open Source!**
 
-Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell); Please **showcase your own** on the [wiki](https://github.com/datasciencemasters/go/wiki/_pages)!
+Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell); Please **showcase your own** on the [wiki](https://github.com/datasciencemasters/go/wiki/)!
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
