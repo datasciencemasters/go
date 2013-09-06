@@ -60,7 +60,7 @@ Start here.
 
 * **Databases**
  * Introduction to Databases [Stanford / Coursera](https://www.coursera.org/course/db)
- * SQL Tutorial [W3Schools / tut](http://www.w3schools.com/sql/)
+ * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
