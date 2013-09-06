@@ -48,6 +48,7 @@ Start here.
 * Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
 * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
 * Statistics [Stats in a Nutshell / Book](http://shop.oreilly.com/product/9780596510497.do)
+* Forecasting: Principles and Practice [Monash University / Book](http://otexts.com/fpp/) *uses R
 * Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
 * Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
 * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
@@ -59,6 +60,7 @@ Start here.
 
 * **Databases**
  * Introduction to Databases [Stanford / Coursera](https://www.coursera.org/course/db)
+ * SQL Tutorial [W3Schools / tut](http://www.w3schools.com/sql/)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
@@ -112,6 +114,10 @@ Start here.
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
+
+### A Note About Direction
+This is an introduction geared toward those with at least a minimal understanding of programming, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
+I geared my own learning toward Python, so I've explicitly marked when resources use other tools to teach conceptual material (like R)
 
 ## Contribute
 
