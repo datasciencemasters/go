@@ -1,6 +1,6 @@
 ###### NB: Fancy Homepage [here](http://datasciencemasters.org) (You are currently seeing the living document)
 
-## The Open-Source Curriculum for learning Data Science
+## The Open-Source Data Science Masters - The Curriculum
 
 ### The Internet is Your Oyster
 
