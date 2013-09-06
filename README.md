@@ -6,7 +6,7 @@
 
 I didn't want to wait. I wanted to work on things I care about **now**. Why sleep through grad school lectures tomorrow when you can hack on interesting questions today?
 
-*See [My Curriculum](http://bit.ly/corthelldata)*
+*see [my transcript](http://bit.ly/corthelldata)*
 
 With Coursera, ebooks, stackoverflow, and github -- all free and open -- how can you afford not to take advantage of an open source education?
 
