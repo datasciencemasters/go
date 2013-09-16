@@ -101,6 +101,7 @@ Start here.
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
 * Capstone Analysis of Your Own Design; [Quora](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)'s Idea Compendium
+* Healthcare Twitter Analysis [Coursolve & UW Data Science](https://www.coursolve.org/need/54)
 
 ***
 ### Further Study Resources:
