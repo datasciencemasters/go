@@ -69,6 +69,7 @@ Start here.
 
 * **Machine Learning**
  * Machine Learning / Ng [Stanford / Coursera](https://www.coursera.org/course/ml)
+ * A Course in Machine Learning / Hal Daumé III UMD [Online Book](http://ciml.info/)
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
  * Statistics [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
