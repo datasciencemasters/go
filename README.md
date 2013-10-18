@@ -119,7 +119,7 @@ Start here.
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 
 ### A Note About Direction
-This is an introduction geared toward those with at least **a minimal understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
+This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**, so I've explicitly marked when resources use other tools to teach conceptual material (like R)
 
 ## Contribute
