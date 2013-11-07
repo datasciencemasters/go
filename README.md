@@ -59,8 +59,8 @@ Start here.
  * Algorithm Design [Kleinberg & Tardos / Book](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&qid=1376702127&sr=8-1&keywords=kleinberg+algorithms)
 
 * **Databases**
- * Introduction to Databases [Stanford / Coursera](https://www.coursera.org/course/db)
  * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
+ * Introduction to Databases [Stanford / Online Course](http://class2go.stanford.edu/db/Winter2013/)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
