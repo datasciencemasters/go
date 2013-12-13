@@ -52,6 +52,7 @@ Start here.
 * Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
 * Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
 * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
+* Think Stats: Probability and Statistics for Programmers [Allen Downey / Book](http://greenteapress.com/thinkstats/) 
 
 ### Computing
 * **Algorithms**
