@@ -60,6 +60,7 @@ Start here.
 
 * **Databases**
  * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
+ * Another SQL Tutorial [SQLZOO](http://sqlzoo.net/wiki/Main_Page)
  * Introduction to Databases [Stanford / Online Course](http://class2go.stanford.edu/db/Winter2013/)
 
 * **Data Mining**
