@@ -118,6 +118,14 @@ Start here.
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 
+* **Data Visualization**
+ * Harvard's CS 171 Data Viz Class] - http://cs171.org
+ * D3 Tips and Tricks - https://leanpub.com/D3-Tips-and-Tricks
+ * Scott Murray's Tutorial on D3 - http://alignedleft.com/tutorials/
+ * Berkely's Viz Class - http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization
+ * Rice's viz class - http://had.co.nz/stat645/
+ * O'Reilley's Interactive Data Visualization Book - http://chimera.labs.oreilly.com/books/1230000000345/index.html 
+
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**, so I've explicitly marked when resources use other tools to teach conceptual material (like R)
