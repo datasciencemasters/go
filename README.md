@@ -109,6 +109,7 @@ Start here.
 ### Further Study Resources:
 * [Coursera](http://coursera.org)
 * [Khan Academy](https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability)
+* [Metacademy](http://www.metacademy.org)
 * [Wolfram Alpha](http://www.wolframalpha.com/input/?i=torus)
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Quora](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
