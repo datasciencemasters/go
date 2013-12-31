@@ -119,6 +119,12 @@ Start here.
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
+* Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
+* D3 Tips and Tricks [Leanpub] (https://leanpub.com/D3-Tips-and-Tricks)
+* Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
+* Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
+* Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
+* Interactive Data Visualization Book [O'Reilley] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
