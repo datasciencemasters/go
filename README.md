@@ -83,7 +83,7 @@ Start here.
  * PGMs / Koller [Stanford / Coursera](https://www.coursera.org/course/pgm)
 
 * **Natural Language Processing**
- * NLP with Python [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do)
+ * NLP with Python [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do), [Free online version](http://nltk.org/book/)
 
 * **Analysis**
  * Python for Data Analysis [O'Reilly / Book](http://www.kqzyfj.com/click-7040302-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023784.do&cjsku=0636920023784)
