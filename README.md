@@ -144,7 +144,7 @@ Start here.
 * Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
 * Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
 * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
-* Interactive Data Visualization Book [O'Reilley] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+* Interactive Data Visualization Book [O'Reilly] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
