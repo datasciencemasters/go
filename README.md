@@ -90,7 +90,7 @@ Start here.
  * Information Visualization ["Envisioning Information" Tufte / Book](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&qid=1376709039&sr=8-8&keywords=information+design)
 
 * **Python** (Learning)
- * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python] (http://www.greenteapress.com/thinkpython/)
+ * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
