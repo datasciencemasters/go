@@ -10,7 +10,7 @@ I didn't want to wait. I wanted to work on things I care about **now**. Why slee
 
 *see [my transcript](http://bit.ly/corthelldata)*
 
-With Coursera, ebooks, stackoverflow, and github -- all free and open -- how can you afford not to take advantage of an open source education?
+With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
 
 ### The Motivation
 
