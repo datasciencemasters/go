@@ -103,6 +103,23 @@ Start here.
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
+ 
+* **R** (Learning)
+ * Software Design: The Art of R Programming [O'Reilly / Book](http://shop.oreilly.com/product/9781593273842.do)
+ * R in a Nutshell [O'Reilly / Book](http://shop.oreilly.com/product/9780596801717.do)
+ * Viz and Elegant Graphics in R: ggplot2 [Springer / Book](http://www.springer.com/statistics/computational+statistics/book/978-0-387-98140-6)
+ * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
+ * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
+
+* **R** (Libraries)
+* Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
+* Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html]
+* Basic Viz [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
+* Network Modeling & Viz [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
+* Basic Machine Learning [e1071](http://cran.r-project.org/web/packages/e1071/index.html)
+* Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
+* Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
+* Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
