@@ -119,14 +119,14 @@ Start here.
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
 
 * **R** (Libraries)
-* Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
-* Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html]
-* Basic Viz [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
-* Network Modeling & Viz [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
-* Basic Machine Learning [e1071](http://cran.r-project.org/web/packages/e1071/index.html)
-* Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
-* Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
-* Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
+ * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
+ * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html]
+ * Basic Viz [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
+ * Network Modeling & Viz [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
+ * Basic Machine Learning [e1071](http://cran.r-project.org/web/packages/e1071/index.html)
+ * Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
+ * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
+ * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
