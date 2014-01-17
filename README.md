@@ -146,6 +146,9 @@ Start here.
 * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 * Interactive Data Visualization Book [O'Reilley] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
+### Sources for Data Set:
+* Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
+
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**, so I've explicitly marked when resources use other tools to teach conceptual material (like R)
