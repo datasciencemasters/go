@@ -92,10 +92,10 @@ Start here.
 
 * **Visualization**
  * Information Visualization ["Envisioning Information" Tufte / Book](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&qid=1376709039&sr=8-8&keywords=information+design)
-* Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
-* Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
-* Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
-* Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
+ * Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
+ * Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
+ * Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
+ * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 
 * **Python** (Learning)
  * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
