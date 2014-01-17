@@ -61,6 +61,10 @@ Start here.
  * Algorithms Design & Analysis I [Stanford / Coursera](https://www.coursera.org/course/algo)
  * Algorithm Design [Kleinberg & Tardos / Book](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&qid=1376702127&sr=8-1&keywords=kleinberg+algorithms)
 
+* **Distributed Computing Paradigms**
+ * NB: The UW Intro to Data Science does a great job teaching hadoop [UW / Coursera](https://www.coursera.org/course/datasci)
+ * [Intro to Hadoop and MapReduce](https://www.udacity.com/course/ud617)
+
 * **Databases**
  * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
  * Another SQL Tutorial [SQLZOO](http://sqlzoo.net/wiki/Main_Page)
