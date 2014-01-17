@@ -89,7 +89,13 @@ Start here.
  * Python for Data Analysis [O'Reilly / Book](http://www.kqzyfj.com/click-7040302-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023784.do&cjsku=0636920023784)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](https://www.coursera.org/course/networksonline)
+
+* **Visualization**
  * Information Visualization ["Envisioning Information" Tufte / Book](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&qid=1376709039&sr=8-8&keywords=information+design)
+* Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
+* Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
+* Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
+* Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 
 * **Python** (Learning)
  * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
@@ -140,12 +146,6 @@ Start here.
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
-* Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
-* D3 Tips and Tricks [Leanpub] (https://leanpub.com/D3-Tips-and-Tricks)
-* Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
-* Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
-* Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
-* Interactive Data Visualization Book [O'Reilly] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ### Sources for Datasets:
 * Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
