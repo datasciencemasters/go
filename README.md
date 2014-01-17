@@ -110,6 +110,7 @@ Start here.
  * Viz and Elegant Graphics in R: ggplot2 [Springer / Book](http://www.springer.com/statistics/computational+statistics/book/978-0-387-98140-6)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
+ * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
 
 * **R** (Libraries)
 * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
