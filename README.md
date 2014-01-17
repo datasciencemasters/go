@@ -10,7 +10,7 @@ I didn't want to wait. I wanted to work on things I care about **now**. Why slee
 
 *see [my transcript](http://bit.ly/corthelldata)*
 
-With Coursera, ebooks, stackoverflow, and github -- all free and open -- how can you afford not to take advantage of an open source education?
+With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
 
 ### The Motivation
 
@@ -145,7 +145,7 @@ Start here.
 * Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
 * Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
 * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
-* Interactive Data Visualization Book [O'Reilley] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+* Interactive Data Visualization Book [O'Reilly] (http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ### Sources for Datasets:
 * Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
