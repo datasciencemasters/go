@@ -80,7 +80,7 @@ Start here.
  * A Course in Machine Learning / Hal Daumé III UMD [Online Book](http://ciml.info/)
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
  * Statistics [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
- * Machine Learning / CaltechX [Caltech / Edx](https://courses.edx.org/courses/CaltechX/CS1156x/Fall2013/)
+ * Machine Learning / CaltechX [Caltech / Edx](http://work.caltech.edu/lectures.html)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
