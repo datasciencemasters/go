@@ -102,7 +102,7 @@ Start here.
  * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 
 * **Python** (Learning)
- * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
+ * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/), [MIT OpenCourseWare: Introduction to Computer Science and Programming / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
