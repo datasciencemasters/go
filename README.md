@@ -81,6 +81,7 @@ Start here.
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
  * Statistics [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
  * Machine Learning / CaltechX [Caltech / Edx](http://work.caltech.edu/lectures.html)
+ * Neural Networks [Toronto / Coursera] (https://class.coursera.org/neuralnets-2012-001)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
