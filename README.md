@@ -151,6 +151,7 @@ Start here.
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
+* /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 
 ### Sources for Datasets:
 * Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
