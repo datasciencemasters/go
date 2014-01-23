@@ -60,6 +60,8 @@ Start here.
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](https://www.coursera.org/course/algo)
  * Algorithm Design [Kleinberg & Tardos / Book](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&qid=1376702127&sr=8-1&keywords=kleinberg+algorithms)
+ * Computer Algorithms in Systems Engineering [MIT OpenCourseWare] (http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/)
+ * Advanced Data Structures [MIT OpenCourseWare] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 
 * **Distributed Computing Paradigms**
  * NB: The UW Intro to Data Science does a great job teaching hadoop [UW / Coursera](https://www.coursera.org/course/datasci)
@@ -74,6 +76,7 @@ Start here.
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
  * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920010203.do)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+ * Data Mining [MIT OpenCourseWare] (http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/)
 
 * **Machine Learning**
  * Machine Learning / Ng [Stanford / Coursera](https://www.coursera.org/course/ml)
@@ -152,6 +155,7 @@ Start here.
 * [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
+* [MIT OpenCourseWare] (http://ocw.mit.edu/index.htm)
 
 ### Sources for Datasets:
 * Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
