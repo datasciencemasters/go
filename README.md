@@ -159,6 +159,7 @@ Start here.
 * Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
 http://archive.ics.uci.edu/ml/datasets.html)
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
+* [Stanford Network Analysis Project](https://snap.stanford.edu/)
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
