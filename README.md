@@ -156,6 +156,9 @@ Start here.
 ### Sources for Datasets:
 * Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
 * Hilary Mason's List of Research-quality datasets [bit.ly](https://bitly.com/bundles/hmason/1)
+* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
+http://archive.ics.uci.edu/ml/datasets.html)
+* [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
