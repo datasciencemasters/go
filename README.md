@@ -103,7 +103,10 @@ Start here.
  * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 
 * **Python** (Learning)
- * New To Python: [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Google's Python Class](http://code.google.com/edu/languages/google-python-class/), [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/), [MIT OpenCourseWare: Introduction to Computer Science and Programming / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+ * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
+ * [Google's Python Class](http://code.google.com/edu/languages/google-python-class/)
+ * [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
+ * [MIT OpenCourseWare: Introduction to Computer Science and Programming / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
@@ -122,6 +125,7 @@ Start here.
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
+ * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
 
 * **R** (Libraries)
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
@@ -145,21 +149,22 @@ Start here.
 * [Metacademy](http://www.metacademy.org)
 * [Wolfram Alpha](http://www.wolframalpha.com/input/?i=torus)
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Quora](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
-* Kindle .mobis
 * Great PopSci Read: [The Signal and The Noise](http://www.amazon.com/Signal-Noise-Predictions-Fail-but-ebook/dp/B007V65R54/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1376699450) Nate Silver
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
-* [A Software Engineer's Guide to Getting Started w Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
+* [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 
 ### Sources for Datasets:
-* Competitions between Data Scientists on new datasets [Kaggle] (https://www.kaggle.com/)
-* Hilary Mason's List of Research-quality datasets [bit.ly](https://bitly.com/bundles/hmason/1)
-* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
-http://archive.ics.uci.edu/ml/datasets.html)
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 * [Stanford Network Analysis Project](https://snap.stanford.edu/)
+* Data Science Contests [Kaggle] (https://www.kaggle.com/)
+* [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
+* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
+http://archive.ics.uci.edu/ml/datasets.html)
+* [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
+* USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
