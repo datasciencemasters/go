@@ -45,6 +45,8 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 Start here.
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+* **Data Science (Specialization)** [JHU / Coursera] (https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) 7 April 2014
+ * *Courses:* The Data Scientist's Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products & Capstone Project 
 
 ### Math
 * Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
