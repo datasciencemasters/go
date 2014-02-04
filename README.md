@@ -47,14 +47,20 @@ Start here.
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
 ### Math
-* Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
-* Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
-* Statistics [Stats in a Nutshell / Book](http://shop.oreilly.com/product/9780596510497.do)
-* Forecasting: Principles and Practice [Monash University / Book](http://otexts.com/fpp/) *uses R
-* Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
-* Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
-* Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
-* Think Stats: Probability and Statistics for Programmers [Allen Downey / Book](http://greenteapress.com/thinkstats/) 
+* **Linear Algebra & Programming**
+ * Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
+ * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
+ * Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
+
+* **Statistics**
+ * Statistics [Stats in a Nutshell / Book](http://shop.oreilly.com/product/9780596510497.do)
+ * Think Stats: Probability and Statistics for Programmers [Allen Downey / Book](http://greenteapress.com/thinkstats/) 
+ * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
+ * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource *uses R
+ * Forecasting: Principles and Practice *(Regression, Time Series, Forecasting)* [Monash University / Book](http://otexts.com/fpp/) *uses R
+
+* **Problem Solving**
+ * Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
 
 ### Computing
 * **Algorithms**
@@ -75,7 +81,7 @@ Start here.
  * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920010203.do)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
-* **Machine Learning**
+* **Machine Learning**^
  * Machine Learning / Ng [Stanford / Coursera](https://www.coursera.org/course/ml)
  * A Course in Machine Learning / Hal Daumé III UMD [Online Book](http://ciml.info/)
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
