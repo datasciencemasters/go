@@ -81,20 +81,20 @@ Start here.
  * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920010203.do)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
-* **Machine Learning**^
- * Machine Learning / Ng [Stanford / Coursera](https://www.coursera.org/course/ml)
- * A Course in Machine Learning / Hal Daumé III UMD [Online Book](http://ciml.info/)
+* **Machine Learning**
+ * Machine Learning [Ng Stanford / Coursera](https://www.coursera.org/course/ml)
+ * A Course in Machine Learning [UMD /Online Book](http://ciml.info/)
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
- * Statistics [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
- * Machine Learning / CaltechX [Caltech / Edx](http://work.caltech.edu/lectures.html)
- * Neural Networks [Toronto / Coursera] (https://class.coursera.org/neuralnets-2012-001)
+ * The Elements of Statistical Learning [Stanford / Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
+ * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
+ * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
  * PGMs / Koller [Stanford / Coursera](https://www.coursera.org/course/pgm)
 
 * **Natural Language Processing**
- * NLP with Python [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do), [Free online version](http://nltk.org/book/)
+ * NLP with Python / NLTK [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do), [Free online version](http://nltk.org/book/)
 
 * **Analysis**
  * Python for Data Analysis [O'Reilly / Book](http://www.kqzyfj.com/click-7040302-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023784.do&cjsku=0636920023784)
@@ -103,16 +103,16 @@ Start here.
 
 * **Visualization**
  * Information Visualization ["Envisioning Information" Tufte / Book](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&qid=1376709039&sr=8-8&keywords=information+design)
- * Harvard's Data Viz Class [Harvard CS 171] (http://cs171.org)
- * Scott Murray's Tutorial on D3 [Scott Murray's Blog] (http://alignedleft.com/tutorials/)
- * Berkely's Viz Class [UC Berkeley] (http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
+ * Data Visualization [Harvard CS 171 / Lectures](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
+ * Scott Murray's Tutorial on D3 [Scott Murray's Blog / Tutorials](http://alignedleft.com/tutorials/)
+ * Berkely's Viz Class [UC Berkeley / Course](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
  * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
 
 * **Python** (Learning)
- * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
- * [Google's Python Class](http://code.google.com/edu/languages/google-python-class/)
- * [Think Python Downey, Allen B.] (http://www.greenteapress.com/thinkpython/)
- * [MIT OpenCourseWare: Introduction to Computer Science and Programming / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+ * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
+ * Python [Class / Google](http://code.google.com/edu/languages/google-python-class/)
+ * [Think Python](http://www.greenteapress.com/thinkpython/)
+ * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
