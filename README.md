@@ -82,6 +82,7 @@ Start here.
  * Statistics [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
  * Machine Learning / CaltechX [Caltech / Edx](http://work.caltech.edu/lectures.html)
  * Neural Networks [Toronto / Coursera] (https://class.coursera.org/neuralnets-2012-001)
+ * Building Machine Learning Systems with Python [Packt / Book] (http://www.packtpub.com/building-machine-learning-systems-with-python/book)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -159,6 +160,7 @@ Start here.
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 * [Stanford Network Analysis Project](https://snap.stanford.edu/)
 * Data Science Contests [Kaggle] (https://www.kaggle.com/)
+* Database with Large Selection of Datasets for Data Science Projects [Academic Torrents](http://academictorrents.com/)
 * [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
 * Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
 http://archive.ics.uci.edu/ml/datasets.html)
