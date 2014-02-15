@@ -170,6 +170,10 @@ Start here.
 http://archive.ics.uci.edu/ml/datasets.html)
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+* [Scikit-learn sample datasets](http://scikit-learn.org/stable/datasets/index.html)
+* [Statsmodels datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
+* [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/) included with R
+* [mldata.org](http://mldata.org/) Machine Learning Dataset Repository
 
 
 ### A Note About Direction
