@@ -45,7 +45,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 Start here.
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
-* **Haravard CS 109 Data Science** [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)
+* **Haravard CS 109 Data Science** [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
 ### Math
