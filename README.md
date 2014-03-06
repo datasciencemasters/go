@@ -126,7 +126,6 @@ Start here.
  * Natural Language Toolkit [NLTK](http://nltk.org/)
  * [Pylearn2](http://deeplearning.net/software/pylearn2/) and [Theano](http://deeplearning.net/software/theano/) deep learning libraries
  * [Statsmodels](http://statsmodels.sourceforge.net/) Python module that allows users to explore data, estimate statistical models, and perform statistical tests
- * Python Data Analysis Library [Pandas](http://pandas.pydata.org/)
  * Multivariate Pattern Analysis in Python [PyMVPA](http://www.pymvpa.org/) 
  * [Shogun](http://www.shogun-toolbox.org/) large scale machine learning toolbox with focus on especially Support Vector Machines (SVM)
  * [Gensim](https://pypi.python.org/pypi/gensim) Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
@@ -139,7 +138,8 @@ Start here.
  * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
  * [MDP](https://pypi.python.org/pypi/MDP) a collection of supervised and unsupervised learning algorithms
  * [pyBrain](http://pybrain.org/) modular Machine Learning Library for Python
- * [neurolab](https://code.google.com/p/neurolab/) simple and powerful Neural Network Library for Python. Contains based neural networks, train algorithms and flexible framework to create and explore other networks 
+ * [neurolab](https://code.google.com/p/neurolab/) simple and powerful Neural Network Library for Python. Contains based neural networks, train algorithms and flexible framework to create and explore other networks
+ * Machine Learning Toolkit [MILK](http://packages.python.org/milk/) 
  
 * **R** (Learning)
  * Software Design: The Art of R Programming [O'Reilly / Book](http://shop.oreilly.com/product/9781593273842.do)
