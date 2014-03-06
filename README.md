@@ -133,13 +133,13 @@ Start here.
  * Markov Chain Monte Carlo sampling toolkit [PyMC](https://pypi.python.org/pypi/pymc) 
  * [Orange](http://orange.biolab.si/) Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
  * [Decaf](https://github.com/UCB-ICSI-Vision-Group/decaf-release)
- * [Nolearn](https://pypi.python.org/pypi/nolearn)
+ * [Nolearn](https://pypi.python.org/pypi/nolearn) 
  * [OverFeat](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start) Convolutional Network-based image features extractor and classifier
  * [Hebel](https://github.com/hannes-brt/hebel) GPU-Accelerated Deep Learning Library in Python
  * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
  * [MDP](https://pypi.python.org/pypi/MDP) a collection of supervised and unsupervised learning algorithms
  * [pyBrain](http://pybrain.org/) modular Machine Learning Library for Python
-
+ * [neurolab](https://code.google.com/p/neurolab/) simple and powerful Neural Network Library for Python. Contains based neural networks, train algorithms and flexible framework to create and explore other networks 
  
 * **R** (Learning)
  * Software Design: The Art of R Programming [O'Reilly / Book](http://shop.oreilly.com/product/9781593273842.do)
