@@ -113,6 +113,7 @@ Start here.
  * Python [Class / Google](http://code.google.com/edu/languages/google-python-class/)
  * [Think Python](http://www.greenteapress.com/thinkpython/)
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+ * [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book) [source code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
@@ -123,6 +124,22 @@ Start here.
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
+ * [Pylearn2](http://deeplearning.net/software/pylearn2/) and [Theano](http://deeplearning.net/software/theano/) deep learning libraries
+ * [Statsmodels](http://statsmodels.sourceforge.net/) Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+ * Python Data Analysis Library [Pandas](http://pandas.pydata.org/)
+ * Multivariate Pattern Analysis in Python [PyMVPA](http://www.pymvpa.org/) 
+ * [Shogun](http://www.shogun-toolbox.org/) large scale machine learning toolbox with focus on especially Support Vector Machines (SVM)
+ * [Gensim](https://pypi.python.org/pypi/gensim) Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+ * Markov Chain Monte Carlo sampling toolkit [PyMC](https://pypi.python.org/pypi/pymc) 
+ * [Orange](http://orange.biolab.si/) Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
+ * [Decaf](https://github.com/UCB-ICSI-Vision-Group/decaf-release)
+ * [Nolearn](https://pypi.python.org/pypi/nolearn)
+ * [OverFeat](http://cilvr.nyu.edu/doku.php?id=software:overfeat:start) Convolutional Network-based image features extractor and classifier
+ * [Hebel](https://github.com/hannes-brt/hebel) GPU-Accelerated Deep Learning Library in Python
+ * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
+ * [MDP](https://pypi.python.org/pypi/MDP) a collection of supervised and unsupervised learning algorithms
+ * [pyBrain](http://pybrain.org/) modular Machine Learning Library for Python
+
  
 * **R** (Learning)
  * Software Design: The Art of R Programming [O'Reilly / Book](http://shop.oreilly.com/product/9781593273842.do)
@@ -143,6 +160,12 @@ Start here.
  * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
  * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
 
+* **Weka (Java Framework)**
+ * [Data Mining with Weka (MOOC)](http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+
+* **Lua** (Libraries)
+ * [Torch7](http://torch.ch/) scientific computing framework with wide support for machine learning algorithms
+
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
 * Capstone Analysis of Your Own Design; [Quora](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)'s Idea Compendium
@@ -160,6 +183,7 @@ Start here.
 * [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
+* [DataTau](http://www.datatau.com/) - [Hacker News](https://news.ycombinator.com/) for data scientists
 
 ### Sources for Datasets:
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
@@ -171,6 +195,10 @@ http://archive.ics.uci.edu/ml/datasets.html)
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
 
+### Website, Blogs, Newsletters
+* [FastML](http://fastml.com/)
+* [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
+* [Data Science Weekly](http://www.datascienceweekly.org/blog)
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
