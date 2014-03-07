@@ -86,6 +86,7 @@ Start here.
  * A Course in Machine Learning [UMD /Online Book](http://ciml.info/)
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
  * The Elements of Statistical Learning [Stanford / Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
+ * Statistical Learning [Stanford / OpenEdX](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
  * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
 
