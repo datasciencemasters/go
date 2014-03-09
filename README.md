@@ -170,6 +170,7 @@ Start here.
 http://archive.ics.uci.edu/ml/datasets.html)
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+* [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
 
 
 ### A Note About Direction
