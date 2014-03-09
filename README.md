@@ -78,7 +78,7 @@ Start here.
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
- * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920030195.do)
+ * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920030195.do) and [Blog](http://MiningTheSocialWeb.com)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 * **Machine Learning**
