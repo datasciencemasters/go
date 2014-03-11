@@ -132,6 +132,7 @@ Start here.
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
+ * Machine Learning for Hackers [O'Reilly / Book] (http://shop.oreilly.com/product/0636920018483.do)
 
 * **R** (Libraries)
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
