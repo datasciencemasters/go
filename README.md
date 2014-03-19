@@ -91,6 +91,8 @@ Start here.
 * **Deep Learning**
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
  * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
+ * [](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
+ * [](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -195,8 +197,7 @@ Start here.
 * [Stanford Network Analysis Project](https://snap.stanford.edu/)
 * Data Science Contests [Kaggle] (https://www.kaggle.com/)
 * [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
-* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
-http://archive.ics.uci.edu/ml/datasets.html)
+* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](http://archive.ics.uci.edu/ml/datasets.html)
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
 * [Datasets](http://deeplearning.net/datasets/) for benchmarking deep learning algorithms
