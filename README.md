@@ -112,6 +112,7 @@ Start here.
  * Scott Murray's Tutorial on D3 [Scott Murray's Blog / Tutorials](http://alignedleft.com/tutorials/)
  * Berkely's Viz Class [UC Berkeley / Course](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
  * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
+ * [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 
 * **Python** (Learning)
  * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
