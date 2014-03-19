@@ -87,7 +87,10 @@ Start here.
  * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
  * The Elements of Statistical Learning [Stanford / Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
  * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
+ 
+* **Deep Learning**
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
+ * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -165,6 +168,7 @@ Start here.
 
 * **Lua** (Libraries)
  * [Torch7](http://torch.ch/) scientific computing framework with wide support for machine learning algorithms
+ 
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
@@ -184,6 +188,7 @@ Start here.
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 * [DataTau](http://www.datatau.com/) - [Hacker News](https://news.ycombinator.com/) for data scientists
+* [Machine Learning UToronto](http://learning.cs.toronto.edu/index.shtml?section=courses)
 
 ### Sources for Datasets:
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
@@ -194,6 +199,7 @@ Start here.
 http://archive.ics.uci.edu/ml/datasets.html)
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+* [Datasets](http://deeplearning.net/datasets/) for benchmarking deep learning algorithms
 
 ### Website, Blogs, Newsletters
 * [FastML](http://fastml.com/)
