@@ -46,6 +46,13 @@ Start here.
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
+### Introductory
+ * Introduction to Computational Thinking and Data Science [MIT/ Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-1505)
+ * Intro to Data Science [Udacity](https://www.udacity.com/course/ud359)
+ * Exploratory Data Analysis [Udacity](https://www.udacity.com/course/ud651)
+ * Coursera Data Science Specialization [Coursera](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
+ * Udacity Data Science Specialization [Udacity](https://www.udacity.com/courses#!/Data%20Science)
+
 ### Math
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
@@ -58,6 +65,8 @@ Start here.
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
  * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource *uses R
  * Forecasting: Principles and Practice *(Regression, Time Series, Forecasting)* [Monash University / Book](http://otexts.com/fpp/) *uses R
+ * Intro to Statistics [Udacity](https://www.udacity.com/course/st101)
+ * Data Analysis and Statistics [Duke / Coursera](https://www.coursera.org/course/statistics)
 
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
@@ -65,6 +74,10 @@ Start here.
 ### Computing
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](https://www.coursera.org/course/algo)
+ * Algorithms Design & Analysis II [Stanford / Coursera](https://www.coursera.org/course/algo2)
+ * Algorithms Part I [Princeton / Coursera](https://www.coursera.org/course/algs4partI)
+ * Algorithms Part II [Princeton / Coursera](https://www.coursera.org/course/algs4partII)
+
  * Algorithm Design [Kleinberg & Tardos / Book](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&qid=1376702127&sr=8-1&keywords=kleinberg+algorithms)
 
 * **Distributed Computing Paradigms**
@@ -75,11 +88,14 @@ Start here.
  * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
  * Another SQL Tutorial [SQLZOO](http://sqlzoo.net/wiki/Main_Page)
  * Introduction to Databases [Stanford / Online Course](http://class2go.stanford.edu/db/Winter2013/)
+ * Data Wrangling with Mongo DB [Udacity](https://www.udacity.com/course/ud032)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
  * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920030195.do) and [Blog](http://MiningTheSocialWeb.com)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+ * The Analytics Edge [MIT / Edx](https://www.edx.org/course/mitx/mitx-15-071x-analytics-edge-1416)
+ * Core Concepts in Data Analysis [Coursera](https://www.coursera.org/course/datan)
 
 * **Machine Learning**
  * Machine Learning [Ng Stanford / Coursera](https://www.coursera.org/course/ml)
@@ -89,6 +105,9 @@ Start here.
  * Statistical Learning [Stanford / OpenEdX](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
  * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
+ * Machine Learning I Supervised Learning [Udacity](https://www.udacity.com/course/ud675)
+ * Machine Learning II Unsupervised Learning [Udacity](https://www.udacity.com/course/ud741)
+ * Machine Learning III Reinforcement Learning [Udacity](https://www.udacity.com/course/ud820)
 
 * **Probabilistic Graphical Models**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -108,12 +127,15 @@ Start here.
  * Scott Murray's Tutorial on D3 [Scott Murray's Blog / Tutorials](http://alignedleft.com/tutorials/)
  * Berkely's Viz Class [UC Berkeley / Course](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
  * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
+ * Data visualization in Python [NewCoder](http://newcoder.io/dataviz/)
 
 * **Python** (Learning)
  * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
  * Python [Class / Google](http://code.google.com/edu/languages/google-python-class/)
  * [Think Python](http://www.greenteapress.com/thinkpython/)
- * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+ * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) [Edx version](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1498#.U1)
+ * Introduction to Python [CodeAcademy](http://www.codecademy.com/tracks/python)
+ * Introduction to Computer Science and Python [Udacity](https://www.udacity.com/course/cs101)
 
 * **Python** (Libraries)
  * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
@@ -143,6 +165,19 @@ Start here.
  * Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
  * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
  * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
+
+* **GIT** (Source control)
+ * Git tutorial [Git tutorial](http://gitimmersion.com/lab_01.html)
+
+* **Web APIs / Web crawling**
+ * Introduction to WebAPIs including Twitter, Youtube, BitLy, Sunlight Foundation [CodeAcademy](http://www.codecademy.com/tracks/apis)
+ * Twitter Analysis tools [ScraperWiki](https://scraperwiki.com/tools/twitter)
+ * [Six tools for web-scraping](http://www.notprovided.eu/six-tools-web-scraping-use-data-journalism-creating-insightful-content/)
+ * Web scraping [NewCoder](http://newcoder.io/scrape/)
+ * Working with Web APIs [NewCoder](http://newcoder.io/api/)
+
+* **Data Journalism**
+ * The Data Journalism Handbook [DataJournalism](http://datajournalismhandbook.org/1.0/en/index.html)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
