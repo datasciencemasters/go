@@ -132,6 +132,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 
 ***
 ### Further Study Resources
+* The "Hacker News" of Data Science [DataTau](http://www.datatau.com)
 * [Coursera](http://coursera.org)
 * [Khan Academy](https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability)
 * [Metacademy](http://www.metacademy.org)
