@@ -123,7 +123,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
 
-### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md) (Please help!)
+### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
@@ -131,7 +131,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](https://www.coursolve.org/need/54)
 
 ***
-### Further Study Resources:
+### Further Study Resources
 * [Coursera](http://coursera.org)
 * [Khan Academy](https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability)
 * [Metacademy](http://www.metacademy.org)
@@ -143,7 +143,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 
-### Sources for Datasets:
+### Datasets Sources
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 * [Stanford Network Analysis Project](https://snap.stanford.edu/)
 * Data Science Contests [Kaggle] (https://www.kaggle.com/)
@@ -154,12 +154,14 @@ http://archive.ics.uci.edu/ml/datasets.html)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
 * [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
 
+***
+
 ### Notation
 Paid books, courses, and resources are noted with ```$```.
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
-Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**, so I've explicitly marked when resources use other tools to teach conceptual material (like R)
+Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md).
 
 ## Contribute
 
