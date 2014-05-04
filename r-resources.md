@@ -37,7 +37,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### R Libraries
 
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
- * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html]
+ * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html)
  * Basic Viz [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
  * Network Modeling & Viz [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
  * Basic Machine Learning [e1071](http://cran.r-project.org/web/packages/e1071/index.html)
