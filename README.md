@@ -1,6 +1,6 @@
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
 
-###### NB: Fancy Homepage [here](http://datasciencemasters.org) (You are currently seeing the living document)
+NB: Fancy Homepage [here](http://datasciencemasters.org) (You are currently seeing the living document)
 
 ## The Open-Source Data Science Masters - Curriculum
 
@@ -48,66 +48,62 @@ Start here.
 
 ### Math
 * **Linear Algebra & Programming**
- * Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1&keywords=linear+algebra+levandosky#)
+ * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
- * Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
 
 * **Statistics**
- * Statistics [Stats in a Nutshell / Book](http://shop.oreilly.com/product/9780596510497.do)
- * Think Stats: Probability and Statistics for Programmers [Allen Downey / Book](http://greenteapress.com/thinkstats/) 
+ * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
+ * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats/) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
- * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource *uses R
- * Forecasting: Principles and Practice *(Regression, Time Series, Forecasting)* [Monash University / Book](http://otexts.com/fpp/) *uses R
 
 * **Problem Solving**
- * Problem-Solving Heuristics "How To Solve It" [Polya / Book](http://en.wikipedia.org/wiki/How_to_Solve_It)
+ * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 ### Computing
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](https://www.coursera.org/course/algo)
- * Algorithm Design [Kleinberg & Tardos / Book](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358/ref=sr_1_1?ie=UTF8&qid=1376702127&sr=8-1&keywords=kleinberg+algorithms)
+ * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
 
 * **Distributed Computing Paradigms**
- * NB: The UW Intro to Data Science does a great job teaching hadoop [UW / Coursera](https://www.coursera.org/course/datasci)
- * [Intro to Hadoop and MapReduce](https://www.udacity.com/course/ud617)
+ * *See Intro to Data Science [UW / Lectures on MapReduce](https://www.coursera.org/course/datasci)
+ * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](https://www.udacity.com/course/ud617) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
 * **Databases**
- * SQL Tutorial [W3Schools / Tutorials](http://www.w3schools.com/sql/)
- * Another SQL Tutorial [SQLZOO](http://sqlzoo.net/wiki/Main_Page)
+ * SQL Tutorial [w3schools / Tutorials](http://www.w3schools.com/sql/)
+ * SQL Tutorial [SQLZOO / Tutorials](http://sqlzoo.net/wiki/Main_Page)
  * Introduction to Databases [Stanford / Online Course](http://class2go.stanford.edu/db/Winter2013/)
 
 * **Data Mining**
- * Mining Massive Data Sets [Stanford / Book](http://i.stanford.edu/~ullman/mmds.html)
- * Mining The Social Web [O'Reilly / Book](http://shop.oreilly.com/product/0636920030195.do) and [Blog](http://MiningTheSocialWeb.com)
+ * Mining Massive Data Sets [Stanford / Online Book](http://i.stanford.edu/~ullman/mmds.html)
+ * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 * **Machine Learning**
  * Machine Learning [Ng Stanford / Coursera](https://www.coursera.org/course/ml)
- * A Course in Machine Learning [UMD /Online Book](http://ciml.info/)
- * Programming Collective Intelligence [O'Reilly / Book](http://shop.oreilly.com/product/9780596529321.do)
- * The Elements of Statistical Learning [Stanford / Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
- * Statistical Learning [Stanford / OpenEdX](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
+ * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
+ * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
+ * The Elements of Statistical Learning [Stanford / Digital Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
  * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
 
-* **Probabilistic Graphical Models**
+* **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
- * PGMs / Koller [Stanford / Coursera](https://www.coursera.org/course/pgm)
+ * Probabalistic Graphical Models [Stanford / Coursera](https://www.coursera.org/course/pgm)
 
 * **Natural Language Processing**
- * NLP with Python / NLTK [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do), [Free online version](http://nltk.org/book/)
+ * NLP with Python (NLTK library) [Digital Book](http://nltk.org/book/), [Paper Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
- * Python for Data Analysis [O'Reilly / Book](http://www.kqzyfj.com/click-7040302-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023784.do&cjsku=0636920023784)
+ * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](https://www.coursera.org/course/networksonline)
 
 * **Visualization**
- * Information Visualization ["Envisioning Information" Tufte / Book](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_8?ie=UTF8&qid=1376709039&sr=8-8&keywords=information+design)
- * Data Visualization [Harvard CS 171 / Lectures](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
- * Scott Murray's Tutorial on D3 [Scott Murray's Blog / Tutorials](http://alignedleft.com/tutorials/)
- * Berkely's Viz Class [UC Berkeley / Course](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
- * Rice University's Data Viz class [Rice University] (http://had.co.nz/stat645/)
+ * Envisioning Information (Information Visualization) [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
+ * Data Visualization, CS 171 [Harvard / Lectures](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
+ * Scott Murray's Tutorial on D3 [Blog / Tutorials](http://alignedleft.com/tutorials/)
+ * Berkely's Viz Class [UC Berkeley / Course Docs](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
+ * Rice University's Data Viz class [Rice University](http://had.co.nz/stat645/)
 
 * **Python** (Learning)
  * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
@@ -124,25 +120,8 @@ Start here.
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
- 
-* **R** (Learning)
- * Software Design: The Art of R Programming [O'Reilly / Book](http://shop.oreilly.com/product/9781593273842.do)
- * R in a Nutshell [O'Reilly / Book](http://shop.oreilly.com/product/9780596801717.do)
- * Viz and Elegant Graphics in R: ggplot2 [Springer / Book](http://www.springer.com/statistics/computational+statistics/book/978-0-387-98140-6)
- * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
- * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
- * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
- * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
 
-* **R** (Libraries)
- * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
- * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html]
- * Basic Viz [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
- * Network Modeling & Viz [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
- * Basic Machine Learning [e1071](http://cran.r-project.org/web/packages/e1071/index.html)
- * Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
- * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
- * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
+### R resources are now [HERE](r-resources.md)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
@@ -156,7 +135,7 @@ Start here.
 * [Metacademy](http://www.metacademy.org)
 * [Wolfram Alpha](http://www.wolframalpha.com/input/?i=torus)
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
-* Great PopSci Read: [The Signal and The Noise](http://www.amazon.com/Signal-Noise-Predictions-Fail-but-ebook/dp/B007V65R54/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=8-1&qid=1376699450) Nate Silver
+* The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$```](http://amzn.to/1hoxQoG)
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
@@ -173,6 +152,8 @@ http://archive.ics.uci.edu/ml/datasets.html)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
 * [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
 
+### Notation
+Paid books, courses, and resources are noted with ```$```.
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
@@ -182,6 +163,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 Please Share and Contribute Your Ideas -- **it's Open Source!**
 
-Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell); Please **showcase your own** on the [wiki](https://github.com/datasciencemasters/go/wiki/)!
+Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell)
+Please **showcase your own** but submitting a markdown file pull request with your name! eg ```clare-corthell-transcript.md```
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
