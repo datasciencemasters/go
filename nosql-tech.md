@@ -2,4 +2,4 @@
 
 #### MongoDB
 
-* Data Wrangling with Mongo DB [Udacity](https://www.udacity.com/course/ud032)
+* Data Wrangling with Mongo DB [Udacity Course](https://www.udacity.com/course/ud032)
