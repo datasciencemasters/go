@@ -121,7 +121,7 @@ Start here.
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
 
-### R resources are now [HERE](r-resources.md)
+### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md) (Please help!)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
