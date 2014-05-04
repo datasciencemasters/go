@@ -76,6 +76,8 @@ Start here.
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
+OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)
+
 * **Machine Learning**
  * Machine Learning [Ng Stanford / Coursera](https://www.coursera.org/course/ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
@@ -102,6 +104,8 @@ Start here.
  * Scott Murray's Tutorial on D3 [Blog / Tutorials](http://alignedleft.com/tutorials/)
  * Berkely's Viz Class [UC Berkeley / Course Docs](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
  * Rice University's Data Viz class [Rice University](http://had.co.nz/stat645/)
+
+OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)
 
 * **Python** (Learning)
  * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
