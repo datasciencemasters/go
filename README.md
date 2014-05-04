@@ -163,7 +163,8 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 Please Share and Contribute Your Ideas -- **it's Open Source!**
 
-Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell)
-Please **showcase your own** but submitting a markdown file pull request with your name! eg ```clare-corthell-transcript.md```
+Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell).
+
+Please **showcase your own specialization & transcript** by submitting a markdown file pull request with your name! eg ```clare-corthell-transcript.md```
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
