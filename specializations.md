@@ -14,7 +14,7 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 #### Data Journalism
 
-[Data Journalism](http://en.wikipedia.org/wiki/Data_journalism) and [Data-driven Journalism](http://en.wikipedia.org/wiki/Data_driven_journalism) involve investigation of journalistic stories by way of 
+[Data Journalism](http://en.wikipedia.org/wiki/Data_journalism) and [Data-driven Journalism](http://en.wikipedia.org/wiki/Data_driven_journalism) involve investigation of journalistic stories by way of data perspectives and statistical methods.
 
 * The Data Journalism Handbook [DataJournalism / Book](http://datajournalismhandbook.org/1.0/en/index.html)
 
