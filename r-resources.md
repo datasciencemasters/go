@@ -16,6 +16,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
+ * Data Science Specialization Track [John Hopkins / Coursera / 9 Courses](http://bit.ly/1aGHOlp)
  
 #### Statistical Learning with R
 
@@ -33,6 +34,8 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
+ * Machine Learning for Hackers [O'Reilly / Book ```$33.35```](http://amzn.com/1449303714)
+ * Practical Machine Learning [John Hopkins / Coursera Course](https://www.coursera.org/course/predmachlearn)
 
 #### R Libraries
 
