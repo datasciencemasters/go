@@ -2,6 +2,10 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 ### Data Science Specializations & Use Cases
 
+#### Machine Learning
+
+* Neural Networks for Machine Learning [U Toronto / Coursera](https://www.coursera.org/course/neuralnets)
+
 #### Web Scraping & Crawling
 
 * Introduction to WebAPIs including Twitter, Youtube, BitLy, Sunlight Foundation [CodeAcademy](http://www.codecademy.com/tracks/apis)
