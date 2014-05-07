@@ -2,13 +2,13 @@ _[I'm adding this section due to the great materials centering on applied method
 
 ### Basic Programming and Useful Tools
 
-* **Learning Programming**
+#### **Learning Programming**
 
  * [Codecademy](http://www.codecademy.com/)
 
-* **GIT** (Source control)
+#### **GIT** (Source control)
 
  * Git tutorial [Tutorial](http://gitimmersion.com/lab_01.html)
 
-* **Startups and Programming**
+#### **Startups and Programming**
  * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granualar, stepwise course explaining how to built an application from scratch._
