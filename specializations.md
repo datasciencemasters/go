@@ -6,7 +6,9 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 * Neural Networks for Machine Learning [U Toronto / Coursera](https://www.coursera.org/course/neuralnets)
 
-#### Deep Learning [definition](http://en.wikipedia.org/wiki/Deep_learning)
+#### Deep Learning 
+
+[Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
 
 #### Web Scraping & Crawling
 
