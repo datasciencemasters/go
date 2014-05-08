@@ -145,7 +145,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 
 ### Datasets Sources
-_NB These are being migrated to (datasets.md)[https://github.com/datasciencemasters/go/blob/master/datasets.md]_
+_NB These are being migrated to [datasets.md](https://github.com/datasciencemasters/go/blob/master/datasets.md)_
 * [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 * [Stanford Network Analysis Project](https://snap.stanford.edu/)
 * Data Science Contests [Kaggle] (https://www.kaggle.com/)
