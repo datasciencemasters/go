@@ -48,6 +48,7 @@ Start here.
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
+ * Differential Equations in Data Science (Python Tutorial)[http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb]
 
 * **Statistics**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
