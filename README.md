@@ -55,7 +55,7 @@ Start here.
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
 
 * **Differential Equations & Calculus**
- * Differential Equations in Data Science (Python Tutorial)[http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb]
+ * Differential Equations in Data Science [Python Tutorial](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
