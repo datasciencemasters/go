@@ -48,12 +48,14 @@ Start here.
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
- * Differential Equations in Data Science [Python Tutorial](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 
 * **Statistics**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats/) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
+
+* **Differential Equations & Calculus**
+ * Differential Equations in Data Science (Python Tutorial)[http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb]
 
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
