@@ -44,6 +44,10 @@ Start here.
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
+* Data Science with Open Source Tools [Book](http://it-ebooks.info/book/624/)
+  * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
+  * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
+
 ### Math
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
@@ -125,6 +129,8 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
+ * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [PostgreSQL](https://pypi.python.org/pypi/psycopg2) [AWS](https://boto.readthedocs.org/en/latest/)
+ * Testing [nosetests](https://nose.readthedocs.org/en/latest/)
 
 ### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
