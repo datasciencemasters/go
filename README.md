@@ -50,6 +50,7 @@ Start here.
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
 
 * **Statistics**
+ * Statistics One [Princeton / Coursera](https://www.coursera.org/course/stats1) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats/) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
