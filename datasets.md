@@ -4,6 +4,7 @@
 
 * [UCI Machine Learning Dataset Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Machine Learning Dataset Repository](http://mldata.org/)
+* [Deep Learning Datasets](http://deeplearning.net/datasets/) for benchmarking deep learning algorithms
 
 #### Clean Sample Data (for Learning New Techniques)
 
