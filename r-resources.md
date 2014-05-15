@@ -48,3 +48,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### R Datasets
 
  * [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/)
+
+#### R Blogs & Media
+
+ * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
