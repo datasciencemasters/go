@@ -5,3 +5,4 @@
 ### Blogs
 
 * [Data Science Weekly](http://www.datascienceweekly.org/blog)
+* [FastML](http://fastml.com/)
