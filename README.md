@@ -177,6 +177,6 @@ Please Share and Contribute Your Ideas -- **it's Open Source!**
 
 Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell).
 
-Please **showcase your own specialization & transcript** by submitting a markdown file pull request with your name! eg ```clare-corthell-transcript.md```
+Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg ```clare-corthell-2014.md```
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
