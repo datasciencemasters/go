@@ -130,7 +130,6 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
  * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [PostgreSQL](https://pypi.python.org/pypi/psycopg2) [AWS](https://boto.readthedocs.org/en/latest/)
- * Testing [nosetests](https://nose.readthedocs.org/en/latest/)
 
 ### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
