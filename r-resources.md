@@ -44,3 +44,11 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
  * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
  * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
+
+#### R Datasets
+
+ * [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/)
+
+#### R Blogs & Media
+
+ * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers

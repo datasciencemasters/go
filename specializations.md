@@ -5,10 +5,14 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 #### Machine Learning
 
 * Neural Networks for Machine Learning [U Toronto / Coursera](https://www.coursera.org/course/neuralnets)
+* [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book) [source code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 #### Deep Learning 
 
 [Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
+
+* Deep Learning [Tutorials](http://deeplearning.net/tutorial/)
+* Deep Learning Course [Stanford / OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
 
 #### Web Scraping & Crawling
 
@@ -17,6 +21,10 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 * [Six tools for web-scraping](http://www.notprovided.eu/six-tools-web-scraping-use-data-journalism-creating-insightful-content/)
 * Web scraping [NewCoder / Tutorial](http://newcoder.io/scrape/)
 * Working with Web APIs [NewCoder / Tutorial](http://newcoder.io/api/)
+
+#### Visualization
+
+* [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 
 #### Social Network Analysis
 

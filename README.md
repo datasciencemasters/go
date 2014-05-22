@@ -43,6 +43,8 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 Start here.
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+* **Haravard CS 109 Data Science** [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
+ * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
 * Data Science with Open Source Tools [Book](http://it-ebooks.info/book/624/)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
@@ -54,6 +56,7 @@ Start here.
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
 
 * **Statistics**
+ * Statistics One [Princeton / Coursera](https://www.coursera.org/course/stats1) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats/) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
@@ -129,7 +132,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
- * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [PostgreSQL](https://pypi.python.org/pypi/psycopg2) [AWS](https://boto.readthedocs.org/en/latest/)
+ * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [AWS](https://boto.readthedocs.org/en/latest/)
 
 ### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
@@ -179,6 +182,6 @@ Please Share and Contribute Your Ideas -- **it's Open Source!**
 
 Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell).
 
-Please **showcase your own specialization & transcript** by submitting a markdown file pull request with your name! eg ```clare-corthell-transcript.md```
+Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg ```clare-corthell-2014.md```
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
