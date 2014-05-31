@@ -41,14 +41,19 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 ## The Open Source Data Science Curriculum
 
 Start here.
-* **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
+**Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
-* **Haravard CS 109 Data Science** [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
+
+**Data Science** / Harvard [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
-* Data Science with Open Source Tools [Book](http://it-ebooks.info/book/624/)
+Data Science with Open Source Tools [Book](http://amzn.to/1m0ZXfk)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
+
+### A Note About Direction
+This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
+Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md).
 
 ### Math
 * **Linear Algebra & Programming**
@@ -124,18 +129,33 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
- * Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
- * [Data Science in IPython Notebooks](http://nborwankar.github.io/LearnDataScience/) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [Python Scientific Lecture Notes: Python, NumPy, SciPy, SymPy, Matplotlib, scikit-learn](http://scipy-lectures.github.io/)
- * Bayesian Inference | [pymc](https://github.com/pymc-devs/pymc)
- * Labeled data structures objects, statistical functions, etc [pandas](https://github.com/pydata/pandas) (See: Python for Data Analysis)
- * Python wrapper for the Twitter API [twython](https://github.com/ryanmcgrath/twython)
- * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
- * Network Modeling & Viz [networkx](http://networkx.github.io/)
- * Natural Language Toolkit [NLTK](http://nltk.org/)
- * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [AWS](https://boto.readthedocs.org/en/latest/)
+Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
+Using Python Scientifically [Python, NumPy, SciPy, SymPy, Matplotlib, scikit-learn](http://scipy-lectures.github.io/)
 
-### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
+ * **Analysis Packages**
+   * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](https://github.com/pydata/pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+
+ * **Machine Learning Packages**
+   * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
+
+ * **Networks**
+   * Network Modeling & Viz [networkx](http://networkx.github.io/)
+
+ * **Statistical Packages**
+   * Bayesian Inference | [pymc](https://github.com/pymc-devs/pymc)
+
+ * **Natural Language Processing & Understanding **
+   * Natural Language Toolkit [NLTK](http://nltk.org/)
+
+ * **Live Data Packages**
+   * Python wrapper for the Twitter API [twython](https://github.com/ryanmcgrath/twython)
+
+* **iPython Data Science Notebooks**
+ * [Data Science in IPython Notebooks](http://nborwankar.github.io/LearnDataScience/) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
+
+#### Datasets are now [here](https://github.com/datasciencemasters/go/edit/master/datasets.md)
+
+#### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
 ### Capstone Project
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
@@ -143,7 +163,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](https://www.coursolve.org/need/54)
 
 ***
-### Further Study Resources
+### Resources
 * The "Hacker News" of Data Science [DataTau](http://www.datatau.com)
 * [Coursera](http://coursera.org)
 * [Khan Academy](https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability)
@@ -156,33 +176,15 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
 
-### Datasets Sources
-_NB These are being migrated to [datasets.md](https://github.com/datasciencemasters/go/blob/master/datasets.md)_
-* [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
-* [Stanford Network Analysis Project](https://snap.stanford.edu/)
-* Data Science Contests [Kaggle] (https://www.kaggle.com/)
-* [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
-* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
-http://archive.ics.uci.edu/ml/datasets.html)
-* [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
-* USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
-* [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
-
 ***
 
 ### Notation
 Paid books, courses, and resources are noted with ```$```.
 
-### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
-Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md).
-
 ## Contribute
 
-Please Share and Contribute Your Ideas -- **it's Open Source!**
+Please Contribute Your Ideas -- **this is Open Source!**
 
-Here's [my transcript](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell).
-
-Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg ```clare-corthell-2014.md```
+Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg [```clare-corthell-2014.md```](https://github.com/datasciencemasters/go/wiki/%5BTranscript%5D-Clare-Corthell)
 
 [Follow me on Twitter @clarecorthell](http://twitter.com/clarecorthell)
