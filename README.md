@@ -46,6 +46,10 @@ Start here.
 * **Haravard CS 109 Data Science** [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
+* Data Science with Open Source Tools [Book](http://it-ebooks.info/book/624/)
+  * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
+  * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
+
 ### Math
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
@@ -128,6 +132,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
  * Network Modeling & Viz [networkx](http://networkx.github.io/)
  * Natural Language Toolkit [NLTK](http://nltk.org/)
+ * Database querying libraries [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) [AWS](https://boto.readthedocs.org/en/latest/)
 
 ### R resources are now [here](https://github.com/datasciencemasters/go/blob/master/r-resources.md)
 
