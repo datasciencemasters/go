@@ -155,6 +155,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
+* [Wikibooks - Data Science: An Introduction](http://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
 
 ### Datasets Sources
 _NB These are being migrated to [datasets.md](https://github.com/datasciencemasters/go/blob/master/datasets.md)_
