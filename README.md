@@ -55,7 +55,7 @@ Start here.
  * Statistics One [Princeton / Coursera](https://www.coursera.org/course/stats1) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats/) & [Book ```$25```](http://amzn.to/RcVnTf)
- * Think Bayes [Allen Downey / Book](http://www.greenteapress.com/thinkbayes/)
+ * Think Bayes [Digital](http://www.greenteapress.com/thinkbayes/) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 * **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
@@ -78,9 +78,9 @@ Start here.
  * Introduction to Databases [Stanford / Online Course](http://class2go.stanford.edu/db/Winter2013/)
 
 * **Data Mining**
- * Mining Massive Data Sets [Stanford / Online Book](http://i.stanford.edu/~ullman/mmds.html)
+ * Mining Massive Data Sets [Stanford / Digital](http://i.stanford.edu/~ullman/mmds.html) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
- * Introduction to Information Retrieval [Stanford / Book](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+ * Introduction to Information Retrieval / Stanford [Digital](http://nlp.stanford.edu/IR-book/information-retrieval-book.html) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
@@ -88,7 +88,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Machine Learning [Ng Stanford / Coursera](https://www.coursera.org/course/ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * The Elements of Statistical Learning [Stanford / Digital Book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^
+ * The Elements of Statistical Learning / Stanford [Digital](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)^ & [Book ```$80```](http://amzn.to/1hmyKry)
  * Machine Learning [Caltech / Edx](http://work.caltech.edu/lectures.html)
  * Neural Networks [U Toronto / Coursera](https://class.coursera.org/neuralnets-2012-001)
 
@@ -97,7 +97,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabalistic Graphical Models [Stanford / Coursera](https://www.coursera.org/course/pgm)
 
 * **Natural Language Processing**
- * NLP with Python (NLTK library) [Digital Book](http://nltk.org/book/), [Paper Book ```$36```](http://amzn.to/1iMrDIp)
+ * NLP with Python (NLTK library) [Digital](http://nltk.org/book/), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
  * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
@@ -114,9 +114,9 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
 * **Python** (Learning)
- * Learn Python the Hard Way [eBook](http://learnpythonthehardway.org/)
+ * Learn Python the Hard Way [Digital](http://learnpythonthehardway.org/) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://code.google.com/edu/languages/google-python-class/)
- * [Think Python](http://www.greenteapress.com/thinkpython/)
+ * Think Python [Digital](http://www.greenteapress.com/thinkpython/) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
@@ -144,7 +144,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 * [Metacademy](http://www.metacademy.org)
 * [Wolfram Alpha](http://www.wolframalpha.com/input/?i=torus)
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
-* The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$```](http://amzn.to/1hoxQoG)
+* The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
 * Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
