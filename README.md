@@ -44,10 +44,10 @@ Start here.
 **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
-**Data Science** / Harvard [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) [Class Webpage](http://cs109.org)
+**Data Science** / Harvard [Video Archive](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [Course](http://cs109.org)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
-Data Science with Open Source Tools [Book](http://amzn.to/1m0ZXfk)
+**Data Science with Open Source Tools** [Book](http://amzn.to/1m0ZXfk)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
 
