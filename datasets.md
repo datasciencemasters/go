@@ -14,6 +14,21 @@
 * [Scikit-learn sample datasets](http://scikit-learn.org/stable/datasets/index.html)
 * [Statsmodels datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
 
+
+#### Networks
+* [Stanford Network Analysis Project](https://snap.stanford.edu/)
+
 #### Raw Dataz
 
 * [The Guardian / Datasets](http://www.theguardian.com/news/datablog/interactive/2013/jan/14/all-our-datasets-index)
+* [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
+* [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
+* USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+
+### Datasets Sources
+
+* [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
+
+### Curated Lists of Datasets
+
+* [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
