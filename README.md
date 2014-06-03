@@ -137,26 +137,25 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](https://github.com/pydata/pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
  * **Machine Learning Packages**
-   * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
+   * [scikit-learn](http://scikit-learn.org/stable/) - Tools for Data Mining & Analysis 
 
  * **Networks Packages**
-   * Network Modeling & Viz [networkx](http://networkx.github.io/)
+   * [networkx](http://networkx.github.io/) - Network Modeling & Viz 
 
  * **Statistical Packages**
-   * Bayesian Inference | [pymc](https://github.com/pymc-devs/pymc)
-   * [Statsmodels](http://statsmodels.sourceforge.net/) Python module that allows users to explore data, estimate statistical models, and perform statistical tests
-   * Multivariate Pattern Analysis in Python [PyMVPA](http://www.pymvpa.org/)
-   * Markov Chain Monte Carlo sampling toolkit [PyMC](https://pypi.python.org/pypi/pymc)
+   * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
+   * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+   * [PyMVPA](http://www.pymvpa.org/) - Multivariate Pattern Analysis in Python 
 
  * **Natural Language Processing & Understanding**
-   * Natural Language Toolkit [NLTK](http://nltk.org/)
-   * [Gensim](https://pypi.python.org/pypi/gensim) Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+   * [NLTK](http://nltk.org/) - Natural Language Toolkit 
+   * [Gensim](https://pypi.python.org/pypi/gensim) - Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Live Data Packages**
-   * Python wrapper for the Twitter API [twython](https://github.com/ryanmcgrath/twython)
+   * [twython](https://github.com/ryanmcgrath/twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
-   * [Orange](http://orange.biolab.si/) Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
+   * [Orange](http://orange.biolab.si/) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://nborwankar.github.io/LearnDataScience/) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
@@ -172,14 +171,14 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 
 ***
 ### Resources
-* The "Hacker News" of Data Science [DataTau](http://www.datatau.com)
+* [DataTau](http://www.datatau.com) - The "Hacker News" of Data Science 
 * [Coursera](http://coursera.org)
 * [Khan Academy](https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/term-life-insurance-and-death-probability)
 * [Metacademy](http://www.metacademy.org)
 * [Wolfram Alpha](http://www.wolframalpha.com/input/?i=torus)
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
 * The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
-* Zipfian Academy's [List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
+* [Zipfian Academy's List of Resources](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 * Data Scientist Interviews [Metamarkets](http://metamarkets.com/category/data-science/)
 * /r/MachineLearning [Reddit](http://www.reddit.com/r/machinelearning)
