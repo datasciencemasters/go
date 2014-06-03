@@ -132,23 +132,30 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
 Using Python Scientifically [Python, NumPy, SciPy, SymPy, Matplotlib, scikit-learn](http://scipy-lectures.github.io/)
 
- * **Analysis Packages**
+ * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](https://github.com/pydata/pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
  * **Machine Learning Packages**
    * Tools for Data Mining & Analysis [scikit-learn](http://scikit-learn.org/stable/)
 
- * **Networks**
+ * **Networks Packages**
    * Network Modeling & Viz [networkx](http://networkx.github.io/)
 
  * **Statistical Packages**
    * Bayesian Inference | [pymc](https://github.com/pymc-devs/pymc)
+   * [Statsmodels](http://statsmodels.sourceforge.net/) Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+   * Multivariate Pattern Analysis in Python [PyMVPA](http://www.pymvpa.org/)
+   * Markov Chain Monte Carlo sampling toolkit [PyMC](https://pypi.python.org/pypi/pymc)
 
  * **Natural Language Processing & Understanding **
    * Natural Language Toolkit [NLTK](http://nltk.org/)
+   * [Gensim](https://pypi.python.org/pypi/gensim) Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Live Data Packages**
    * Python wrapper for the Twitter API [twython](https://github.com/ryanmcgrath/twython)
+
+ * **Visualization Packages**
+   * [Orange](http://orange.biolab.si/) Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://nborwankar.github.io/LearnDataScience/) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
