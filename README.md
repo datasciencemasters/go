@@ -122,13 +122,13 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
-* **Python** (Learning)
+#### **Python** (Learning)
  * Learn Python the Hard Way [Digital](http://learnpythonthehardway.org/) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://code.google.com/edu/languages/google-python-class/)
  * Think Python [Digital](http://www.greenteapress.com/thinkpython/) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
-* **Python** (Libraries)
+#### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/) & [Using Python Scientifically](http://scipy-lectures.github.io/)
 
 _More Libraries can be found in related [specialiaztions](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
@@ -148,7 +148,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
    * Multivariate Pattern Analysis in Python [PyMVPA](http://www.pymvpa.org/)
    * Markov Chain Monte Carlo sampling toolkit [PyMC](https://pypi.python.org/pypi/pymc)
 
- * **Natural Language Processing & Understanding **
+ * **Natural Language Processing & Understanding**
    * Natural Language Toolkit [NLTK](http://nltk.org/)
    * [Gensim](https://pypi.python.org/pypi/gensim) Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
