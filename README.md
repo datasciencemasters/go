@@ -129,8 +129,9 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 * **Python** (Libraries)
-Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/)
-Using Python Scientifically [Python, NumPy, SciPy, SymPy, Matplotlib, scikit-learn](http://scipy-lectures.github.io/)
+Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/) & [Using Python Scientifically](http://scipy-lectures.github.io/)
+
+_More Libraries can be found in related [specialiaztions](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](https://github.com/pydata/pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
