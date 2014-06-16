@@ -116,6 +116,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Visualization**
  * Envisioning Information (Information Visualization) [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * Data Visualization, CS 171 [Harvard / Lectures](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
+ * Data Visualization, CSE512 [University of Washington / Slides](http://courses.cs.washington.edu/courses/cse512/14wi/)
  * Scott Murray's Tutorial on D3 [Blog / Tutorials](http://alignedleft.com/tutorials/)
  * Berkely's Viz Class [UC Berkeley / Course Docs](http://vis.berkeley.edu/courses/cs294-10-sp11/wiki/index.php/CS294-10_Visualization)
  * Rice University's Data Viz class [Rice University](http://had.co.nz/stat645/)
