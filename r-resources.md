@@ -16,7 +16,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
- * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.com/1449358659)
+ * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
  
 #### Statistical Learning with R
 
