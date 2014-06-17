@@ -166,6 +166,10 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 
 #### R resources are now [here](http://bit.ly/osdsm-rresources)
 
+### Data Science as a Profession
+
+ * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
+
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
