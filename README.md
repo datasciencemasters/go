@@ -105,13 +105,17 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
+* **Network & Graph Analysis**
+ * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
+ * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
+
 * **Natural Language Processing**
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
  * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
- * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
+ * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
 * **Visualization**
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
