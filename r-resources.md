@@ -53,3 +53,5 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### R Blogs & Media
 
  * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
+####R interactive visualizations 
+ * [Shiny](http://shiny.rstudio.com/) Interactive web application framework for R
