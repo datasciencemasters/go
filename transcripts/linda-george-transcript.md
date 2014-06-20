@@ -2,44 +2,46 @@
 
 Transcript for L. George
 
-January 2013 - August 2014 (expected)
+(snapshot as of June 20th, 2014)
 <br><br>
 ###Data Science / Analytics Coursework
 
-Data Analysis: Applied statistics course, data analysis using R. Coursera/Johns Hopkins U. Completed 3/22/13. 
+Data Analysis: Applied statistics course using R. Coursera/Johns Hopkins U. Completed 3/22/13. 
 
-Computing for Data Analysis: The use of R for effective data analysis. Coursera/Johns Hopkins U. Completed 4/17/13.
+Computing for Data Analysis: Using R for effective data analysis. Coursera/Johns Hopkins U. Completed 4/17/13.
 
-Web Intelligence and Big Data: Search, indexing, sentiment analysis, MapReduce, classification & clustering algorithms, Bayesian inference, and feature selection.  Tools: Python, SQLLite. Coursera/IIT Delhi. Completed 6/6/13. 
+Web Intelligence and Big Data: Search, indexing, sentiment analysis, MapReduce, classification and clustering algorithms, Bayesian inference, and feature selection.  Tools: Python, SQLLite. Coursera/IIT Delhi. Completed 6/6/13. 
 
-Introduction to Data Science: SQL/NoSQL, Hadoop, MapReduce, statistical modeling and machine learning, sentiment analysis (via Twitter API), visualization. Tools: Python, R, SQLLite, Tableau. Coursera/U. of Washington. Completed 6/29/13.
+Introduction to Data Science: SQL/NoSQL, Hadoop, MapReduce, statistical modeling and machine learning, sentiment analysis (via Twitter API), visualization. Tools: Python, SQLLite, Tableau. Coursera/U. of Washington. Completed 6/29/13.
 
 Zipfian Academy data science training program (not open source): Q1-Q2, 2014.
+* Worked with a diverse range of analytic algorithms and approaches, including supervised and unsupervised machine learning, recommender systems, natural language processing, A/B testing, and methods for large-scale data storage and retrieval.  Languages: Python, MySQL.
+* Implemented WorkVibes, a summarization tool for company reviews. WorkVibes curates rich, distinctive content from review corpora, using part-of-speech tagging and aggregate TF-IDF weights to identify relevant opinions across large numbers of reviews. The data pipeline includes data acquisition from Glassdoor.com, HTML parsing, and the use of MySQL for storing reviews.
 
-Machine Learning: A range of machine learning approaches from regression to neural networks, anomaly detection, and machine learning at scale.  Coursera/Stanford. Estimated completion 6/10/14. 
+Machine Learning: Explored a range of machine learning approaches from regression to neural networks, anomaly detection, and machine learning at scale.  Coursera/Stanford. Completed 6/4/14. 
 
-Natural Language Processing. Coursera/Stanford.  To be completed in 2014. 
-
-Probabilistic Graphical Models. Coursera/Stanford. To be completed in 2014. 
 <br><br>
 ###Computing
-
-#### Software Engineering
+<br><br>
+####Software Engineering
 
 Introduction to Systematic Program Design: Modeling information and structuring programs in a systematic way. Coursera/U. of British Columbia. Completed 9/11/13.
 
-#### Database
+###Database
 MySQL Crash Course: Overview of MySQL.  Book/Forta. Completed 12/30/13. 
 
-Introduction to Databases. Coursera/Stanford. To be completed in 2014.  
+###Future steps
 
-#### Natural Language Processing
+Natural Language Processing. Coursera/Stanford
 
-Natural Language Processing with Python. Book/Bird, Klein & Loper. 
+Probabilistic Graphical Models. Coursera/Stanford. 
+
+Introduction to Databases. Coursera/Stanford.  
+
 <br><br>
-### My Background
+### Background
 
-Social psychologist with computer science background: [LinkedIn](http://www.linkedin.com/in/lindaggeorge)
+Social/personality psychologist with computer science background: [LinkedIn](http://www.linkedin.com/in/lindaggeorge)
 <br><br>
 ### Favorite resources:
 
@@ -48,3 +50,5 @@ Social psychologist with computer science background: [LinkedIn](http://www.link
 * ThinkPython book, A. Downey
 * Stack Overflow
 * Quora
+
+[Latest version of this transcript](bringdata.wordpress.com/transcript)
