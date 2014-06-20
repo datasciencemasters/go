@@ -1,9 +1,8 @@
-#Open Source Data Science
+###Open Source Data Science
 
 Transcript for L. George
-
 (snapshot as of June 20th, 2014)
-<br><br>
+
 ###Data Science / Analytics Coursework
 
 Data Analysis: Applied statistics course using R. Coursera/Johns Hopkins U. Completed 3/22/13. 
@@ -20,9 +19,8 @@ Zipfian Academy data science training program (not open source): Q1-Q2, 2014.
 
 Machine Learning: Explored a range of machine learning approaches from regression to neural networks, anomaly detection, and machine learning at scale.  Coursera/Stanford. Completed 6/4/14. 
 
-<br><br>
 ###Computing
-<br><br>
+
 ####Software Engineering
 
 Introduction to Systematic Program Design: Modeling information and structuring programs in a systematic way. Coursera/U. of British Columbia. Completed 9/11/13.
@@ -38,11 +36,10 @@ Probabilistic Graphical Models. Coursera/Stanford.
 
 Introduction to Databases. Coursera/Stanford.  
 
-<br><br>
 ### Background
 
 Social/personality psychologist with computer science background: [LinkedIn](http://www.linkedin.com/in/lindaggeorge)
-<br><br>
+
 ### Favorite resources:
 
 * Coursera
@@ -51,4 +48,4 @@ Social/personality psychologist with computer science background: [LinkedIn](htt
 * Stack Overflow
 * Quora
 
-[Latest version of this transcript](bringdata.wordpress.com/transcript)
+[Latest version of this transcript](http://bringdata.wordpress.com/transcript)
