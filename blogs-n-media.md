@@ -5,8 +5,21 @@
 
 ### Blogs
 
-* [Data Science Weekly](http://www.datascienceweekly.org/blog)
-* [FastML](http://fastml.com/)
 * [Shape of Data](http://shapeofdata.wordpress.com/)
 * [yhat](http://blog.yhathq.com/)
+
+#### Machine Learning
+
+* [FastML](http://fastml.com/)
+
+#### Data Science as a Profession
+
+* [Data Science Weekly](http://www.datascienceweekly.org/blog)
+
+#### Learning Data Science
+
 * [A Journey into Data Science](http://ajourneyintodatascience.com/)
+
+#### Personal Blogs & Commentary
+
+* [Pythonic Perambulations](https://jakevdp.github.io/) - Musings and ramblings through the world of Python and beyond
