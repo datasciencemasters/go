@@ -11,6 +11,7 @@
 #### Machine Learning
 
 * [FastML](http://fastml.com/)
+* [Python for Machine Learning](http://pythonformachinelearning.wordpress.com/)
 
 #### Data Science as a Profession
 
