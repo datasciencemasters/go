@@ -56,6 +56,10 @@ This is an introduction geared toward those with at least **a minimum understand
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
 
 ### Math
+
+[★ What are some good resources for learning about numerical analysis? / Quora ]
+(http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
+
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
