@@ -20,6 +20,7 @@
 
 #### Raw Dataz
 
+* [OpenFlights Airports Database](http://openflights.org/data.html) - Airport, airline and route data; 6977 airports
 * [The Guardian / Datasets](http://www.theguardian.com/news/datablog/interactive/2013/jan/14/all-our-datasets-index)
 * [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
