@@ -169,6 +169,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
+ * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
 
 #### Datasets are now [here](http://bit.ly/osdsm-datasets)
 
