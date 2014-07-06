@@ -100,14 +100,15 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Machine Learning**
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
+ * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn)^ & [Book ```$80```](http://amzn.to/1hmyKry)
- * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
- * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
+ * Machine Learning for Hackers - Python port [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
 
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+ * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
 * **Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
