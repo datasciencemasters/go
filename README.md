@@ -86,8 +86,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](http://bit.ly/stanford-introdatabases)
  * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
- * SQL Tutorial [w3schools / Tutorials](http://bit.ly/tut-w3schools-sql)
- * SQL Tutorial [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
+ * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
