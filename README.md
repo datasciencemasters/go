@@ -84,9 +84,10 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
 * **Databases**
+ * Introduction to Databases [Stanford / Online Course](http://bit.ly/stanford-introdatabases)
+ * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
  * SQL Tutorial [w3schools / Tutorials](http://bit.ly/tut-w3schools-sql)
  * SQL Tutorial [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
- * Introduction to Databases [Stanford / Online Course](http://bit.ly/stanford-introdatabases)
 
 * **Data Mining**
  * Mining Massive Data Sets [Stanford / Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
