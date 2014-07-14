@@ -2,11 +2,9 @@
 
 ## The Open-Source Data Science Masters
 
+The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
+
 ### The Internet is Your Oyster
-
-I didn't want to wait. I wanted to work on things I care about **now**. Why sleep through grad school lectures tomorrow when you can hack on interesting questions today?
-
-*see [my transcript](http://bit.ly/corthelldata)*
 
 With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
 
