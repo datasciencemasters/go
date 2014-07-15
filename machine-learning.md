@@ -1,7 +1,7 @@
 
 ### Features
 
-* [tf-idf: text feature extraction](http://pyevolve.sourceforge.net/wordpress/?p=1589) [```scikit tf=idf```](http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents)
+* [tf-idf: text feature extraction](http://pyevolve.sourceforge.net/wordpress/?p=1589) [```scikit / tf-idf```](http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents)
 
 ### Models & Methods
 
