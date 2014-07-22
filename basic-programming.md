@@ -5,6 +5,7 @@ _[I'm adding this section due to the great materials centering on applied method
 #### **Learning Programming**
 
  * [Codecademy](http://www.codecademy.com/)
+ * [The Nature of Programming](http://natureofcode.com/book/introduction/) uses the art-and-science-world-esteemed `processing` language
 
 #### **Startups and Programming**
  * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granualar, stepwise course explaining how to built an application from scratch._
