@@ -96,12 +96,17 @@ Out of personal preference and need for focus, I geared the original curriculum 
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
 * **Machine Learning**
+
+ _Foundational & Theoretical_
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
+ * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
+
+ _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn)^ & [Book ```$80```](http://amzn.to/1hmyKry)
- * Machine Learning for Hackers - Python port [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
+ * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
+ * Intro to scikit-learn, SciPy2013 [youtube tutorials](bit.ly/scikit-video-tuts)
 
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
