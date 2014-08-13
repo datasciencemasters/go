@@ -121,13 +121,18 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
 * **Visualization**
- * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
- * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
- * Data Visualization, CS 171 [Harvard / Lectures](http://bit.ly/harvard-dataviz)
- * Data Visualization, CSE512 [University of Washington / Slides](http://bit.ly/uw-dataviz)
- * Scott Murray's Tutorial on D3 [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
- * Berkely's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
- * Rice University's Data Viz class [Rice University](http://bit.ly/riceu-viz)
+ * _Foundational Books_
+  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
+  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
+
+ * _Theoretical Courses_
+  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
+  * Berkeley's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
+  * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
+
+ * _Tutorial & Libraries_
+  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
+  * Interactive Data Visualization for the Web / Scott Murray [Online Book](bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
@@ -200,7 +205,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 ***
 
 ### Notation
-Paid books, courses, and resources are noted with ```$```.
+Non-Open-Source books, courses, and resources are noted with ```$```.
 
 ## Contribute
 
