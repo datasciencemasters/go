@@ -120,20 +120,22 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
+### Data Design
+
 * **Visualization**
 
- _Foundational Books_
+ _Foundational Information Design Books_
 
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
 
- _Theoretical Courses_
+ _Theoretical Courses / Design & Visualization_
 
  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
  * Berkeley's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
  * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
 
- _Tutorial & Libraries_
+ _Practical Visualization Resources_
 
  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
