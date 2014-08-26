@@ -1,7 +1,9 @@
 
 ### Features
 
-* [tf-idf: text feature extraction](http://pyevolve.sourceforge.net/wordpress/?p=1589) [```scikit / tf-idf```](http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents)
+* [tf-idf: text feature extraction](http://pyevolve.sourceforge.net/wordpress/?p=1589)
+ * def: [```scikit / tf-idf```](http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents)
+* [Vectorization and Features in sci-kit (ipynb)](http://nbviewer.ipython.org/github/bigsnarfdude/machineLearning/blob/master/Vectorizing.ipynb)
 
 ### Models & Methods
 
