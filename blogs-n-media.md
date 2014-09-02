@@ -24,3 +24,4 @@
 #### Personal Blogs & Commentary
 
 * [Pythonic Perambulations](https://jakevdp.github.io/) - Musings and ramblings through the world of Python and beyond
+* [On the lambda](http://www.onthelambda.com/)
