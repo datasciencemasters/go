@@ -6,6 +6,7 @@ _[I'm adding this section due to the great materials centering on applied method
 
  * [Codecademy](http://www.codecademy.com/)
  * [The Nature of Programming](http://natureofcode.com/book/introduction/) uses the art-and-science-world-esteemed `processing` language
+ * [Python the Hard Way](http://learnpythonthehardway.org/book/) - my personal favorite Pythonic starting point.
 
 #### **Startups and Programming**
  * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granualar, stepwise course explaining how to built an application from scratch._
