@@ -180,6 +180,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
+   * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
