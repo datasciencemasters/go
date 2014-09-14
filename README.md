@@ -49,9 +49,9 @@ Start here.
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
 
-**The definitive guide to Data Science in Python** [IPython Cookbook e-book ```$30```](http://ipython-books.github.io/)
+**The Definitive Guide to Data Science in Python** [IPython Cookbook e-book ```$30```](http://ipython-books.github.io/)
   * *Data Science Topics:* Statistical Data Analysis (pandas, statsmodels, PyMC, R), Machine Learning with scikit-learn, Graphs Analysis with NetworkX, Interactive Data Visualization (matplotlib, Bokeh, seaborn, mpld3, D3.js, Vispy), Signal Processing (SciPy, scikit-image), Numerical Optimization, Simulations of Dynamical Systems
-  * *Advanced Programming Topics:* everything you need to know about the IPython notebook, including the interactive widgets, best practices in interactive computing (git, code quality, unit testing, profiling, code optimization...), high-performance computing (Cython, Numba, CUDA, OpenCL, Julia, and more)
+  * *Advanced Programming Topics for Data Analysis:* everything you need to know about the IPython notebook, including the interactive widgets, best practices in interactive computing (Git, code quality, unit testing, profiling, code optimization...), high-performance computing (Cython, Numba, CUDA, OpenCL, Julia, and more)
   
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
@@ -192,7 +192,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
- * [IPython Cookbook: 100+ Data Science Notebooks](https://github.com/ipython-books/cookbook-code)
+ * [100+ Data Science Notebooks](https://github.com/ipython-books/cookbook-code) from the [IPython Cookbook](http://ipython-books.github.io)
 
 #### Datasets are now [here](http://bit.ly/osdsm-datasets)
 
