@@ -49,6 +49,10 @@ Start here.
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
 
+**The definitive guide to Data Science in Python** [IPython Cookbook e-book ```$30```](http://ipython-books.github.io/)
+  * *Data Science Topics:* Statistical Data Analysis (pandas, statsmodels, PyMC, R), Machine Learning with scikit-learn, Graphs Analysis with NetworkX, Interactive Data Visualization (matplotlib, Bokeh, seaborn, mpld3, D3.js, Vispy), Signal Processing (SciPy, scikit-image), Numerical Optimization, Simulations of Dynamical Systems
+  * *Advanced Programming Topics:* everything you need to know about the IPython notebook, including the interactive widgets, best practices in interactive computing (git, code quality, unit testing, profiling, code optimization...), high-performance computing (Cython, Numba, CUDA, OpenCL, Julia, and more)
+  
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
@@ -107,6 +111,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
+ * Introduction to Machine Learning in Python with scikit-learn, [featured recipe](http://ipython-books.github.io/featured-04.html) from the [IPython Cookbook](http://ipython-books.github.io)
 
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
@@ -122,6 +127,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 
 * **Analysis**
  * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
+ * Learning IPython for Interactive Computing and Data Visualization [IPython mini-book, e-book at ```$16```](http://ipython.rossant.net/)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
@@ -186,6 +192,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
+ * [IPython Cookbook: 100+ Data Science Notebooks](https://github.com/ipython-books/cookbook-code)
 
 #### Datasets are now [here](http://bit.ly/osdsm-datasets)
 
