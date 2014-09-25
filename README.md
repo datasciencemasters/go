@@ -89,7 +89,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
- * Mining Massive Data Sets [Stanford / Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
+ * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
