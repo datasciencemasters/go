@@ -118,6 +118,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 * **Natural Language Processing**
+ * From Languages to Information / Stanford CS147 [Materials](http://web.stanford.edu/class/cs124/)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
