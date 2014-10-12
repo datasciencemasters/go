@@ -108,13 +108,15 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
-* **Statistical Network Analysis & Modeling**
+* **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
- * Neural Networks (Deep Learning) [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
+
+* **Deep Learning (Neural Networks)**
+ * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
-* **Network & Graph Analysis**
+* **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
