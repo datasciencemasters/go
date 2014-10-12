@@ -111,6 +111,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+ * Neural Networks (Deep Learning) [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
 * **Network & Graph Analysis**
