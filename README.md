@@ -1,6 +1,6 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
-Build cutting-edge Machine Learning applications with me at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](mailto:clare@mattermark.com)
+Build cutting-edge Machine Learning applications with me at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](mailto:clare+osdsm@mattermark.com)
 
 ## The Open-Source Data Science Masters
 
