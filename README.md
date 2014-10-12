@@ -1,5 +1,7 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
+Build cutting-edge Machine Learning applications with me at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](mailto:clare@mattermark.com)
+
 ## The Open-Source Data Science Masters
 
 The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
