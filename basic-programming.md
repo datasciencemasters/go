@@ -19,4 +19,4 @@ _[I'm adding this section due to the great materials centering on applied method
  * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granualar, stepwise course explaining how to built an application from scratch._
 
 #### **Testing**
- * [nosetests](https://nose.readthedocs.org/en/latest/)
+ * nosetests [lib docs](https://nose.readthedocs.org/en/latest/)
