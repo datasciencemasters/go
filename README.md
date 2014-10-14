@@ -1,45 +1,33 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
-
 ## The Open-Source Data Science Masters
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
+This is my forked version of the [Data Science Masters] (http://datasciencemasters.org/) open-source curriculum logging my journey.
 
-### The Internet is Your Oyster
+## Background
+[Personal Website]( andrewandrade.ca)
+[LinkedIn] (ca.linkedin.com/in/andrewandrade/)
+[Github](github.com/mrandrewandrade)
+[Hackster.io](hackster.io/mrandrewandrade)
 
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
+I am a University of Waterloo engineering undergraduate studying Mechatronics Engineering. My vision is to design, develop and depoy products which revolutionize the world.  My mission is to close the gap between idea execution and success, so my focus is on building robust production level systems.  
 
-### The Motivation
+ My prior experience is broad in scope and narrow in focus, constantly focusing on the most impact for minimal input. My previous internships and employement has been in  Mechanical, Electrical and Robotic Hardware Design and Manufacturing, Embedded Software Development, Petroleum Engineering (with a focus on reservoir and production engineering), and data science in addition to some soft leadership roles.  I am a co-founder of [PetroPredict] (petropredict.com) currently leading both the technology development and research conducted at the company.
 
-We need more Data Scientists.
-
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
-
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
-
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-
--- David Hardtke [How To Hire A Data Scientist](http://bit.ly/howtohireadatascientist) 13 Nov 2012
-
-### An Academic Shortfall
-
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
-
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
-
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
-
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
-
-### Ready?
-
-***
+My current focus and research and development interests are in quantative engineering in electromechnical integration related to machine learning, probalistic robotics, man-machine symbiosis, and knowledge discovery in databases.  
 
 ## The Open Source Data Science Curriculum
 
-Start here.
+###Prerequisites:
+I am a strong believer in building production level systems and also in efficiency and using the right tool for the job.  The prerequisites list here are not mandatory for data science, but I think provide both a good background and toolset to succeed as a data scientist.
 
+**Version Control**
+ * Using version control is definatly a must, and GIT has become a daily habit 
+ * If you are completly new, the Udacity course on [How to Use GIT and GitHub](https://www.udacity.com/course/ud775) is a great start
+ * [Git Immersion] (http://gitimmersion.com/) is also a great guide to get started
+ * [Pro Git] (http://gitimmersion.com/) is a very indepth guide to mostly everything you would need to learn git.
+ * [More tutorials] (http://sixrevisions.com/resources/git-tutorials-beginners/) if you are still having trouble
+ * [StackOverflow Examples] (http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide) 
+
+Backg
 New to data science with no experience in coding? Start with:
 **Datasmart** [Book](http://goo.gl/MVeKma)
   * *Topics:* The basics of data science in a nontrivial way, basic machine learning algorithms with implementation in Excel and R  
