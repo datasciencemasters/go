@@ -77,6 +77,9 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 ### Computing
+
+Get your environment up and running with the [Data Science Toolbox](http://datasciencetoolbox.org)
+
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
