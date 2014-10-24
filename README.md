@@ -89,7 +89,7 @@ Get your environment up and running with the [Data Science Toolbox](http://datas
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
 * **Databases**
- * Introduction to Databases [Stanford / Online Course](https://class.stanford.edu/courses/Engineering/db/2014_1/about)
+ * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
  * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
