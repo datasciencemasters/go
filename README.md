@@ -220,6 +220,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 * The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
+* [Airbnb Tech Talk: Josh Wills - The Life of a Data Scientist](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 * Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
 * /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 
