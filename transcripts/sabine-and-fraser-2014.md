@@ -11,12 +11,12 @@ We both originally studied Physics at Cambridge University before becoming an en
 
 ###Goals & Motivations of the Open Source M.S.
 
-Having worked as analysts before, we realised there was so much potential in data, if only we had the full technical skillset and statistical grounding to confidently unlock it. Therefore we began studying evenings and weekends to learn. But after realising the length of time this would take, we decided to commit ourselves fully for 6 months mimicking the structure of a masters course. The decision of open source relative to a conventional masters:
+Having worked as analysts before, we realised there was so much potential in data, if only we had the full technical skillset and statistical grounding to confidently unlock it. Therefore we began studying evenings and weekends to learn. But after realising the length of time this would take, we decided to commit ourselves fully for 6 months mimicking the structure of a masters course. The decision of open source relative to a conventional masters was based on:
 * 1. Cost
 * 2. Not as pressurised to attain a certificate due to prior education already achieved
 * 3. Outstanding quality of teaching and a focus on latest tools and techniques
 
-###Courses Completed Prior to studying full-time:
+###Courses Completed Prior to studying full-time
 * [Computing for Data Analysis](https://www.coursera.org/course/compdata) Coursera course from John Hopkins University - Learn how to program in R and how to use R for effective data analysis.
 * [Data Analysis](https://www.coursera.org/course/dataanalysis) Coursera course from John Hopkins University - Introduction to data analysis in the R statistical language.
 * [Machine Learning](https://class.coursera.org/ml-004) Coursera course based on Andrew Ng's Machine Learning course taught at Stanford University.
@@ -36,10 +36,10 @@ Having worked as analysts before, we realised there was so much potential in dat
 ###Projects
 * Created an interactive website using D3.js, and did some Bayesian statistical analysis of our study pattern:
 [Data Science Journey](http://datasciencejourney.com/)
-* Predicted ad click through rates using Kaggle platform. The GB training data enabled us to practise using of an [online learner](http://hunch.net/~vw/) algorithm. / [ipython notebook](http://nbviewer.ipython.org/github/fraser-campbell/Machine-Learning-Projects/blob/master/Avazu/Avazu%20Click%20Through%20Rate.ipynb)
+* Predicted ad click through rates using Kaggle platform. The GB sized training data enabled us to practise using an [online learner](http://hunch.net/~vw/) algorithm. / [ipython notebook](http://nbviewer.ipython.org/github/fraser-campbell/Machine-Learning-Projects/blob/master/Avazu/Avazu%20Click%20Through%20Rate.ipynb)
 * Bike rental prediction using Washington DC data provided by Kaggle. We used linear and log-linear regression methods as well as random forest algorithms to train our model. / [ipython notebook](http://nbviewer.ipython.org/github/fraser-campbell/Machine-Learning-Projects/blob/master/Bike%20Sharing/Bike%20Sharing.ipynb)
 
-###Some books we read or are still reading:
+###Some books we read or are still reading
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) A practical look at MCMC simulations with python libraries
 * Bayesian Data Analysis, Andrew Gelman: Book on applying Bayesian Methods
 * [Interactive Data Visualisation](http://alignedleft.com/tutorials/d3) Using D3.js to build visualisations in Javascript
