@@ -49,3 +49,5 @@ Having worked as analysts before, we realised there was so much potential in dat
 * [Programming Abstractions Course Reader](http://web.stanford.edu/class/cs106l/course-reader/full_course_reader.pdf) Textbook following Stanford's C++ Programming course
 
 * **The most valuable resources we found to practise what we learned, and learn more from practitioners was ####Kaggle
+
+#### The cost of this was 200+ coffees and we will always be grateful to the institutions that made education available to whoever would seize it.
