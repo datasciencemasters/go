@@ -24,14 +24,14 @@ Having worked as analysts before, we realised there was so much potential in dat
 * [Statistics One](https://class.coursera.org/ml-004) Coursera course based on Andrew Conway's course taught at Princeton University aimed at teaching the fundamental concepts in statistics
 
 ###The Data Science Curriculum / May-November 2014
-[Programming Abstractions](http://see.stanford.edu/errors/default.aspx?aspxerrorpath=/see/courseinfo.aspx) Stanford University's follow-up course to programming methodologies, teaching
+[Programming Abstractions](http://see.stanford.edu/errors/default.aspx?aspxerrorpath=/see/courseinfo.aspx) Stanford University's follow-up course to programming methodologies, teaching algorithms, recursion and software design
 [Natural Language Processing](https://class.coursera.org/nlangp-001) Coursera course on the application of computational models to text or speech data, based on Michael Collins's course from Columbia University
-[Statistics](https://www.udacity.com/course/viewer#!/c-st095) Udacity course
-[Stats 110](http://projects.iq.harvard.edu/stat110/home)
-[Databases](https://class.coursera.org/db) Coursera course 
-[Visualisation](http://www.cs171.org/#!index.md)
-[Data Science](http://cs109.org/)
-[Probabilistic Systems Analysis and Applied Probability](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+[Statistics](https://www.udacity.com/course/viewer#!/c-st095) Udacity courses introducing descriptive statistics, study design, t-tests, p-values and ANOVA
+[Stats 110](http://projects.iq.harvard.edu/stat110/home) A comprehensive introduction to statistics starting with probability theory. The course has a Bayesian focus and introduces the tools required for understanding statistical inference.
+[Databases](https://class.coursera.org/db) Coursera course on Databases, Relational Algebra and the SQL Language. It also contains chapters on XML and NoSQL.
+[Visualisation](http://www.cs171.org/#!index.md) Harvard University course on visualising information. It makes extensive use of the D3.js Javascript library to build interactive web visualisations while covering the theory behind human visual cognition.
+[Data Science](http://cs109.org/) Harvard University course covering the broad range of skills required to undertake projects as a Data Scientist and communicate your results. The Python development environment was taught and used extensively.
+[Probabilistic Systems Analysis and Applied Probability](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) We completed the final part of this MIT course, in order to practice statistical inference learnt in Stats 110 above.
 
 ###Projects
 * Created an interactive website using D3.js, and did some Bayesian statistical analysis of our study pattern:
@@ -48,4 +48,4 @@ Having worked as analysts before, we realised there was so much potential in dat
 * [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) This is often cited as the go-to reference for a rigorous mathematical explanation of stats and machine learning methods
 * [Programming Abstractions Course Reader](http://web.stanford.edu/class/cs106l/course-reader/full_course_reader.pdf) Textbook following Stanford's C++ Programming course
 
-**The most valuable resources we found to practise what we learned, and learn more from practitioners was Kaggle
+* **The most valuable resources we found to practise what we learned, and learn more from practitioners was ####Kaggle
