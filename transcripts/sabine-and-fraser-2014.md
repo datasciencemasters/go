@@ -48,6 +48,6 @@ Having worked as analysts before, we realised there was so much potential in dat
 * [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) This is often cited as the go-to reference for a rigorous mathematical explanation of stats and machine learning methods
 * [Programming Abstractions Course Reader](http://web.stanford.edu/class/cs106l/course-reader/full_course_reader.pdf) Textbook following Stanford's C++ Programming course
 
-The most valuable resources we found to practise what we learned, and learn more from practitioners was Kaggle
+The most valuable resources we found to practise what we learned, and learn more from practitioners was [Kaggle](https://www.kaggle.com/)
 
 #### The cost of this was 200+ coffees and we will always be grateful to the institutions that made education available to whoever would seize it.
