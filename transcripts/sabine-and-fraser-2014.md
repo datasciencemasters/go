@@ -12,9 +12,9 @@ We both originally studied Physics at Cambridge University before becoming an en
 ###Goals & Motivations of the Open Source M.S.
 
 Having worked as analysts before, we realised there was so much potential in data, if only we had the full technical skillset and statistical grounding to confidently unlock it. Therefore we began studying evenings and weekends to learn. But after realising the length of time this would take, we decided to commit ourselves fully for 6 months mimicking the structure of a masters course. The decision of open source relative to a conventional masters:
-	* 1. Cost
-	* 2. Not as pressurised to attain a certificate due to prior education already achieved
-	* 3. Outstanding quality of teaching and a focus on latest tools and techniques
+* 1. Cost
+* 2. Not as pressurised to attain a certificate due to prior education already achieved
+* 3. Outstanding quality of teaching and a focus on latest tools and techniques
 
 ###Courses Completed Prior to studying full-time:
 * [Computing for Data Analysis](https://www.coursera.org/course/compdata) Coursera course from John Hopkins University - Learn how to program in R and how to use R for effective data analysis
