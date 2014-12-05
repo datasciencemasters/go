@@ -65,6 +65,8 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
 
 * **Statistics**
+ * [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/download.html)
+ * [An Introduction to Statistical Learning](http://web.stanford.edu/~hastie/pub.htm)
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
