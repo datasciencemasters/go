@@ -172,6 +172,8 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 
  * **Machine Learning Packages**
    * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis 
+   * [theano](http://deeplearning.net/software/theano/) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
+   * [pylearn2](http://deeplearning.net/software/pylearn2/) - Pylearn2 is a machine learning library. Most of its functionality is built on top of Theano.
 
  * **Networks Packages**
    * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz 
