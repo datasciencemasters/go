@@ -23,7 +23,6 @@ Packages
 
 [Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
 
-* Unsupervised Feature Learning [Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) by Andrew Ng
 * Deep Learning [Tutorials](http://deeplearning.net/tutorial/)
 * Deep Learning Course [Stanford / OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
 
