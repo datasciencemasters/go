@@ -207,6 +207,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
+* Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 
 ***
 ### Resources
