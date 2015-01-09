@@ -165,7 +165,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
-_More Libraries can be found in related [specialiaztions](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
+_More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
