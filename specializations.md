@@ -37,6 +37,7 @@ Packages
 #### Visualization
 
 * [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [Data Maps using D3.js] (http://datamaps.github.io/)
 
 #### Social Network Analysis
 
