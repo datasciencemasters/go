@@ -21,3 +21,6 @@ _[Please help make this better!]_
 
 #### **Testing**
  * nosetests [lib docs](https://nose.readthedocs.org/en/latest/)
+
+#### **Software Engineering**
+ * Design Patterns [book](http://sourcemaking.com/design_patterns)
