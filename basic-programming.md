@@ -23,4 +23,4 @@ _[Please help make this better!]_
  * nosetests [lib docs](https://nose.readthedocs.org/en/latest/)
 
 #### **Software Engineering**
- * Design Patterns [book](http://sourcemaking.com/design_patterns)
+ * Design Patterns [Classic Book](http://amzn.to/1z5CSiz) & [Synopsis](http://sourcemaking.com/design_patterns)
