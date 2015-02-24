@@ -117,7 +117,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 
 * **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
- * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+ * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
 * **Deep Learning (Neural Networks)**
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
@@ -189,7 +189,7 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 
  * **Natural Language Processing & Understanding**
    * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
-   * [Gensim](http://bit.ly/py-gensim) - Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+   * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Live Data Packages**
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 

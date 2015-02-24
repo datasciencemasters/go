@@ -11,7 +11,7 @@ _[Please help make this better!]_
  * Python the Hard Way [Online Book & Tutorial](http://learnpythonthehardway.org/book/) - my personal favorite Pythonic starting point.
 
 #### **Startups and Software Engineering**
- * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granualar, stepwise course explaining how to built an application from scratch._
+ * Startup Engineering [Stanford / Coursera](https://class.coursera.org/startup-001) _NB: This is a full-stack class; explains development from conception to deployment. Great granular, stepwise course explaining how to built an application from scratch._
  * [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ### Programming Tools & key Python Resources
