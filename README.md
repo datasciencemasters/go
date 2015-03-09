@@ -1,9 +1,5 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs)
-
-Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
-
 ## The Open-Source Data Science Masters
 
 The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
@@ -243,3 +239,5 @@ Please Contribute Your Ideas -- **this is Open Source!**
 Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg [```clare-corthell-2014.md```](http://bit.ly/U6yVMU)
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+
+Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
