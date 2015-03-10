@@ -225,7 +225,7 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * Josh Wills - The Life of a Data Scientist / [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 * Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
-* 40+ Data Scientist / CEO / Academics Interviews [Analytics Handbook](https://www.teamleada.com/handbook)
+* [Analytics Handbook](https://www.teamleada.com/handbook) - 40+ Data Scientist / CEO / Academics Interviews 
 * /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 
 
