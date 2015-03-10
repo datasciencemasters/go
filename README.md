@@ -228,7 +228,6 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 * [Analytics Handbook](https://www.teamleada.com/handbook) - 40+ Data Scientist / CEO / Academics Interviews 
 * /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 
-
 ***
 
 ### Notation
