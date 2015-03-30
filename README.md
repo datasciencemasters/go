@@ -150,7 +150,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  _Practical Visualization Resources_
 
  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
- * Interactive Data Visualization for the Web / Scott Murray [Online Book](bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
+ * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
