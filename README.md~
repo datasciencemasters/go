@@ -104,7 +104,6 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
- * An Introduction to Statistical Learning with Applications in R/ Stanford [Digital](bit.ly/IntroStatLearning) & [Book ```$72.79```] (http://bit.ly/IntroStatLearningBook)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
 
  _Practical_
@@ -132,7 +131,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
- * Applied Predictive Modeling [Max Kuhn ```$80```](http://bit.ly/AppliedPredMod)
+
 ### Data Design
 
 * **Visualization**
@@ -141,14 +140,12 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
- * The Functional Art: An introduction to information graphics and visualization [Alberto Cairo ```$31```](http://bit.ly/FunctionalArt)
- * Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations [Isabel Meirelles ```$29```](http://bit.ly/DesignForInfo)
+
  _Theoretical Courses / Design & Visualization_
 
  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
  * Berkeley's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
  * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
- * Harvard's Data Viz class [Harvard University / Docs, Slides, Resources & Assignments](http://www.cs171.org/)
 
  _Practical Visualization Resources_
 
@@ -196,7 +193,6 @@ _More Libraries can be found in related [specializations](https://github.com/dat
  * **Visualization Packages**
    * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
-   * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
