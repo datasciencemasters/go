@@ -10,6 +10,10 @@
 * [R-Bloggers](http://www.r-bloggers.com/)
 * [Flowing Data](https://flowingdata.com/)
 
+#### News
+* [KDnuggets](http://www.kdnuggets.com/)
+* [FiveThirtyEight](http://fivethirtyeight.com/)
+
 #### Machine Learning
 
 * [FastML](http://fastml.com/)
