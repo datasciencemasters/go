@@ -61,15 +61,22 @@ Out of personal preference and need for focus, I geared the original curriculum 
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
+ * Linear Algebra (18.06) [MIT / Course](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
+ * Statistics (110) [Harvard / Course] (http://projects.iq.harvard.edu/stat110)
 
 * **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Single Variable Calculus (18.01) [MIT / Course] (http://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+ * Multi Variable Calculus (18.02SC) [MIT / Course](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+
+* **Convex Optimisation**
+ * Convex Optimisation [Stanford / Course](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
@@ -81,6 +88,8 @@ Get your environment up and running with the [Data Science Toolbox](http://datas
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
+ * Analysis of Algorithms (CSE373) [Stony Brook / Course](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+ * Introduction to Algorithms (6.006) [MIT / Course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 * **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
@@ -105,6 +114,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
+ * Machine Learning (10-701) [CMU / Course](https://www.cs.cmu.edu/~tom/10701_sp11/)
 
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
