@@ -226,6 +226,8 @@ _More Libraries can be found in related [specializations](https://github.com/dat
 * Josh Wills - The Life of a Data Scientist / [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 * Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
 * /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
+* [Awesome Datascience](https://github.com/okulbilisim/awesome-datascience)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ***
 
