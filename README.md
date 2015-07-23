@@ -167,7 +167,7 @@ Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPyt
 
  * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) (data structure library)
 
-_More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
+_More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
