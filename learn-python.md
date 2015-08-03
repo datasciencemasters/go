@@ -1,2 +1,2 @@
 ### Learn Python
-- [Learn Python Interactively / Dataquest](www.dataquest.io) `$35/mo`
+- [Learn Python Interactively / Dataquest](https://www.dataquest.io/course/learning-python) `$35/mo`
