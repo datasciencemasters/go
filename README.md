@@ -131,6 +131,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+ * An Example Data Science Process [ipynb](http://nbviewer.ipython.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb)
 
 ### Data Design
 
