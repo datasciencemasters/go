@@ -225,11 +225,11 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
+* [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
+* [/r/MachineLearning](http://bit.ly/1uANaEM)
 
 #### Watch
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
-* [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
-* [/r/MachineLearning](http://bit.ly/1uANaEM)
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
