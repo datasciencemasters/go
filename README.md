@@ -1,8 +1,10 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)
+
+I am the cofounder of a Machine Intelligence Strategy Consulting firm, [summer.ai](http://bit.ly/summerai)
 
 ## The Open-Source Data Science Masters
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
+The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
 
 ### The Internet is Your Oyster
 
@@ -216,18 +218,23 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ***
 ### Resources
 
+#### Read
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science 
+* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
+* [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
+* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
+* [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
+
+#### Watch
+* [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+* [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
+* [/r/MachineLearning](http://bit.ly/1uANaEM)
+
+#### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
 * [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
-* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
-* The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
-* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
-* [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
-* Josh Wills - The Life of a Data Scientist / [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
-* Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
-* /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 
 ***
 
