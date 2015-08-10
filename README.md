@@ -206,6 +206,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ### Data Science as a Profession
 
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
+ * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
 
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
