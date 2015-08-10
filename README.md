@@ -1,6 +1,6 @@
-Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)
+Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
-I am the cofounder of a Machine Intelligence Strategy Consulting firm, [summer.ai](http://bit.ly/summerai)
+I am the cofounder of [summer.ai](http://bit.ly/summerai), a Machine Intelligence Strategy Consulting firm.
 
 ## The Open-Source Data Science Masters
 
