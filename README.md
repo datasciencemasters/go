@@ -41,6 +41,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 ## The Open Source Data Science Curriculum
 
 Start here.
+
 **Intro to Data Science** [UW / Coursera](http://bit.ly/uwintrodatascience)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
