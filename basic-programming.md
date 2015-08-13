@@ -24,3 +24,8 @@ _[Please help make this better!]_
 
 #### **Software Engineering**
  * Design Patterns [Classic Book](http://amzn.to/1z5CSiz) & [Synopsis](http://sourcemaking.com/design_patterns)
+
+### Theory
+
+#### Algorithms
+ * [Visualizations of Sorting Algorithms](http://www.sorting-algorithms.com)
