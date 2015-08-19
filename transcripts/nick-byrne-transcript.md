@@ -1,11 +1,12 @@
 <h1>Nick Byrne Transcript</h1>
-**Open Source Data Science Masters**
+**Open Source Data Science Masters**<br>
+I'm currently looking for people to pair with, and work on a capstone project<br>
 
 Want to collaborate? Get in touch: 
- * [twitter](http://www.twitter.com/byrnenick)); or 
+ * [twitter](http://www.twitter.com/byrnenick); or 
  * [email](mailto:nick@thinkactlive.com)
 
-**OpenSource Data Science Masters Curriculum**
+**OpenSource Data Science Masters Curriculum**<br>
 Below is a planned curriculum that I'm looking to follow. As with life, I'm not expecting it to be followed linearly necessarily. And I may swap courses in and out as interesting things arise. 
 I do plan to take at least one element from all of the recommended themes published in the OpenSource Data Science masters. And I'm favouring online courses as it's obviously easier to stay honest with regards to progress over reading a book and claiming that you know the subject matter.
 
@@ -78,4 +79,4 @@ Analysis
 I would like to do a capstone project focused on using big data to understand workplace dynamics, and more appropriate hiring decisions. E.g. can we use big data to better understand an employees cultural fit? 
 As I progress through the curriculum, I'll better define the capstone project.
 
-If you'd like to pair up for the capstone, [let me know](http://www.twitter.com/byrnenick))
+If you'd like to pair up for the capstone, [let me know](http://www.twitter.com/byrnenick)
