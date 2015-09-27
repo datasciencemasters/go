@@ -48,6 +48,9 @@ Start here.
 **Data Science** / Harvard [Video Archive](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
+**Data Analyst Nanodegree** / Udacity [Course ```$199/mo```](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  * *Topics:* Data wrangling, data analysis, machine learning, statistics, data visualization, A/B testing. Get half your tuition back if completed within one year.
+
 **Data Science with Open Source Tools** [Book ```$27```](http://bit.ly/book-datasciencewithopensourcetools)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
