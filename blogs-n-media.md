@@ -35,4 +35,4 @@
 
 #### Podcasts
 * [Talking Machines](http://www.thetalkingmachines.com/)
-* [Partially Dervative](http://www.partiallyderivative.com/)
+* [Partially Derivative](http://www.partiallyderivative.com/)
