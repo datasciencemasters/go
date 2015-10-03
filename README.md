@@ -202,7 +202,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
 
-#### Datasets are now [here](http://bit.ly/osdsm-datasets)
+#### Datasets are now [here](https://github.com/datasciencemasters/go/blob/master/datasets.md)
 
 #### R resources are now [here](http://bit.ly/osdsm-rresources)
 
