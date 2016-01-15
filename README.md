@@ -64,6 +64,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 * **Linear Algebra & Programming**
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
+ * [The Manga Guide to Linear Algebra ```$19```](http://amzn.to/1n4hM5l)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
