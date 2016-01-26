@@ -62,9 +62,10 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
+ * Linear Algebra [Khan Academy / Videos](https://www.khanacademy.org/math/linear-algebra)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
- * [The Manga Guide to Linear Algebra ```$19```](http://amzn.to/1n4hM5l)
+ * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
