@@ -143,7 +143,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Visualization**
 
  _Data Visualization and Communication_
- * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$```](http://amzn.to/1UydGAc)
+ * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
 
  _Foundational Information Design Books_
 
