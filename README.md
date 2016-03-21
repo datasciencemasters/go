@@ -1,6 +1,6 @@
 Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
-I'm the cofounding partner of [summer.ai](http://bit.ly/summerai), a Machine Intelligence Consulting firm. Talk to us at **hello[at]summer.ai**!
+I'm the cofounding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
 
 ## The Open-Source Data Science Masters
 
@@ -141,6 +141,9 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 ### Data Design
 
 * **Visualization**
+
+ _Data Visualization and Communication_
+ * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$```](http://amzn.to/1UydGAc)
 
  _Foundational Information Design Books_
 
