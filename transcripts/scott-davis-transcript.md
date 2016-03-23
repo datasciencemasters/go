@@ -109,7 +109,7 @@ PostGIS/PostGRESQL:
 <h3>Data Design/Data Viz</h3>
  - [ ] [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be)
  - [ ] [Semiology of Graphics](http://www.amazon.com/Semiology-Graphics-Diagrams-Networks-Maps/dp/1589482611)
- - [ ] [Visual Complexity Mapping Patterns of Information](hhttp://www.visualcomplexity.com/vc/book/)
+ - [ ] [Visual Complexity Mapping Patterns of Information](http://www.visualcomplexity.com/vc/book/)
  - [ ] [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi)
  - [ ] [Design for Information](http://isabelmeirelles.com/book-design-for-information/)
  - [ ] [Design Elements: A Graphical Style Manual](http://www.amazon.com/Design-Elements-Graphic-Style-Manual/dp/1592532616)   
