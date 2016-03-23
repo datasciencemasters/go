@@ -65,7 +65,7 @@ MySQL:
 
 Octave:
  - [ ] [GNU Octave Beginners Guide](https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide)
- - 
+
 PostGIS/PostGRESQL:
  - [ ] [PostGIS Essentials](https://www.packtpub.com/big-data-and-business-intelligence/postgis-essentials)
  - [ ] [PostGRESQL Tutorial](http://www.postgresqltutorial.com/)
@@ -74,7 +74,7 @@ PostGIS/PostGRESQL:
 <h3>Algorithms</h3>
  - [ ] [Algorithms Design & Analysis](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) Stanford openclassroom
 
-<h3>Distributed Computing Paradigms<h3>
+<h3>Distributed Computing Paradigms</h3>
  - [ ] Intro to Hadoop and MapReduce by Cloudera and Udacity 
 *Note: I might swap the above course with an EdX course on Apache Spark and distributed computing*
 
