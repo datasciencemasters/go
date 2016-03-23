@@ -1,5 +1,5 @@
 <h2>Scott Davis Transcript</h2>
-<h3>Open Source Data Science Masters<h3>
+<h3>Open Source Data Science Masters</h3>
 
 I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.
 
@@ -29,7 +29,7 @@ Data Science Introductions
 - [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - in Excel, but also works in LibreOffice and so much of business analytics is still in Excel.
 
-<h3>Mathematics/Statistics<h3>
+<h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
  - [ ] [Statistics for Spatio-Temporal Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002348.html)
  - [ ] [Linear Algebra](http://www.amazon.com/Linear-Algebra-Dover-Books-Mathematics/dp/048663518X)
@@ -71,18 +71,18 @@ PostGIS/PostGRESQL:
  - [ ] [PostGRESQL Tutorial](http://www.postgresqltutorial.com/)
  - [ ] [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database](http://shop.oreilly.com/product/0636920032144.do)
 
-<h3>Algorithms<h3>
+<h3>Algorithms</h3>
  - [ ] [Algorithms Design & Analysis](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) Stanford openclassroom
 
 <h3>Distributed Computing Paradigms<h3>
  - [ ] Intro to Hadoop and MapReduce by Cloudera and Udacity 
 *Note: I might swap the above course with an EdX course on Apache Spark and distributed computing*
 
-<h3>Data Mining<h3>
+<h3>Data Mining</h3>
  - [ ] Mining Massive Data Sets, by Stanford and Coursera
  - [ ] [Clean Data] (https://www.packtpub.com/big-data-and-business-intelligence/clean-data)
 
-<h3>Machine Learning/Predictive Analytics - Foundational/Theoretical/Practical<h3>
+<h3>Machine Learning/Predictive Analytics - Foundational/Theoretical/Practical</h3>
  - [ ] Machine Learning, by Ng Stanford and Coursera (NB this class requires a lot of higher level math)
  - [ ]  [An Introduction to Statistical Learning with Applications in R](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (by the authors of The Elements of Statistical Learning at Stanford.)
  -  [ ] [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition) 
@@ -91,7 +91,7 @@ PostGIS/PostGRESQL:
  -  [ ] [Bootstrapping Machine Learning](http://www.louisdorard.com/machine-learning-book/)
  -  [ ] [Applied Predictive Modeling] (http://www.amazon.com/gp/product/1461468485?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
 
-<h3>Analysis<h3>
+<h3>Analysis</h3>
  - [ ] [Practical Data Science Cookbook](http://www.diveintopython.net/)
  - [ ] [R Data Analysis Cookbook](code.google.com/edu/languages/google-python-class/)
 
@@ -122,7 +122,7 @@ PostGIS/PostGRESQL:
  - [X] MS in Community and Regional Planning, UT-Austin
  - [X] BA in Liberal Arts, concentration in geography, UT-Austin
 
-<h3>OpenSource Data Science Masters Capstone Project<h3>
+<h3>OpenSource Data Science Masters Capstone Project</h3>
 I'm interesting in using data science approaches for better intelligence behind real estate decisions, specifically evaluating population growth, transactions and location decisions.  I'd also like to evaluate statistical learning technqiues to make better pricing decisions.  Finally, I'd like to develop a model to optimize real estate portfolios.
 
 If you'd like to pair up for the capstone, [let me know](http://www.twitter.com/scottdavisCRE)
