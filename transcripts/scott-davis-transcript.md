@@ -1,7 +1,7 @@
-<h1>Scott Davis Transcript</h1>
-<h2>Open Source Data Science Masters<h2>
+<h2>Scott Davis Transcript</h2>
+<h3>Open Source Data Science Masters<h3>
 
-<br>I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.<br>
+I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.
 
 Want to collaborate? Get in touch: 
  * [linkedin](http://www.linkedin.com/in/scottcdavis);
@@ -28,7 +28,6 @@ Data Science Introductions
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
 - [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - in Excel, but also works in LibreOffice and so much of business analytics is still in Excel.
-
 
 <h3>Mathematics/Statistics<h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
@@ -123,7 +122,7 @@ PostGIS/PostGRESQL:
  - [X] MS in Community and Regional Planning, UT-Austin
  - [X] BA in Liberal Arts, concentration in geography, UT-Austin
 
-<h2>OpenSource Data Science Masters Capstone Project<h2>
+<h3>OpenSource Data Science Masters Capstone Project<h3>
 I'm interesting in using data science approaches for better intelligence behind real estate decisions, specifically evaluating population growth, transactions and location decisions.  I'd also like to evaluate statistical learning technqiues to make better pricing decisions.  Finally, I'd like to develop a model to optimize real estate portfolios.
 
 If you'd like to pair up for the capstone, [let me know](http://www.twitter.com/scottdavisCRE)
