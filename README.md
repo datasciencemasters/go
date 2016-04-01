@@ -106,8 +106,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Machine Learning**
 
  _Foundational & Theoretical_
- * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
- * Machine Learning [Stanford CS 229](http://bit.ly/stanfordcs229)
+ * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
