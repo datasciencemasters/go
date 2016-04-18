@@ -1,7 +1,7 @@
 <h2>Scott Davis Transcript</h2>
 <h3>Open Source Data Science Masters</h3>
 
-I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.
+I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.  Also, maybe not technically purely open source as I've used a lot of books - which I've linked to here.
 
 Want to collaborate? Get in touch: 
  * [linkedin](http://www.linkedin.com/in/scottcdavis);
