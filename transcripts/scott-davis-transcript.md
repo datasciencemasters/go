@@ -18,22 +18,22 @@ Data Science Introductions
  -  [X] [R Programming](https://www.coursera.org/account/accomplishments/records/Va5vuEvGKyr7UyHEL)
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
  -  [X] [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/2PPsRu2Us3sUehBQ)
- -  [ ] [Reproducible Research] (in progress)
+ -  [X] [Reproducible Research]
  -  [ ] [Statistical Inference]
  -  [ ] [Regression Models] 
- -  [ ] [Practical Machine Learning] (in progress)
+ -  [X] [Practical Machine Learning]
  -  [ ] [Developing Data Products]
  -  [ ] [Data Science Capstone]
 - [ ] [Data Science by Harvard](http://cs109.github.io/2015/) (online course)
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
-- [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
+- [ ] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - in Excel, but also works in LibreOffice and so much of business analytics is still in Excel.
 
 <h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
  - [ ] [Statistics for Spatio-Temporal Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002348.html)
  - [ ] [Linear Algebra](http://www.amazon.com/Linear-Algebra-Dover-Books-Mathematics/dp/048663518X)
- - [ ] Problem-Solving Heuristics: [How to Solve It](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X)
+ - [X] Problem-Solving Heuristics: [How to Solve It](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X)
 
 <h3>Computing</h3>
 R: 
@@ -55,8 +55,8 @@ Python:
  - [ ] [Webscraping with Python](https://www.packtpub.com/big-data-and-business-intelligence/web-scraping-python) 
 
 QGIS: 
- - [ ] [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
- - [ ] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
+ - [X] [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
+ - [X] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
  - [ ] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
 
 MySQL: 
