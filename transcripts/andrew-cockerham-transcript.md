@@ -1,6 +1,6 @@
 Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
-I'm the cofounding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
+I am the cofounder of [summer.ai](http://bit.ly/summerai), a Machine Intelligence Strategy Consulting firm.
 
 ## The Open-Source Data Science Masters
 
@@ -48,6 +48,9 @@ Start here.
 **Data Science** / Harvard [Video Archive](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
+**Data Analyst Nanodegree** / Udacity [Course ```$199/mo```](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  * *Topics:* Data wrangling, data analysis, machine learning, statistics, data visualization, A/B testing. Get half your tuition back if completed within one year.
+
 **Data Science with Open Source Tools** [Book ```$27```](http://bit.ly/book-datasciencewithopensourcetools)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
@@ -62,10 +65,8 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
- * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
- * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats)
@@ -81,7 +82,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 ### Computing
 
-Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
+Get your environment up and running with the [Data Science Toolbox](http://datasciencetoolbox.org)
 
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
@@ -93,7 +94,7 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
- * SQL School [Mode Analytics / Tutorials](http://bit.ly/modesqlschool)
+ * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
@@ -106,14 +107,14 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Machine Learning**
 
  _Foundational & Theoretical_
- * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
- * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
+ * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
+ * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
 
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
+ * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
 * **Probabilistic Modeling**
@@ -121,7 +122,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
 * **Deep Learning (Neural Networks)**
- * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
+ * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
 * **Social Network & Graph Analysis**
@@ -129,21 +130,18 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 * **Natural Language Processing**
- * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
+ * From Languages to Information / Stanford CS147 [Materials](http://web.stanford.edu/class/cs124/)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
- * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
+ * An Example Data Science Process [ipynb](http://nbviewer.ipython.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb)
 
 ### Data Design
 
 * **Visualization**
-
- _Data Visualization and Communication_
- * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
 
  _Foundational Information Design Books_
 
@@ -174,7 +172,7 @@ Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPyt
 
 [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
 
- * [Pandas Cookbook](http://bit.ly/jvnspandascookbook) (data structure library)
+ * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) (data structure library)
 
 _More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
@@ -200,12 +198,12 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
 
  * **Visualization Packages**
-   * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
+   * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
+ * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis)
 
 #### Datasets are now [here](http://bit.ly/osdsm-datasets)
 
@@ -249,6 +247,10 @@ Non-Open-Source books, courses, and resources are noted with ```$```.
 
 ## Contribute
 
-Please Contribute -- **this is Open Source!**
+Please Contribute Your Ideas -- **this is Open Source!**
+
+Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg [```clare-corthell-2014.md```](http://bit.ly/U6yVMU)
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+
+Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
