@@ -27,12 +27,12 @@ Data Science Introductions
 - [ ] [Data Science by Harvard](http://cs109.github.io/2015/) (online course)
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
 - [ ] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
-- [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - in Excel, but also works in LibreOffice and so much of business analytics is still in Excel.
+- [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
 
 <h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
  - [ ] [Statistics for Spatio-Temporal Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002348.html)
- - [ ] [Linear Algebra](http://www.amazon.com/Linear-Algebra-Dover-Books-Mathematics/dp/048663518X)
+ - [ ] [Linear Programming: An Introduction With Applications (Second Edition)](http://www.amazon.com/Linear-Programming-Introduction-Applications-Edition/dp/1463543670?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
  - [X] Problem-Solving Heuristics: [How to Solve It](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X)
 
 <h3>Computing</h3>
@@ -58,6 +58,9 @@ QGIS:
  - [X] [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
  - [X] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
  - [ ] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
+ - [X] [GIS Tutorial Workbook 1](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=232&moduleID=1) This is for ArcView, but you can work the examples in QGIS too
+ - [ ] [GIS Tutorial Workbook 2: Spatial Analysis](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=230&moduleID=0) This is for ArcView, but you can work the examples in QGIS too
+ - [ ] [QGIS Map Design](https://locatepress.com/qmd) I've just thumbed through this, but it's beautiful and belongs on any list of GIS books.
 
 MySQL: 
  - [ ] [Learn MySQL in One Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
