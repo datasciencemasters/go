@@ -19,14 +19,14 @@ Data Science Introductions
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
  -  [X] [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/2PPsRu2Us3sUehBQ)
  -  [X] [Reproducible Research]
- -  [ ] [Statistical Inference]
- -  [ ] [Regression Models] 
+ -  [ ] [Statistical Inference] in progress
+ -  [ ] [Regression Models] in progress
  -  [X] [Practical Machine Learning]
  -  [ ] [Developing Data Products]
  -  [ ] [Data Science Capstone]
 - [ ] [Data Science by Harvard](http://cs109.github.io/2015/) (online course)
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
-- [ ] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
+- [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
 
 <h3>Mathematics/Statistics</h3>
@@ -118,7 +118,7 @@ PostGIS/PostGRESQL:
  - [ ] [Design Elements: A Graphical Style Manual](http://www.amazon.com/Design-Elements-Graphic-Style-Manual/dp/1592532616)   
  - [ ] [Storytelling with Data] (http://www.amazon.com/gp/product/1119002257?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s00)
  - [ ] [Mastering Python Data Visualization](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-visualization)
- - [ ] [The Grammar of Graphics](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-visualization)
+ - [ ] [The Grammar of Graphics](http://www.springer.com/us/book/9780387245447)
  - [ ] [R Graphics Cookbook](http://shop.oreilly.com/product/9780596809164.do)
  
 <h3>Relevant prior studies</h3>
