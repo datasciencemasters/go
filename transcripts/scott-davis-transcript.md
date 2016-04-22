@@ -18,16 +18,15 @@ Data Science Introductions
  -  [X] [R Programming](https://www.coursera.org/account/accomplishments/records/Va5vuEvGKyr7UyHEL)
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
  -  [X] [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/2PPsRu2Us3sUehBQ)
- -  [X] [Reproducible Research]
+ -  [X] [Reproducible Research](https://www.coursera.org/account/accomplishments/certificate/YRP8NLFYPCV9)
  -  [ ] [Statistical Inference] in progress
  -  [ ] [Regression Models] in progress
- -  [X] [Practical Machine Learning]
+ -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
  -  [ ] [Developing Data Products]
  -  [ ] [Data Science Capstone]
-- [ ] [Data Science by Harvard](http://cs109.github.io/2015/) (online course)
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
 - [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
-- [ ] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
+- [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
 
 <h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
@@ -75,7 +74,13 @@ PostGIS/PostGRESQL:
  - [ ] [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database](http://shop.oreilly.com/product/0636920032144.do)
 
 <h3>Algorithms</h3>
- - [ ] [Algorithms Design & Analysis](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) Stanford openclassroom
+- [ ] Data Structures and Algorithms by UCSD / Coursera
+ -  [ ] [Algorithmic Toolbox] in progress
+ -  [ ] [Data Structures]
+ -  [ ] [Algorithms on Graphs and Trees]
+ -  [ ] [Algorithms on Strings]
+ -  [ ] [Advanced Algorithms and Complexity]
+ -  [ ] [Assembling Genomes and Finding Disease-Causing Mutations]
 
 <h3>Distributed Computing Paradigms</h3>
  - [ ] Intro to Hadoop and MapReduce by Cloudera and Udacity 
