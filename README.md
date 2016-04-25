@@ -238,6 +238,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### Watch
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+* [What Data Science Is / Hilary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
