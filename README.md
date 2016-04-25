@@ -199,12 +199,12 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
- * **Live Data Packages**
+ * **Data APIs**
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
-   * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
+   * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
 
 * **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
