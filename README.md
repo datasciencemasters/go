@@ -145,10 +145,13 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  _Data Visualization and Communication_
  * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
 
- _Foundational Information Design Books_
+ _Theoretical Design of Information_
 
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
+
+ _Applied Design of Information_
+ * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](http://amzn.to/1Vwz21v)
 
  _Theoretical Courses / Design & Visualization_
 
