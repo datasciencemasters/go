@@ -20,7 +20,7 @@ We need more Data Scientists.
 
 > There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
 
--- David Hardtke [How To Hire A Data Scientist](http://bit.ly/howtohireadatascientist) 13 Nov 2012
+-- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
 
 ### An Academic Shortfall
 
