@@ -9,7 +9,7 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 Packages
 * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
-* Machine Learning Toolkit [MILK](http://packages.python.org/milk/)
+* [MILK](http://packages.python.org/milk/) Machine Learning Toolkit 
 * [MDP](https://pypi.python.org/pypi/MDP) a collection of supervised and unsupervised learning algorithms
 * [pyBrain](http://pybrain.org/) modular Machine Learning Library for Python
 * [Caffe](http://caffe.berkeleyvision.org/) framework for convolutional neural network algorithms 
@@ -37,6 +37,7 @@ Packages
 #### Visualization
 
 * [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [Highcharts](http://www.highcharts.com/)
 
 #### Social Network Analysis
 

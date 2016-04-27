@@ -123,6 +123,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Deep Learning (Neural Networks)**
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
+ * Unsupervised Feature Learning and Deep Learning [Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) by Andrew Ng  
 
 * **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
