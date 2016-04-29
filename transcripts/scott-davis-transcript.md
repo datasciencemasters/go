@@ -12,7 +12,10 @@ Want to collaborate? Get in touch:
 <h2>Open Source Curriculum</h2>
 <h3>Base Introduction</h3>
 Data Science Introductions
- - [ ] Intro to Data Science by UW / Coursera, online course
+- [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
+- [ ] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+- [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
+- [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
  - [ ] Data Science Specialization by Johns Hopkins / Coursera
  -  [X] [Data Scientists Toolbox](https://www.coursera.org/account/accomplishments/certificate/UY4EBM46HL)
  -  [X] [R Programming](https://www.coursera.org/account/accomplishments/records/Va5vuEvGKyr7UyHEL)
@@ -24,9 +27,7 @@ Data Science Introductions
  -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
  -  [ ] [Developing Data Products]
  -  [ ] [Data Science Capstone]
-- [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
-- [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
-- [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
+
 
 <h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
@@ -50,6 +51,7 @@ R Libraries/Task Views
 Python: 
  - [ ] [Dive Into Python](http://www.diveintopython.net/)
  - [ ] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
+ - [ ] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
  - [ ] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
  - [ ] [Webscraping with Python](https://www.packtpub.com/big-data-and-business-intelligence/web-scraping-python) 
 
@@ -82,22 +84,22 @@ PostGIS/PostGRESQL:
  -  [ ] [Advanced Algorithms and Complexity]
  -  [ ] [Assembling Genomes and Finding Disease-Causing Mutations]
 
-<h3>Distributed Computing Paradigms</h3>
- - [ ] Intro to Hadoop and MapReduce by Cloudera and Udacity 
-*Note: I might swap the above course with an EdX course on Apache Spark and distributed computing*
+<h3>Disributed Computing</h3>
+ - [ ] Introduction to Spark, edx
+ - [ ] Machine Learning with Spark, edx
 
 <h3>Data Mining</h3>
  - [ ] Mining Massive Data Sets, by Stanford and Coursera
  - [ ] [Clean Data] (https://www.packtpub.com/big-data-and-business-intelligence/clean-data)
 
 <h3>Machine Learning/Predictive Analytics - Foundational/Theoretical/Practical</h3>
- - [ ] Machine Learning, by Ng Stanford and Coursera (NB this class requires a lot of higher level math)
+ - [ ]  [Statistical Learning with Trevor Hastie and Robert Tibshirani](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
  - [ ]  [An Introduction to Statistical Learning with Applications in R](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (by the authors of The Elements of Statistical Learning at Stanford.)
  -  [ ] [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition) 
  -  [ ] [Building a Recommendation System in R](https://www.packtpub.com/big-data-and-business-intelligence/building-recommendation-system-r) 
  -  [ ] [Mastering Predictive Analytics in R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r) 
  -  [ ] [Bootstrapping Machine Learning](http://www.louisdorard.com/machine-learning-book/)
- -  [ ] [Applied Predictive Modeling] (http://www.amazon.com/gp/product/1461468485?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
+ -  [ ] [Applied Predictive Modeling](http://www.amazon.com/gp/product/1461468485?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
 
 <h3>Analysis</h3>
  - [ ] [Practical Data Science Cookbook](http://www.diveintopython.net/)
@@ -112,7 +114,7 @@ PostGIS/PostGRESQL:
  - [ ] [Gravity and Spatial Interaction Models (Scientific Geography Series)](http://www.amazon.com/gp/product/0803925441?psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00)
  - [ ] [TRANUS Model](http://www.tranus.com/tranus-english)
  - [ ] [Urban Sim](https://pypi.python.org/pypi/urbansim)
- - [ ] [Huff-tools Package in R] (http://rstudio-pubs-static.s3.amazonaws.com/42357_1e6fcc5bcfec439096eb86a106ebf22e.html) 
+ - [ ] [Huff-tools Package in R](http://rstudio-pubs-static.s3.amazonaws.com/42357_1e6fcc5bcfec439096eb86a106ebf22e.html) 
  - 
 <h3>Data Design/Data Viz</h3>
  - [ ] [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be)
