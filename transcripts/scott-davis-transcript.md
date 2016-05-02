@@ -51,7 +51,7 @@ R Libraries/Task Views
 Python: 
  - [ ] [Dive Into Python](http://www.diveintopython.net/)
  - [ ] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
- - [ ] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
+ - [X] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
  - [ ] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
  - [ ] [Webscraping with Python](https://www.packtpub.com/big-data-and-business-intelligence/web-scraping-python) 
 
@@ -98,16 +98,17 @@ PostGIS/PostGRESQL:
  -  [ ] [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition) 
  -  [ ] [Building a Recommendation System in R](https://www.packtpub.com/big-data-and-business-intelligence/building-recommendation-system-r) 
  -  [ ] [Mastering Predictive Analytics in R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r) 
- -  [ ] [Bootstrapping Machine Learning](http://www.louisdorard.com/machine-learning-book/)
+ -  [X] [Bootstrapping Machine Learning](http://www.louisdorard.com/machine-learning-book/)
  -  [ ] [Applied Predictive Modeling](http://www.amazon.com/gp/product/1461468485?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
 
 <h3>Analysis</h3>
- - [ ] [Practical Data Science Cookbook](http://www.diveintopython.net/)
- - [ ] [R Data Analysis Cookbook](code.google.com/edu/languages/google-python-class/)
+ - [ ] [Practical Data Science Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook)
+ - [ ] [R Data Analysis Cookbook](http://www.amazon.com/Data-Analysis-Cookbook-Recipes-Deliver/dp/1783989068)
 
 <h3>Spatial Analysis</h3>
- - [ ] [An Introduction to R for Spatial Analysis and Mapping](http://www.edwardtufte.com/tufte/books_be)
+ - [ ] [An Introduction to R for Spatial Analysis and Mapping](https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031)
  - [ ] [Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
+ - [ ] [Geospatial Analysis - 5th Edition, 2015 - de Smith, Goodchild, Longley](http://www.spatialanalysisonline.com/HTML/index.html)
 
 <h3>Land Use/Transport/Gravity Modeling</h3>
  - [ ] [Integrated Land Use and Transport Modelling: Decision Chains and Hierarchies](http://www.amazon.com/gp/product/0521022177?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
@@ -123,7 +124,7 @@ PostGIS/PostGRESQL:
  - [ ] [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi)
  - [ ] [Design for Information](http://isabelmeirelles.com/book-design-for-information/)
  - [ ] [Design Elements: A Graphical Style Manual](http://www.amazon.com/Design-Elements-Graphic-Style-Manual/dp/1592532616)   
- - [ ] [Storytelling with Data] (http://www.amazon.com/gp/product/1119002257?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s00)
+ - [X] [Storytelling with Data](http://www.amazon.com/gp/product/1119002257?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s00)
  - [ ] [Mastering Python Data Visualization](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-visualization)
  - [ ] [The Grammar of Graphics](http://www.springer.com/us/book/9780387245447)
  - [ ] [R Graphics Cookbook](http://shop.oreilly.com/product/9780596809164.do)
