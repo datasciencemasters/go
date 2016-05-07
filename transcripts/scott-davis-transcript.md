@@ -22,10 +22,10 @@ Data Science Introductions
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
  -  [X] [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/2PPsRu2Us3sUehBQ)
  -  [X] [Reproducible Research](https://www.coursera.org/account/accomplishments/certificate/YRP8NLFYPCV9)
- -  [ ] [Statistical Inference] in progress
- -  [ ] [Regression Models] in progress
+ -  [X] [Statistical Inference](https://www.coursera.org/account/accomplishments/records/9733QCP94GEF)
+ -  [X] [Regression Models](https://www.coursera.org/account/accomplishments/records/PP8SKS7CPSDC)
  -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
- -  [ ] [Developing Data Products]
+ -  [ ] [Developing Data Products] in progress
  -  [ ] [Data Science Capstone]
 
 
