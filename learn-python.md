@@ -1,7 +1,8 @@
 ### Learn Python
 
 #### The Basics
-- [Learn Python Interactively / Dataquest](https://www.dataquest.io/course/learning-python) `$35/mo`
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html)
+- [numpy and scipy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 #### Industry / Conferences
 - [pydata / many locations](http://pydata.org/events/)
