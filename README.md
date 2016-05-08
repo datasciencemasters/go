@@ -177,6 +177,7 @@ Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPyt
 
 [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
 
+ * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
  * [Pandas Cookbook](http://bit.ly/jvnspandascookbook) (data structure library)
 
 _More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
