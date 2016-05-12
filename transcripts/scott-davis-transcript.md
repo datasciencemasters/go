@@ -50,7 +50,7 @@ R Libraries/Task Views
 
 Python: 
  - [ ] [Dive Into Python](http://www.diveintopython.net/)
- - [ ] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
+ - [X] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
  - [X] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
  - [ ] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
  - [ ] [Webscraping with Python](https://www.packtpub.com/big-data-and-business-intelligence/web-scraping-python) 
