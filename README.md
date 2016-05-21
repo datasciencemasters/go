@@ -1,6 +1,6 @@
 Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
 
-I'm the cofounding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
+I'm the founding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
 
 ## The Open-Source Data Science Masters
 
