@@ -86,7 +86,7 @@ PostGIS/PostGRESQL:
 
 <h3>Disributed Computing</h3>
  - [ ] Introduction to Spark, edx
- - [ ] Machine Learning with Spark, edx
+ - [ ] Distributed Machine Learning with Apache Spark, edx
 
 <h3>Data Mining</h3>
  - [ ] Mining Massive Data Sets, by Stanford and Coursera
@@ -116,7 +116,8 @@ PostGIS/PostGRESQL:
  - [ ] [TRANUS Model](http://www.tranus.com/tranus-english)
  - [ ] [Urban Sim](https://pypi.python.org/pypi/urbansim)
  - [ ] [Huff-tools Package in R](http://rstudio-pubs-static.s3.amazonaws.com/42357_1e6fcc5bcfec439096eb86a106ebf22e.html) 
- - 
+ - [ ] [Big Data for Smart Cities](https://courses.edx.org/courses/course-v1:IEEEx+IntroData.x+2016_T3/info)
+ 
 <h3>Data Design/Data Viz</h3>
  - [ ] [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be)
  - [ ] [Semiology of Graphics](http://www.amazon.com/Semiology-Graphics-Diagrams-Networks-Maps/dp/1589482611)
