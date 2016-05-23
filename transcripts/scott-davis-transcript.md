@@ -25,7 +25,7 @@ Data Science Introductions
  -  [X] [Statistical Inference](https://www.coursera.org/account/accomplishments/records/9733QCP94GEF)
  -  [X] [Regression Models](https://www.coursera.org/account/accomplishments/records/PP8SKS7CPSDC)
  -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
- -  [ ] [Developing Data Products] in progress
+ -  [X] [Developing Data Products](https://www.coursera.org/account/accomplishments/certificate/6QREL457PPKE)
  -  [ ] [Data Science Capstone]
 
 
