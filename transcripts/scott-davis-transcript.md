@@ -13,7 +13,7 @@ Want to collaborate? Get in touch:
 <h3>Base Introduction</h3>
 Data Science Introductions
 - [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
-- [ ] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+- [X] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
  - [ ] Data Science Specialization by Johns Hopkins / Coursera
