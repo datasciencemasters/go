@@ -70,7 +70,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
- * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
+ * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats2/index.html) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 * **Differential Equations & Calculus**
