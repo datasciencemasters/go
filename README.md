@@ -132,6 +132,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 * **Natural Language Processing**
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
+ * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
 
 * **Analysis**
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
