@@ -67,6 +67,9 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
 
+* **Convex Optimization**
+ * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html)
+
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
