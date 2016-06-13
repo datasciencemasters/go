@@ -16,7 +16,7 @@ Data Science Introductions
 - [X] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
- - [ ] Data Science Specialization by Johns Hopkins / Coursera
+ - [X] Data Science Specialization by Johns Hopkins / Coursera
  -  [X] [Data Scientists Toolbox](https://www.coursera.org/account/accomplishments/certificate/UY4EBM46HL)
  -  [X] [R Programming](https://www.coursera.org/account/accomplishments/records/Va5vuEvGKyr7UyHEL)
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
@@ -26,13 +26,13 @@ Data Science Introductions
  -  [X] [Regression Models](https://www.coursera.org/account/accomplishments/records/PP8SKS7CPSDC)
  -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
  -  [X] [Developing Data Products](https://www.coursera.org/account/accomplishments/certificate/6QREL457PPKE)
- -  [ ] [Data Science Capstone]
+ -  [X] [Data Science Capstone]
 
 
 <h3>Mathematics/Statistics</h3>
  - [ ] [Statistics for Spatial Data, Revised Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119114616.html)
  - [ ] [Statistics for Spatio-Temporal Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002348.html)
- - [ ] [Linear Programming: An Introduction With Applications (Second Edition)](http://www.amazon.com/Linear-Programming-Introduction-Applications-Edition/dp/1463543670?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
+ - [X] [Linear Programming: An Introduction With Applications (Second Edition)](http://www.amazon.com/Linear-Programming-Introduction-Applications-Edition/dp/1463543670?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
  - [X] Problem-Solving Heuristics: [How to Solve It](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X)
 
 <h3>Computing</h3>
@@ -49,7 +49,7 @@ R Libraries/Task Views
  * Finance [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 
 Python: 
- - [ ] [Dive Into Python](http://www.diveintopython.net/)
+ - [X] [Dive Into Python](http://www.diveintopython.net/)
  - [X] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
  - [X] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
  - [ ] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
@@ -64,7 +64,7 @@ QGIS:
  - [ ] [QGIS Map Design](https://locatepress.com/qmd) I've just thumbed through this, but it's beautiful and belongs on any list of GIS books.
 
 MySQL: 
- - [ ] [Learn MySQL in One Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
+ - [X] [Learn MySQL in One Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
  - [ ] [MySQL Workbench Starter](code.google.com/edu/languages/google-python-class/)
 
 Octave:
@@ -78,15 +78,12 @@ PostGIS/PostGRESQL:
 <h3>Algorithms</h3>
 - [ ] Data Structures and Algorithms by UCSD / Coursera
  -  [ ] [Algorithmic Toolbox] in progress
- -  [ ] [Data Structures]
- -  [ ] [Algorithms on Graphs and Trees]
- -  [ ] [Algorithms on Strings]
- -  [ ] [Advanced Algorithms and Complexity]
- -  [ ] [Assembling Genomes and Finding Disease-Causing Mutations]
+
 
 <h3>Disributed Computing</h3>
  - [ ] Introduction to Spark, edx
  - [ ] Distributed Machine Learning with Apache Spark, edx
+ - [ ] [Big Data for Smart Cities](https://courses.edx.org/courses/course-v1:IEEEx+IntroData.x+2016_T3/info)
 
 <h3>Data Mining</h3>
  - [ ] Mining Massive Data Sets, by Stanford and Coursera
@@ -104,11 +101,14 @@ PostGIS/PostGRESQL:
 <h3>Analysis</h3>
  - [ ] [Practical Data Science Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook)
  - [ ] [R Data Analysis Cookbook](http://www.amazon.com/Data-Analysis-Cookbook-Recipes-Deliver/dp/1783989068)
+ - [ ] [Python Data Science Essentials](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials)
 
 <h3>Spatial Analysis</h3>
  - [ ] [An Introduction to R for Spatial Analysis and Mapping](https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031)
  - [ ] [Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
  - [ ] [Geospatial Analysis - 5th Edition, 2015 - de Smith, Goodchild, Longley](http://www.spatialanalysisonline.com/HTML/index.html)
+ - [ ] [Learning Geospatial Analysis with Python](https://www.packtpub.com/application-development/learning-geospatial-analysis-python)
+ - [ ] [Python Geospatial Development - Second Edition](https://www.packtpub.com/application-development/python-geospatial-development-second-edition)
 
 <h3>Land Use/Transport/Gravity Modeling</h3>
  - [ ] [Integrated Land Use and Transport Modelling: Decision Chains and Hierarchies](http://www.amazon.com/gp/product/0521022177?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
@@ -116,7 +116,7 @@ PostGIS/PostGRESQL:
  - [ ] [TRANUS Model](http://www.tranus.com/tranus-english)
  - [ ] [Urban Sim](https://pypi.python.org/pypi/urbansim)
  - [ ] [Huff-tools Package in R](http://rstudio-pubs-static.s3.amazonaws.com/42357_1e6fcc5bcfec439096eb86a106ebf22e.html) 
- - [ ] [Big Data for Smart Cities](https://courses.edx.org/courses/course-v1:IEEEx+IntroData.x+2016_T3/info)
+
  
 <h3>Data Design/Data Viz</h3>
  - [ ] [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be)
@@ -128,7 +128,7 @@ PostGIS/PostGRESQL:
  - [X] [Storytelling with Data](http://www.amazon.com/gp/product/1119002257?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s00)
  - [ ] [Mastering Python Data Visualization](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-visualization)
  - [ ] [The Grammar of Graphics](http://www.springer.com/us/book/9780387245447)
- - [ ] [R Graphics Cookbook](http://shop.oreilly.com/product/9780596809164.do)
+ - [X] [R Graphics Cookbook](http://shop.oreilly.com/product/9780596809164.do)
  
 <h3>Relevant prior studies</h3>
  - [X] MS in Community and Regional Planning, UT-Austin
