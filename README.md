@@ -94,7 +94,7 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
- * SQL School [Mode Analytics / Tutorials](http://bit.ly/modesqlschool)
+ * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
