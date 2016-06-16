@@ -137,13 +137,18 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
  * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
 
-* **Analysis**
- * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
+### Data Analysis
+One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
+
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+
+* **in Python**
+ * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
+ * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 
-### Data Design
+### Data Communication and Design
 
 * **Visualization**
 
@@ -175,7 +180,6 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
- * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://bit.ly/mit-cs)
 
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
