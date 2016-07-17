@@ -16,7 +16,7 @@ Data Science Introductions
 - [X] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
- - [X] Data Science Specialization by Johns Hopkins / Coursera
+ - [X] [Data Science Specialization by Johns Hopkins / Coursera](https://www.coursera.org/account/accomplishments/specialization/3WN77YYQ7QK7)
  -  [X] [Data Scientists Toolbox](https://www.coursera.org/account/accomplishments/certificate/UY4EBM46HL)
  -  [X] [R Programming](https://www.coursera.org/account/accomplishments/records/Va5vuEvGKyr7UyHEL)
  -  [X] [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/ENSGmvNfx24sANRW)
@@ -26,7 +26,7 @@ Data Science Introductions
  -  [X] [Regression Models](https://www.coursera.org/account/accomplishments/records/PP8SKS7CPSDC)
  -  [X] [Practical Machine Learning](https://www.coursera.org/account/accomplishments/certificate/AJJS85KTU6GZ)
  -  [X] [Developing Data Products](https://www.coursera.org/account/accomplishments/certificate/6QREL457PPKE)
- -  [X] [Data Science Capstone]
+ -  [X] [Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/A9M48VWHBAMT)
 
 
 <h3>Mathematics/Statistics</h3>
