@@ -253,6 +253,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
+* [OpenCampus](http://www.greycampus.com/opencampus/big-data-developer) - The Largest Resource Library on Data-Science Certification
 
 ***
 
