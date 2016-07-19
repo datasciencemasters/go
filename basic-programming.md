@@ -17,7 +17,9 @@ _[Please help make this better!]_
 ### Programming Tools & key Python Resources
 
 #### **GIT** (Source control)
- * Git tutorial [Tutorial](http://gitimmersion.com/lab_01.html)
+ * Git [Tutorial](http://gitimmersion.com/lab_01.html)
+ * [Practical Git and GitHub](https://leanpub.com/Practical_Git)
+ * [A Hacker's Guide to Git](https://leanpub.com/a-hackers-guide-to-git)
 
 #### **Testing**
  * nosetests [lib docs](https://nose.readthedocs.org/en/latest/)
