@@ -32,6 +32,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Visualization with R
 
  * Viz and Elegant Graphics in R: ggplot2 [Springer / Book ```$65```](http://amzn.to/1fZMXVd)
+ * Introduction to R Graphics with ggplot2 [Harvard / Tutorial](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
 
 #### Machine Learning with R
 
