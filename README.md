@@ -244,8 +244,9 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
 
-#### Watch
+#### Watch & Listen
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+* [The Talking Machines - Podcast about Machine Learning](http://www.thetalkingmachines.com/)
 * [What Data Science Is / Hilary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
 
 #### Learn
