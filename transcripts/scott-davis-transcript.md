@@ -76,8 +76,8 @@ PostGIS/PostGRESQL:
  - [ ] [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database](http://shop.oreilly.com/product/0636920032144.do)
 
 <h3>Algorithms</h3>
-- [ ] Data Structures and Algorithms by UCSD / Coursera
- -  [ ] [Algorithmic Toolbox] in progress
+- [ ] Data Structures and Algorithms by UCSD / Coursera [Decided not to take the balance of the specialization)
+ -  [X] [Algorithmic Toolbox] in progress (https://www.coursera.org/account/accomplishments/certificate/RUKKXTCFDAPV)
 
 
 <h3>Disributed Computing</h3>
@@ -100,8 +100,8 @@ PostGIS/PostGRESQL:
 
 <h3>Analysis</h3>
  - [ ] [Practical Data Science Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook)
- - [ ] [R Data Analysis Cookbook](http://www.amazon.com/Data-Analysis-Cookbook-Recipes-Deliver/dp/1783989068)
- - [ ] [Python Data Science Essentials](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials)
+ - [X] [R Data Analysis Cookbook](http://www.amazon.com/Data-Analysis-Cookbook-Recipes-Deliver/dp/1783989068)
+ - [X] [Python Data Science Essentials](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials)
 
 <h3>Spatial Analysis</h3>
  - [ ] [An Introduction to R for Spatial Analysis and Mapping](https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031)
