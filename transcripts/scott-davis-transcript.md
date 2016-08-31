@@ -52,7 +52,7 @@ Python:
  - [X] [Dive Into Python](http://www.diveintopython.net/)
  - [X] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
  - [X] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
- - [ ] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+ - [X] [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
  - [X] [Webscraping with Python](https://www.packtpub.com/big-data-and-business-intelligence/web-scraping-python) 
 
 QGIS: 
@@ -107,8 +107,8 @@ PostGIS/PostGRESQL:
  - [ ] [An Introduction to R for Spatial Analysis and Mapping](https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031)
  - [ ] [Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
  - [ ] [Geospatial Analysis - 5th Edition, 2015 - de Smith, Goodchild, Longley](http://www.spatialanalysisonline.com/HTML/index.html)
- - [ ] [Learning Geospatial Analysis with Python](https://www.packtpub.com/application-development/learning-geospatial-analysis-python)
- - [ ] [Python Geospatial Development - Second Edition](https://www.packtpub.com/application-development/python-geospatial-development-second-edition)
+ - [X] [Learning Geospatial Analysis with Python](https://www.packtpub.com/application-development/learning-geospatial-analysis-python)
+ - [X] [Python Geospatial Development - Second Edition](https://www.packtpub.com/application-development/python-geospatial-development-second-edition)
 
 <h3>Land Use/Transport/Gravity Modeling</h3>
  - [ ] [Integrated Land Use and Transport Modelling: Decision Chains and Hierarchies](http://www.amazon.com/gp/product/0521022177?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
