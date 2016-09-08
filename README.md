@@ -69,10 +69,11 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html)
 
 * **Statistics**
- * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
+ * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats)
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
+ * Stats 414/415 [Penn State University](https://onlinecourses.science.psu.edu/stat414/)
 
 * **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
@@ -98,7 +99,7 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
- * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
+ * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://www.mmds.org) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
@@ -125,6 +126,8 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
+ * Neural Networks and Deep Learning [Digital](http://neuralnetworksanddeeplearning.com/)
+ * Deep Learning [Digital](http://www.deeplearningbook.org/)
 
 * **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
@@ -178,6 +181,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
+ * Automate the Boring Stuff with Python [Digital](http://automatetheboringstuff.com/)
 
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
@@ -186,6 +190,7 @@ Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPyt
 
  * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
  * [Pandas Cookbook](http://bit.ly/jvnspandascookbook) (data structure library)
+ * [Modern Pandas](https://tomaugspurger.github.io/modern-1.html)
 
 _More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
@@ -193,22 +198,22 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
  * **Machine Learning Packages**
-   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis 
+   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis
 
  * **Networks Packages**
-   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz 
+   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz
 
  * **Statistical Packages**
    * [PyMC](http://bit.ly/py-pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
    * [Statsmodels](http://bit.ly/py-statsmodel) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
-   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python 
+   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
 
  * **Natural Language Processing & Understanding**
-   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
+   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Data APIs**
-   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
+   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
 
  * **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
@@ -236,13 +241,14 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ### Resources
 
 #### Read
-* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science 
+* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
+* [Weapong of Math Destruction - Cathy O'Neill ```$10```](http://amzn.to/2bW1ANn)
 
 #### Watch & Listen
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
@@ -251,9 +257,10 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
-* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
+* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
+* [Dataquest](https://www.dataquest.io/) - Hands-on data science, mostly with python
 
 ***
 
