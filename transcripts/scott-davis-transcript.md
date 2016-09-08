@@ -60,7 +60,7 @@ QGIS:
  - [X] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
  - [ ] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
  - [X] [GIS Tutorial Workbook 1](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=232&moduleID=1) This is for ArcView, but you can work the examples in QGIS too
- - [ ] [GIS Tutorial Workbook 2: Spatial Analysis](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=230&moduleID=0) This is for ArcView, but you can work the examples in QGIS too
+ - [X] [GIS Tutorial Workbook 2: Spatial Analysis](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=230&moduleID=0) This is for ArcView, but you can work the examples in QGIS too
  - [ ] [QGIS Map Design](https://locatepress.com/qmd) I've just thumbed through this, but it's beautiful and belongs on any list of GIS books.
 
 MySQL: 
