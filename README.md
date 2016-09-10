@@ -80,7 +80,6 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Multivariable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 
-
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
