@@ -1,12 +1,17 @@
 _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
 
-## Contents
-- [The Open-Source Data Science Masters](#)
-  - [The Internet is Your Oyster](#)
-  - [The Motivation](#)
-  - [An Academic Shortfall](#)
-  - [Ready?](#)
-- [The Open Source Data Science Curriculum](#)
+## The Open-Source Data Science Masters
+
+The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+
+### Contents
+- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
+  - [Contents](#contents)
+  - [The Internet is Your Oyster](#the-internet-is-your-oyster)
+  - [The Motivation](#the-motivation)
+  - [An Academic Shortfall](#an-academic-shortfall)
+  - [Ready?](#ready?)
+- [The Open Source Data Science Curriculum](#the-open-source-data-science-curriculum)
   - [A Note About Direction](#)
   - [Math](#)
   - [Computing](#)
@@ -24,10 +29,6 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
     - [Learn](#)
   - [Notation](#)
 - [Contribute](#)
-
-## The Open-Source Data Science Masters
-
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
 
 ### The Internet is Your Oyster
 
