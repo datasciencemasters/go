@@ -60,6 +60,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
+ * Linear Algebra [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
@@ -69,13 +70,16 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html)
 
 * **Statistics**
- * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
+ * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats)
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 * **Differential Equations & Calculus**
+ * Single Variable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ * Multivariable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+
 
 * **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
@@ -91,6 +95,8 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 * **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
+ * Intro to Apache Spark [Stanford Workshop](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
+ * Spark Quick Start Guide [Apache Spark Documentation](http://spark.apache.org/docs/latest/quick-start.html)
 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
@@ -193,22 +199,22 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
  * **Machine Learning Packages**
-   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis 
+   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis
 
  * **Networks Packages**
-   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz 
+   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz
 
  * **Statistical Packages**
    * [PyMC](http://bit.ly/py-pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
    * [Statsmodels](http://bit.ly/py-statsmodel) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
-   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python 
+   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
 
  * **Natural Language Processing & Understanding**
-   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
+   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Data APIs**
-   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
+   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
 
  * **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
@@ -236,7 +242,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ### Resources
 
 #### Read
-* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science 
+* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
@@ -251,7 +257,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
-* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
+* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
 
