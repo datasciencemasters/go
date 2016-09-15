@@ -12,7 +12,7 @@ Want to collaborate? Get in touch:
 <h2>Open Source Curriculum</h2>
 <h3>Base Introduction</h3>
 Data Science Introductions
-- [ ] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
+- [X] [Data Science with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
 - [X] [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 - [X] [50 Years of Data Science](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/50YearsDataScience.pdf)
 - [X] [Datasmart](http://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/ref=sr_1_1?s=books&ie=UTF8&qid=1458768727&sr=1-1&keywords=datasmart) - This book is a thorough review of using Excel for data science tools.  Every aspiring data scientist should work through this book because (1) you'll learn a lot because Excel makes you do every step and (2) you'll realize you need to learn R or python or some other way to do these analyses.
@@ -39,7 +39,7 @@ Data Science Introductions
 R: 
  - [ ] [R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
  - [ ] [R Cookbook](http://shop.oreilly.com/product/9780596809164.do)
- - [ ] [Forecasting: Principles and Practice](http://otexts.com/fpp/) 
+ - [X] [Forecasting: Principles and Practice](http://otexts.com/fpp/) 
 
 R Libraries/Task Views
  * [ProjectTemplate](http://projecttemplate.net/index.html)
@@ -58,14 +58,14 @@ Python:
 QGIS: 
  - [X] [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
  - [X] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
- - [ ] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
+ - [X] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
  - [X] [GIS Tutorial Workbook 1](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=232&moduleID=1) This is for ArcView, but you can work the examples in QGIS too
  - [X] [GIS Tutorial Workbook 2: Spatial Analysis](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=230&moduleID=0) This is for ArcView, but you can work the examples in QGIS too
  - [ ] [QGIS Map Design](https://locatepress.com/qmd) I've just thumbed through this, but it's beautiful and belongs on any list of GIS books.
 
 MySQL: 
  - [X] [Learn MySQL in One Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
- - [ ] [MySQL Workbench Starter](code.google.com/edu/languages/google-python-class/)
+ - [X] [MySQL Workbench Starter](code.google.com/edu/languages/google-python-class/)
 
 Octave:
  - [ ] [GNU Octave Beginners Guide](https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide)
@@ -78,12 +78,6 @@ PostGIS/PostGRESQL:
 <h3>Algorithms</h3>
 - [ ] Data Structures and Algorithms by UCSD / Coursera [Decided not to take the balance of the specialization)
  -  [X] [Algorithmic Toolbox] in progress (https://www.coursera.org/account/accomplishments/certificate/RUKKXTCFDAPV)
-
-
-<h3>Disributed Computing</h3>
- - [ ] Introduction to Spark, edx
- - [ ] Distributed Machine Learning with Apache Spark, edx
- - [ ] [Big Data for Smart Cities](https://courses.edx.org/courses/course-v1:IEEEx+IntroData.x+2016_T3/info)
 
 <h3>Data Mining</h3>
  - [ ] Mining Massive Data Sets, by Stanford and Coursera
