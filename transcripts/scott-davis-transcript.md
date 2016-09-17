@@ -49,6 +49,7 @@ R Libraries/Task Views
  * Finance [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 
 Python: 
+ - [X] [Jumpstart Python by Building 10 Apps](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) This is probably the best introduction to Python that I have seen.
  - [X] [Dive Into Python](http://www.diveintopython.net/)
  - [X] [Google's Python Class](code.google.com/edu/languages/google-python-class/)
  - [X] [Introduction to Python for Data Science - edx](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+2T2016/info)
@@ -58,14 +59,17 @@ Python:
 QGIS: 
  - [X] [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
  - [X] [Mastering QGIS](https://www.packtpub.com/application-development/mastering-qgis)
+ - [X] [QGIS 2.0 Cookbook](https://www.packtpub.com/application-development/qgis-2-cookbook) Advanced data management, data visualization and spatial analysis techniques with QGIS.
  - [X] [Building Mapping Applications with QGIS](https://www.packtpub.com/application-development/building-mapping-applications-qgis) 
  - [X] [GIS Tutorial Workbook 1](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=232&moduleID=1) This is for ArcView, but you can work the examples in QGIS too
  - [X] [GIS Tutorial Workbook 2: Spatial Analysis](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=230&moduleID=0) This is for ArcView, but you can work the examples in QGIS too
+ - [ ] QGIS Python Programming Cookbook (https://www.packtpub.com/application-development/qgis-python-programming-cookbook) Automated desktop QGIS processing.
  - [ ] [QGIS Map Design](https://locatepress.com/qmd) I've just thumbed through this, but it's beautiful and belongs on any list of GIS books.
+
 
 MySQL: 
  - [X] [Learn MySQL in One Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
- - [X] [MySQL Workbench Starter](code.google.com/edu/languages/google-python-class/)
+ - [X] [MySQL Explained](https://www.ostraining.com/books/mysql/about/)
 
 Octave:
  - [ ] [GNU Octave Beginners Guide](https://www.packtpub.com/big-data-and-business-intelligence/gnu-octave-beginners-guide)
@@ -80,7 +84,6 @@ PostGIS/PostGRESQL:
  -  [X] [Algorithmic Toolbox] in progress (https://www.coursera.org/account/accomplishments/certificate/RUKKXTCFDAPV)
 
 <h3>Data Mining</h3>
- - [ ] Mining Massive Data Sets, by Stanford and Coursera
  - [ ] [Clean Data] (https://www.packtpub.com/big-data-and-business-intelligence/clean-data)
 
 <h3>Machine Learning/Predictive Analytics - Foundational/Theoretical/Practical</h3>
