@@ -66,7 +66,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
 
 * **Convex Optimization**
- * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html)
+ * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 * **Statistics**
  * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
