@@ -8,7 +8,8 @@
 * [Shape of Data](http://shapeofdata.wordpress.com/)
 * [yhat](http://blog.yhathq.com/)
 * [R-Bloggers](http://www.r-bloggers.com/)
-* [Flowing Data](https://flowingdata.com/)
+* [Flowing Data](https://flowingdata.com/)\
+* [Analytics Vidhya](https://www.analyticsvidhya.com) 
 
 #### News
 * [KDnuggets](http://www.kdnuggets.com/)
