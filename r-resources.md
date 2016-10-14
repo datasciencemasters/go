@@ -58,3 +58,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
 ####R interactive visualizations 
  * [Shiny](http://shiny.rstudio.com/) Interactive web application framework for R
+ 
+ #### R Cheat Sheets
+  * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+  * [data.table Package Cheat Sheet](https://www.datacamp.com/community/tutorials/data-table-cheat-sheet)
