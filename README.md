@@ -64,6 +64,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
+ * Linear Algebra by Gilbert Strang [Mit Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
 * **Convex Optimization**
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html)
