@@ -4,6 +4,32 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
 
 The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
 
+### Contents
+- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
+  - [Contents](#contents)
+  - [The Internet is Your Oyster](#the-internet-is-your-oyster)
+  - [The Motivation](#the-motivation)
+  - [An Academic Shortfall](#an-academic-shortfall)
+  - [Ready?](#ready)
+- [The Open Source Data Science Curriculum](#the-open-source-data-science-curriculum)
+  - [A Note About Direction](#a-note-about-direction)
+  - [Math](#math)
+  - [Computing](#computing)
+  - [Data Analysis](#data-analysis)
+  - [Data Communication and Design](#data-communication-and-design)
+    - [Python (Learning)](#python-learning)
+    - [Python (Libraries)](#python-libraries)
+    - [Datasets are now here](#datasets-are-now-here)
+    - [R resources are now here](#r-resources-are-now-here)
+  - [Data Science as a Profession](#data-science-as-a-profession)
+  - [Capstone Project](#capstone-project)
+  - [Resources](#resources)
+    - [Read](#read)
+    - [Watch & Listen](#watch--listen)
+    - [Learn](#learn)
+  - [Notation](#notation)
+- [Contribute](#contribute)
+
 ### The Internet is Your Oyster
 
 With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
@@ -73,7 +99,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 * **Statistics**
- * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats) 
+ * Statistics I [Princeton / Coursera](http://bit.ly/course-princeton-stats)
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
@@ -197,22 +223,22 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
  * **Machine Learning Packages**
-   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis 
+   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis
 
  * **Networks Packages**
-   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz 
+   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz
 
  * **Statistical Packages**
    * [PyMC](http://bit.ly/py-pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
    * [Statsmodels](http://bit.ly/py-statsmodel) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
-   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python 
+   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
 
  * **Natural Language Processing & Understanding**
-   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit 
+   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
  * **Data APIs**
-   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
+   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
 
  * **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
@@ -240,7 +266,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ### Resources
 
 #### Read
-* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science 
+* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
@@ -255,7 +281,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
-* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses 
+* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
 
