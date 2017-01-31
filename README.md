@@ -66,7 +66,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 
 Start here.
 
-**Intro to Data Science** / UW [Videos](http://bit.ly/uwintrodatascience)
+**Intro to Data Science** / UW [Videos](http://bit.ly/299e7PD)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
 **Data Science** / Harvard [Videos](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)
