@@ -86,6 +86,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
+ * Linear Algebra [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
@@ -105,6 +106,8 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 * **Differential Equations & Calculus**
+ * Single Variable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ * Multivariable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 
 * **Problem Solving**
@@ -121,6 +124,8 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 * **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
+ * Intro to Apache Spark [Stanford Workshop](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
+ * Spark Quick Start Guide [Apache Spark Documentation](http://spark.apache.org/docs/latest/quick-start.html)
 
 * **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
