@@ -64,6 +64,10 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
+ * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
+ * A Programmer's Intuition for Matrix Multiplication [Better Explained / Article](https://betterexplained.com/articles/matrix-multiplication/)
+ * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
+ * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 
 * **Convex Optimization**
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
