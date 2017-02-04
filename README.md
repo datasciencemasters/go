@@ -116,6 +116,7 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
+ * Algorithms for Data Science [Book ```$75```](http://a.co/78VuSBZ)
 
 * **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
@@ -272,6 +273,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
+* [Data Science Weekly](https://www.datascienceweekly.org/newsletters) - The Data Science Weekly Newsletter
 
 #### Watch & Listen
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
@@ -294,3 +296,5 @@ Non-Open-Source books, courses, and resources are noted with ```$```.
 Please Contribute -- **this is Open Source!**
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+
+
