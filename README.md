@@ -153,16 +153,16 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
-* **Deep Learning (Neural Networks)**
+#### **Deep Learning (Neural Networks)**
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
-* **Social Network & Graph Analysis**
+#### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
-* **Natural Language Processing**
+#### **Natural Language Processing**
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
  * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
@@ -173,7 +173,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
-* **in Python**
+#### **in Python**
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
