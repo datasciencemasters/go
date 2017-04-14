@@ -85,7 +85,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 [★ What are some good resources for learning about numerical analysis? / Quora ]
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
-* **Linear Algebra & Programming**
+#### **Linear Algebra & Programming**
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
@@ -95,45 +95,48 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
  * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 
-* **Convex Optimization**
+#### **Convex Optimization**
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-* **Statistics**
+#### **Statistics**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
-* **Differential Equations & Calculus**
+#### **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
-
-* **Problem Solving**
+#### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 ### Computing
 
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
-* **Algorithms**
+#### **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
 
-* **Distributed Computing Paradigms**
+#### **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
-* **Databases**
+#### **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
-* **Data Mining**
+#### **Data Mining**
  * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
+#### **Data Design**
+How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
+ * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
-* **Machine Learning**
+### **Machine Learning**
 
  _Foundational & Theoretical_
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
@@ -146,7 +149,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
-* **Probabilistic Modeling**
+### **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
@@ -177,7 +180,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
 ### Data Communication and Design
 
-* **Visualization**
+#### **Visualization**
 
  _Data Visualization and Communication_
  * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
@@ -218,32 +221,32 @@ Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPyt
 
 _More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
- * **Data Structures & Analysis Packages**
+#### **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
 
- * **Machine Learning Packages**
+#### **Machine Learning Packages**
    * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis
 
- * **Networks Packages**
+#### **Networks Packages**
    * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz
 
- * **Statistical Packages**
+#### **Statistical Packages**
    * [PyMC](http://bit.ly/py-pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
    * [Statsmodels](http://bit.ly/py-statsmodel) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
    * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
 
- * **Natural Language Processing & Understanding**
+#### **Natural Language Processing & Understanding**
    * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
- * **Data APIs**
+#### **Data APIs**
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
 
- * **Visualization Packages**
+#### **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
 
-* **iPython Data Science Notebooks**
+#### **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
 
