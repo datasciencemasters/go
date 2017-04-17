@@ -157,6 +157,8 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
+ * Neural Networks [Neural Networks Tutorial - A Pathway to Deep Learning](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
+ * Neural Networks / TensorFlow [Python TensorFlow Tutorial - Build a Neural Network](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/)
 
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
