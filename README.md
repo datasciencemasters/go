@@ -132,8 +132,11 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
 
 #### **Data Design**
 How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
- * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+markdown follows
 
+_Tidy Data_
+ * [Tidy Data](http://vita.had.co.nz/papers/tidy-data.html) Hadley Wickham's influential take on data best formatted for analysis.
+ * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
 ### **Machine Learning**
