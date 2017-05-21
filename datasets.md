@@ -32,7 +32,7 @@
 
 ### Curated Lists of Datasets
 
-* [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://bitly.com/bundles/hmason/1)
+* [@hmason's](https://twitter.com/hmason) curated dataset list [bit.ly](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1)
 
 ### Sentiment Analysis
 * https://github.com/acquayefrank/sanders-twitter
