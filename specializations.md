@@ -6,6 +6,7 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 * Neural Networks for Machine Learning [U Toronto / Coursera](https://www.coursera.org/course/neuralnets)
 * [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book) [source code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+* [Applied Data Science With Python](http://www.coursera.org/specializations/data-science-python)
 
 Packages
 * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
