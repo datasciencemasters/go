@@ -24,6 +24,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Statistical Learning with R
 
  * Statistical Learning [Stanford / OpenEdX Course](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
+ * Statistics with R [Duke University / Coursera](https://www.coursera.org/specializations/statistics) ^All course content and labs are available for free
  
 #### Forecasting with R
 
