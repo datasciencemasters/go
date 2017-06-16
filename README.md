@@ -110,7 +110,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 ### Computing
 
-Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
+Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox) or try the [Data Scientist Workbench](https://my.datascientistworkbench.com).
 
 #### **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
