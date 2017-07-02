@@ -271,7 +271,6 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
-* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
