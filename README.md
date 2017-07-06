@@ -82,8 +82,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 ### Math
 
-[★ What are some good resources for learning about numerical analysis? / Quora ]
-(http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
+[★ What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 #### **Linear Algebra & Programming**
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
