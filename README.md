@@ -165,7 +165,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 #### **Natural Language Processing**
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
- * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
+ * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
 ### Data Analysis
 One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
