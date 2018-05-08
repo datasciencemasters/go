@@ -154,6 +154,8 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
 #### **Deep Learning (Neural Networks)**
+
+test
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
