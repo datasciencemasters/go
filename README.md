@@ -297,6 +297,6 @@ Non-Open-Source books, courses, and resources are noted with ```$```.
 
 ## Contribute
 
-Please Contribute -- **this is Open Source!**
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines!
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
