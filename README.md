@@ -278,6 +278,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
+* [http://gwthomas.github.io/docs/math4ml.pdf](Summary of Linear Algebra and Probability for Machine Learning)
 
 #### Watch & Listen
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
