@@ -286,7 +286,10 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
 * [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
+* [Kaggle] (https://www.kaggle.com/learn/overview) -Learn by doing, Kaggle is great to start working with notebooks
 
+#### Datasets
+* [Public Datasets] (https://github.com/awesomedata/awesome-public-datasets) -Once you are comfortable with data start using public datasets for your interests
 ***
 
 ### Notation
