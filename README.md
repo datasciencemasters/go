@@ -103,7 +103,7 @@ Human impact is a first-class concern when building machine intelligence technol
 
 #### **Statistics**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
- * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
+ * Think Stats: Probability and Statistics for Programmers [Digital](http://greenteapress.com/thinkstats2/index.html) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 #### **Differential Equations & Calculus**
