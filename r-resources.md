@@ -2,9 +2,11 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 
 ### R
 
-[The R Project for Statistical Computing / Software](http://www.r-project.org/)
+* [The R Project for Statistical Computing / Software](http://www.r-project.org/)
 
-[Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+* [Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+
+* A course on R by JHU on Coursera under Data Science Specialization [R Programming](https://www.coursera.org/learn/r-programming)
 
 #### Basic R
 
@@ -14,6 +16,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Basic Statistics with R
 
  * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
+ * Introductory Statistics with R [pdf Link](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf)
  
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
@@ -23,6 +26,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  
 #### Statistical Learning with R
 
+ * [Statistics with R](https://www.coursera.org/specializations/statistics) - A specialization on Coursera by Duke University
  * Statistical Learning [Stanford / OpenEdX Course](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
  
 #### Forecasting with R
