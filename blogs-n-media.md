@@ -9,6 +9,7 @@
 * [yhat](http://blog.yhathq.com/)
 * [R-Bloggers](http://www.r-bloggers.com/)
 * [Flowing Data](https://flowingdata.com/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com) 
 
 #### News
 * [KDnuggets](http://www.kdnuggets.com/)
