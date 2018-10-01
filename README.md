@@ -32,7 +32,7 @@ The open-source curriculum for learning Data Science. Foundational in both theor
 
 ### The Internet is Your Oyster
 
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
+With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education? Every thing is free You just have to Explore!!
 
 ### The Motivation
 
