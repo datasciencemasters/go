@@ -291,6 +291,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
 
 ***
+Finally, a wrap up with a useful [**curriculum via metro map**](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) come in handy for every aspiring data scientist.  
 
 ### Notation
 Non-Open-Source books, courses, and resources are noted with ```$```.
