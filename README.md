@@ -66,10 +66,10 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 
 Start here.
 
-**Intro to Data Science** / UW [Videos](https://github.com/datasciencemasters/go/issues/102)
+**Intro to Data Science** / UW [Videos](https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
-**Data Science** / Harvard [Videos](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)
+**Data Science** / Harvard [Slides](https://github.com/cs109/2015) & [Course](http://bit.ly/harvarddatasciencecourse)
  * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
 
 **Data Science with Open Source Tools** [Book ```$27```](http://bit.ly/book-datasciencewithopensourcetools)
@@ -168,7 +168,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 #### **Natural Language Processing**
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
- * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
+ * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
 ### Data Analysis
 One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
@@ -215,7 +215,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
 
 #### **Python** (Libraries)
-Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
+Installing Basic Packages Python, virtualenv, NumPy, SciPy, matplotlib and IPython & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
 [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
 
@@ -251,7 +251,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
+ * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 #### Datasets are now [here](http://bit.ly/osdsm-datasets-link)
 
