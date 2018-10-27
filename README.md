@@ -178,6 +178,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
 #### **in Python**
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
+ * Data Science at Scale with Python and Dask [Book ``$``](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 
