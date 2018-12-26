@@ -31,6 +31,7 @@ _-Clare 12/25/2018_
   - Data Science across Domains
 2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
 3. Pared down links to a more opinionated list.
+4. Theory + Python tools together under each topic. All you need under one roof.
 
 _RIP [v1.0 commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2)_
 
@@ -80,18 +81,19 @@ Out of personal preference and need for focus, I geared the original curriculum 
 ### Intro to Data Science
 Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
 
- 1. Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
- 2. The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
- 3. Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries.
+ 1. The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
+ 7. Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
+ 3. Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries. `pip install numpy pandas`
+ 2. Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
  4. The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
  5. The Talking Machines [Podcast](http://www.thetalkingmachines.com/)
- 6. What Data Science Is / Hilary Mason [Video](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
- 7. Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 #### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 #### **Linear Algebra & Programming**
+`pip install numpy pandas`
+
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
@@ -102,6 +104,8 @@ Get acquainted with the challenge, terminology, technology, statistics, communic
  * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 
 #### **Statistics: Frequentist & Bayesian**
+`pip install numpy pandas statsmodels`
+
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
@@ -136,21 +140,25 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
 #### **Social Network & Graph Analysis**
+`pip install networkx`
+
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 #### **Data Design**
+`pip install apache-airflow`
+
 How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
  * _need tutorial for Airflow, Maxime's blog posts_
 
-### **Machine Learning: Theory**
+### **Machine Learning**
+`pip install -U scikit-learn matplotlib pandas numpy`
+
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
-
-### **Machine Learning: Practical**
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
@@ -160,18 +168,25 @@ How does the real world get translated into data? How should one structure that 
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
 #### **Deep Learning (Neural Networks)**
+
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 #### **Natural Language Processing**
+`pip install -U nltk`
+
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
  * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
 
 ### Data Analysis
+`pip install numpy pandas`
+
 One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
 
+ * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
+ * [Pandas Cookbook](http://bit.ly/jvnspandascookbook)
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
@@ -208,22 +223,18 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
 
-_OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
-
-#### **Python** (Learning)
+#### **Python** Learning
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
+ 
+#### **Python** Environment & Libraries
+ * Help installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
+ * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
+
+_More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo_
 
 #### **Python** (Libraries)
-Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
-
-[Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
-
- * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
- * [Pandas Cookbook](http://bit.ly/jvnspandascookbook) (data structure library)
-
-_More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo & in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
 #### **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
@@ -240,7 +251,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
 
 #### **Natural Language Processing & Understanding**
-   * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
+   * 
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
 #### **Data APIs**
