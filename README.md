@@ -278,12 +278,10 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 ### Data Science as a Profession
 
-```
-Data Team #squadgoals with [metrics]:
-Data Science = Improve decision making [ROI, NPV, IRR], create Hypotheses [business mechanisms]
-Data Platform / Engineering = Engineer data to the product [internal and/or customer trust of data metrics]
-Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
-```
+> Data Team #squadgoals with [metrics]:
+> Data Science = Improve decision making [ROI, NPV, IRR], create Hypotheses [business mechanisms]
+> Data Platform / Engineering = Engineer data to the product [internal and/or customer trust of data metrics]
+> Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
 
 _Data Science_, especially in the moment when its moniker rose to prominence, was considered to be a lone wolf sport. The last 5 years have proven not only that **Data Science is a team sport**, but that Data Science requires leadership, tech transformation, and execution follow-through. The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties. I've bucketed the most discretely defined functions, which as we all know, are in reality much more blurred in definition. 
 
@@ -337,7 +335,7 @@ _Classic Example: Data Engineer builds data flows from events to produced fact\_
 
 ### Data Science Across Domains
 
-**Huge Disclaimer:** You can "Data Science" _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
+**Huge Disclaimer:** You can "Data Science" almost _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
 
 | Domain | Problem Space | Example Organizations | Example Non-Profit, US Govt |
 | -- | -- | -- | -- |
