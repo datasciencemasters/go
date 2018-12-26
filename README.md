@@ -12,11 +12,13 @@ And of the second citation, which has also lapsed:
 > There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
 -- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
 
-And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal industrial gender (Men=74%) and racial diversity](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/) among many others. 
+And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal industrial gender (Men=74%) and racial diversity](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), and an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), among many others conundrums.
 
 In 2015, before these storms surfaced, I gave a [talk on the danger of perpetuating cultural bias with machine learning](https://www.youtube.com/watch?v=7N0bIv-5plE). Before the talk, I paced the green room, thinking maybe Josh Wills had been mistaken to give me this slot, that the adverse impacts of our statistically-geared systems were actually irrelevant and trivial in today's world. Would I let everyone down by raining on the techno-utopian parade? Was I overreacting to a distant problem, solving traffic congestion on Mars? As the talk ended, the immediate reaction I received from my peers in leadership was unanimous: **We need to talk about the impact and ethics of our work.**
 
-Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously.
+> Computers reflect the biases and belief systems of the people programming them -- [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
+
+Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously. And to read [Frankenstein](https://amzn.to/2zUkt4z).
 
 **We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
 
@@ -39,26 +41,17 @@ The open-source curriculum for learning Data Science, focused on foundational th
 ### Contents
 - [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
   - [Contents](#contents)
-  - [The Internet is Your Oyster](#the-internet-is-your-oyster)
   - [The Motivation](#the-motivation)
   - [An Academic Shortfall](#an-academic-shortfall)
   - [Ready?](#ready)
 - [The Open Source Data Science Curriculum](#the-open-source-data-science-curriculum)
   - [A Note About Direction](#a-note-about-direction)
-  - [Math](#math)
   - [Computing](#computing)
   - [Data Analysis](#data-analysis)
   - [Data Communication and Design](#data-communication-and-design)
-    - [Python (Learning)](#python-learning)
-    - [Python (Libraries)](#python-libraries)
-    - [Datasets are now here](#datasets-are-now-here)
-    - [R resources are now here](#r-resources-are-now-here)
   - [Data Science as a Profession](#data-science-as-a-profession)
   - [Capstone Project](#capstone-project)
   - [Resources](#resources)
-    - [Read](#read)
-    - [Watch & Listen](#watch--listen)
-    - [Learn](#learn)
   - [Notation](#notation)
 - [Contribute](#contribute)
 
@@ -87,13 +80,13 @@ Out of personal preference and need for focus, I geared the original curriculum 
 ### Intro to Data Science
 Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
 
- * Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
- * The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
- * Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries.
- * The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
- * The Talking Machines [Podcast](http://www.thetalkingmachines.com/)
- * What Data Science Is / Hilary Mason [Video](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
- * Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
+ 1. Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+ 2. The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
+ 3. Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries.
+ 4. The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+ 5. The Talking Machines [Podcast](http://www.thetalkingmachines.com/)
+ 6. What Data Science Is / Hilary Mason [Video](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
+ 7. Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 #### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
@@ -129,9 +122,8 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
 
-#### **Distributed Computing Paradigms**
- * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)*
- * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
+#### **Distributed Computing**
+ * _add new_
 
 #### **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
@@ -143,19 +135,22 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
+#### **Social Network & Graph Analysis**
+ * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
+ * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
+
 #### **Data Design**
 How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+ * _need tutorial for Airflow, Maxime's blog posts_
 
-### **Machine Learning**
-
- _Foundational & Theoretical_
+### **Machine Learning: Theory**
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
 
- _Practical_
+### **Machine Learning: Practical**
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
@@ -169,10 +164,6 @@ How does the real world get translated into data? How should one structure that 
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
-#### **Social Network & Graph Analysis**
- * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
- * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
-
 #### **Natural Language Processing**
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
@@ -181,11 +172,9 @@ How does the real world get translated into data? How should one structure that 
 ### Data Analysis
 One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
 
+ * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
-
-#### **in Python**
- * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 
