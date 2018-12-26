@@ -2,20 +2,29 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), P
 
 #### Introduction to `Take Two`
 
-It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I've decided it's time to update.
+It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I realized that we've arrived at the "future" portended by my opening citation:
 
-Previous version can be found at this [commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2). RIP the past y'all.
+>We need more Data Scientists.
+> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge. - [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
+
+> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
+-- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
+
+And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), a shortage of experienced management for Data Science teams, 
 
 #### `Take Two` Change Log
-New sections added by popular demand or scientific advancement. Please PR additions!
-
+1. New sections added by popular demand or scientific advancement. Please PR additions!
 - Causation
 - Team Members of Data Science
 - Data Science across Domains
+2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
+3. Pared down links to a more opinionated list.
+
+_RIP [v1.0 commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2)_
 
 ## The Open-Source Data Science Masters
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+The open-source curriculum for learning Data Science, focused on foundational theory and application. This is the collectively-maintained source for the best training to making use of data.
 
 ### Contents
 - [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
@@ -43,22 +52,6 @@ The open-source curriculum for learning Data Science. Foundational in both theor
   - [Notation](#notation)
 - [Contribute](#contribute)
 
-### The Internet is Your Oyster
-
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
-
-### The Motivation
-
-We need more Data Scientists.
-
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
-
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
-
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-
--- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
-
 ### An Academic Shortfall
 
 Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
@@ -71,35 +64,29 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 
 -- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
 
-### Ready?
+### A Note About Direction
+This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
+Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
 
 ***
 
 ## The Open Source Data Science Curriculum
 
-Start here.
+# Start here.
 
-**Intro to Data Science** / UW [Videos](https://github.com/datasciencemasters/go/issues/102)
- * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+### Intro to Data Science
+Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
 
-**Data Science** / Harvard [Videos](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)
- * *Topics:* Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
+ * Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+ * The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
+ * Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries.
+ * The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
+ * The Talking Machines [Podcast](http://www.thetalkingmachines.com/)
+ * What Data Science Is / Hilary Mason [Video](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
+ * Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
-**Data Science with Open Source Tools** [Book ```$27```](http://bit.ly/book-datasciencewithopensourcetools)
-  * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
-  * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
-
-### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
-Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
-
-### Ethics in Machine Intelligence
-Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
-* [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
-
-### Math
-
-* [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
+#### **Problem Solving**
+ * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 #### **Linear Algebra & Programming**
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
@@ -111,26 +98,22 @@ Human impact is a first-class concern when building machine intelligence technol
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
  * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 
-#### **Convex Optimization**
- * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
-#### **Statistics**
+#### **Statistics: Frequentist & Bayesian**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
-#### **Statistics and Causation**
- * Causal Inference in Statistics [Book ```$```](https://amzn.to/2RiTxmq)
- * The Book of Why [Book ```$```](https://amzn.to/2Ac3hoQ)
+#### **Statistics: Causation**
+A branch of statistics that uses graphical models and specialized statistics to describe and model cause and effect. Editor: Something to watch closely, this is evolving with new capabilities resulting from modeling with big data.
+
+ * Causal Inference in Statistics [Book ```$25```](https://amzn.to/2RiTxmq)
+ * The Book of Why [Book ```$22```](https://amzn.to/2Ac3hoQ)
+
+#### **Convex Optimization**
+ * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 #### **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
-#### **Problem Solving**
- * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
-
-### Computing
-
-Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 #### **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
@@ -197,6 +180,10 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
+
+### Designing Machine Intelligence Systems
+
+* Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 ### Data Communication and Design
 
@@ -333,6 +320,10 @@ _Classic Example: Data Engineer builds data flows from events to produced fact\_
 * Product Management
 * Application Engineering
 
+### Ethics in Data Science & Machine Intelligence
+Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
+* [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
+
 ### Data Science Across Domains
 
 **Huge Disclaimer:** You can "Data Science" almost _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
@@ -354,6 +345,9 @@ _Classic Example: Data Engineer builds data flows from events to produced fact\_
 | What else would this consumer likely buy? | Recommendations | StitchFix, Pinterest, GFTA | |
 | When and where will traffic happen? | Transportation | Lyft, Uber, KeepTruckin, CityMapper | City of San Francisco |
 | How might we optimize supply chain throughput, bandwidth, marginal profit? | Supply Chain and Ops Mgmt | Walmart, Target, Sight Machine, Flexport | |
+| | | |
+| **[Data Journalism](https://datajournalismhandbook.org/1.0/en/index.html)** | | |
+| What evidence can be derived from available data? | NYTimes Labs | |
 | | | |
 | **Consulting** | Management Consulting and Software Consulting | Pivotal Labs, SVDS, Accenture, Thinking Machines | |
 | | | |
@@ -377,16 +371,10 @@ Please PR your ideas, even if no company known to humans does the thing you're t
 #### Read
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
-* [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
-
-#### Watch & Listen
-* [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
-* [The Talking Machines - Podcast about Machine Learning](http://www.thetalkingmachines.com/)
-* [What Data Science Is / Hilary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
 
 #### Learn
 * [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
