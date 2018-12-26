@@ -120,8 +120,8 @@ Human impact is a first-class concern when building machine intelligence technol
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 #### **Statistics and Causation**
- * Causal Inference in Statistics [Book ```$```]()
- * The Book of Why [Book ```$```]()
+ * Causal Inference in Statistics [Book ```$```](https://amzn.to/2RiTxmq)
+ * The Book of Why [Book ```$```](https://amzn.to/2Ac3hoQ)
 
 #### **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
@@ -335,13 +335,34 @@ _Classic Example: Data Engineer builds data flows from events to produced fact\_
 * Product Management
 * Application Engineering
 
-#### Data Science Across Domains
+### Data Science Across Domains
 
 **Huge Disclaimer:** You can "Data Science" _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
 
+| Domain | Problem Space | Example Organizations | Example Non-Profit, US Govt |
+| -- | -- | -- | -- |
+| **Risk & Economic Modeling** | | | |
+| Is this person who they say they are? | Financial & Identity Risk | (FinTech) banks, Stripe, Sift Science, Square | |
+| Which customers to target with this Ad? | Customer Targeting and Ads Applications | Move, SolarCity, Twitter, Netflix, ad networks | |
+| What credit terms to assign this consumer? | Creditworthiness | (FinTech) Square Capital, Affirm, SoFi | CFPB |
+| Price of a given thing? | Econometrics and Price Modeling | Trulia, Airbnb, Stripe, Ads/GFTA | |
+| What observable factors predict patient risk of a given adverse condition? | Healthcare Risk Modeling and Projections | Aspire Health, Amino, Strava, Nuna | Medicare & Medicaid |
+| What might the range of effects of upcoming policy be? | Policy Simulation | | GAO |
+| Where might the next natural disaster occur? | Jupiter FloodScore | NOAA |
+| How might we assign risk to high-impact, rare events? | Surveillance Platforms | Palantir, Quid | |
+| | | |
+| **Features & Optimization** | | | |
+| What information is relevant? | Information Extraction, Structuring Applications, NLP | Google knowledge graph and similar teams | |
+| What else would this consumer likely buy? | Recommendations | StitchFix, Pinterest, GFTA | |
+| When and where will traffic happen? | Transportation | Lyft, Uber, KeepTruckin, CityMapper | City of San Francisco |
+| How might we optimize supply chain throughput, bandwidth, marginal profit? | Supply Chain and Ops Mgmt | Walmart, Target, Sight Machine, Flexport | |
+| | | |
+| **Consulting** | Management Consulting and Software Consulting | Pivotal Labs, SVDS, Accenture, Thinking Machines | |
+| | | |
+| **Platform Tooling** | Analytics, Infrastructure, Platform Tools | Cloudera, Mode Analytics, Crowdflower, Quid | |
+| Is this hypothesis valid? | Experimentation, AB Testing | Optimizely | | 
 
-
-Please PR your ideas, even if no company known to humans does the thing you're thinking of!
+Please PR your ideas, even if no company known to humans does the thing you're thinking of.
 
 #### Advice from Professionals
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
