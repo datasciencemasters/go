@@ -1,6 +1,6 @@
 _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), Product Manager @lyft and Founder at [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
 
-### Introduction to `Take Two`
+#### Introduction to `Take Two`
 
 It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I've decided it's time to update.
 
@@ -291,7 +291,8 @@ _Data Science_, especially in the moment when its moniker rose to prominence, wa
 **Data Science is a team sport.** The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties.
 
 
-1) Analytics **Goal: Build business knowledge and advise decision-making.**
+#### 1) Analytics 
+**Goal: Build business knowledge and advise decision-making.**
 
 This group uses analytical thinking, data manipulation, and business sense to analyze and advise the business on its goals and objectives. This group typically does not build software or scalable assets. Data Scientists may prototype fact_ tables (and other assets) which Data Engineering then enables to be scalably and consistently produced.
 
@@ -301,7 +302,8 @@ _Classic example: Analyst or Data Scientist uses analysis to better understand i
 * Business Data Analyst (Market Analysis, Forecasting)
 * Core Metrics Analyst
 
-2) Product / Research Science **Goal: Experiment to learn.**
+#### 2) Product / Research Science 
+**Goal: Experiment to learn.**
 
 A Research Scientist uses the scientific method to validate the value of a change in process or product. They will come up with an idea of how to model a real world phenomenon, then validate through experimental methods.
 
@@ -312,7 +314,8 @@ _Classic example: Research Scientist builds experimental methods to estimate the
 * Technical Behavioral Economist
 * Product Scientist
 
-3) Intelligence Engineering **Goal: Build and grow intelligent applications and products.**
+#### 3) Intelligence Engineering 
+**Goal: Build and grow intelligent applications and products.**
 
 Machine Intelligence Engineers play a role at the intersection of science and scale. They 
 
@@ -322,7 +325,8 @@ _Classic Example: NLP Engineer who improves language translations using neural n
 * Machine Intelligence Engineer — Search & NLP
 * Machine Intelligence Engineer — Recommendations and “Personalization”
 
-4) Data Design & Engineering **Goal: Define how the real world is encoded in data.**
+#### 4) Data Design & Engineering 
+**Goal: Define how the real world is encoded in data.**
 
 Data Engineering entails designing the production and maintenance of data such that it most accurately reflects the world being modeled by Data Scientists, Research Scientists, and Intelligence Engineers. They may take data models which Analysts have prototyped and turn them into living data assets. Data Design is always evolving and never "done".
 
