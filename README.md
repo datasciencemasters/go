@@ -272,7 +272,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 _Data Science_, especially in the moment when its moniker rose to prominence, was considered to be a lone wolf sport. The last 5 years have proven not only that **Data Science is a team sport**, but that Data Science requires leadership, tech transformation, and execution follow-through. The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties. I've bucketed the most discretely defined functions, which as we all know, are in reality much more blurred in definition. 
 
-In order to influence friends and win over enemies, I suggest thinking deliberately about contributors' **strengths** and **impact** in terms of domain (problem space) and role (solution space). Effective teamwork is dependent on framing the right problem, then leveraging each others' strengths to solve together. Teamwork makes the dream work!
+In order to win friends and influence people, I suggest thinking deliberately about contributors' **strengths** and **impact** in terms of domain (problem space) and role (solution space). Effective teamwork is dependent on framing the right problem, then leveraging each others' strengths to solve together. Teamwork makes the dream work!
 
 #### 1) Analytics 
 **Goal: Build business knowledge and advise decision-making.**
