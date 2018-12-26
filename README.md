@@ -274,6 +274,8 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 #### R resources are now [here](http://bit.ly/osdsm-rresources)
 
+***
+
 ### Data Science as a Profession
 
 ```
@@ -283,13 +285,9 @@ Data Platform / Engineering = Engineer data to the product [internal and/or cust
 Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
 ```
 
-_Data Science_, especially in the moment when its moniker rose to prominence, was considered to be 
+_Data Science_, especially in the moment when its moniker rose to prominence, was considered to be a lone wolf sport. The last 5 years have proven not only that **Data Science is a team sport**, but that Data Science requires leadership, tech transformation, and execution follow-through. The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties. I've bucketed the most discretely defined functions, which as we all know, are in reality much more blurred in definition. 
 
-
-#### Team Members of Data Science
-
-**Data Science is a team sport.** The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties.
-
+In order to influence friends and win over enemies, I suggest thinking deliberately about contributors' **strengths** and **impact** in terms of domain (problem space) and role (solution space). Effective teamwork is dependent on framing the right problem, then leveraging each others' strengths to solve together. Teamwork makes the dream work!
 
 #### 1) Analytics 
 **Goal: Build business knowledge and advise decision-making.**
@@ -317,7 +315,7 @@ _Classic example: Research Scientist builds experimental methods to estimate the
 #### 3) Intelligence Engineering 
 **Goal: Build and grow intelligent applications and products.**
 
-Machine Intelligence Engineers play a role at the intersection of science and scale. They 
+Machine Intelligence Engineers play a role at the intersection of science and scale. They are responsible for engineering algorithmic and statistical machinery at scale to satisfy customer needs and experience.
 
 _Classic Example: NLP Engineer who improves language translations using neural networks and a combination of reference texts and behavioral data like repeated queries_
 
