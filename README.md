@@ -1,4 +1,17 @@
-_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
+_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), Product Manager @lyft and Founder at [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
+
+### Introduction to `Take Two`
+
+It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I've decided it's time to update.
+
+Previous version can be found at this [commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2). RIP the past y'all.
+
+#### `Take Two` Change Log
+New sections added by popular demand or scientific advancement. Please PR additions!
+
+- Causation
+- Team Members of Data Science
+- Data Science across Domains
 
 ## The Open-Source Data Science Masters
 
@@ -106,6 +119,10 @@ Human impact is a first-class concern when building machine intelligence technol
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
+#### **Statistics and Causation**
+ * Causal Inference in Statistics [Book ```$```]()
+ * The Book of Why [Book ```$```]()
+
 #### **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 #### **Problem Solving**
@@ -120,8 +137,8 @@ Get your environment up and running with the [Data Science Toolbox](http://bit.l
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
 
 #### **Distributed Computing Paradigms**
- * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
- * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
+ * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)*
+ * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
 #### **Databases**
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
@@ -259,6 +276,72 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
 ### Data Science as a Profession
 
+```
+Data Team #squadgoals with [metrics]:
+Data Science = Improve decision making [ROI, NPV, IRR], create Hypotheses [business mechanisms]
+Data Platform / Engineering = Engineer data to the product [internal and/or customer trust of data metrics]
+Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
+```
+
+_Data Science_, especially in the moment when its moniker rose to prominence, was considered to be 
+
+
+#### Team Members of Data Science
+
+**Data Science is a team sport.** The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties.
+
+
+1) Analytics **Goal: Build business knowledge and advise decision-making.**
+
+This group uses analytical thinking, data manipulation, and business sense to analyze and advise the business on its goals and objectives. This group typically does not build software or scalable assets. Data Scientists may prototype fact_ tables (and other assets) which Data Engineering then enables to be scalably and consistently produced.
+
+_Classic example: Analyst or Data Scientist uses analysis to better understand influence on different growth channels_
+
+* Analyst (Business Intelligence, Marketing) _sometimes called "Data Scientist" (see [this](https://twitter.com/josh_wills/status/198093512149958656))_
+* Business Data Analyst (Market Analysis, Forecasting)
+* Core Metrics Analyst
+
+2) Product / Research Science **Goal: Experiment to learn.**
+
+A Research Scientist uses the scientific method to validate the value of a change in process or product. They will come up with an idea of how to model a real world phenomenon, then validate through experimental methods.
+
+_Classic example: Research Scientist builds experimental methods to estimate the acceptance or rejection of new features across the user base_
+
+* Research Scientist
+* Experimental Statistician
+* Technical Behavioral Economist
+* Product Scientist
+
+3) Intelligence Engineering **Goal: Build and grow intelligent applications and products.**
+
+Machine Intelligence Engineers play a role at the intersection of science and scale. They 
+
+_Classic Example: NLP Engineer who improves language translations using neural networks and a combination of reference texts and behavioral data like repeated queries_
+
+* Machine Intelligence Engineer — Risk
+* Machine Intelligence Engineer — Search & NLP
+* Machine Intelligence Engineer — Recommendations and “Personalization”
+
+4) Data Design & Engineering **Goal: Define how the real world is encoded in data.**
+
+Data Engineering entails designing the production and maintenance of data such that it most accurately reflects the world being modeled by Data Scientists, Research Scientists, and Intelligence Engineers. They may take data models which Analysts have prototyped and turn them into living data assets. Data Design is always evolving and never "done".
+
+_Classic Example: Data Engineer builds data flows from events to produced fact\_ tables, which reflect the bookings made across the company and their sources_
+
+* Data Engineering
+* Data Architect
+* Product Management
+* Application Engineering
+
+#### Data Science Across Domains
+
+**Huge Disclaimer:** You can "Data Science" _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
+
+
+
+Please PR your ideas, even if no company known to humans does the thing you're thinking of!
+
+#### Advice from Professionals
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
  * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
 
