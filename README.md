@@ -7,16 +7,26 @@ It's been 5 years since the original OSDSM was published as the first open Maste
 >We need more Data Scientists.
 > ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge. - [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
 
+And of the second citation, which has also lapsed:
+
 > There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
 -- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
 
-And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), a shortage of experienced management for Data Science teams, 
+And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal industrial gender (Men=74%) and racial diversity](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/) among many others. 
+
+In 2015, before these storms surfaced, I gave a [talk on the danger of perpetuating cultural bias with machine learning](https://www.youtube.com/watch?v=7N0bIv-5plE). Before the talk, I paced the green room, thinking maybe Josh Wills had been mistaken to give me this slot, that the adverse impacts of our statistically-geared systems were actually irrelevant and trivial in today's world. Would I let everyone down by raining on the techno-utopian parade? Was I overreacting to a distant problem, solving traffic congestion on Mars? As the talk ended, the immediate reaction I received from my peers in leadership was unanimous: **We need to talk about the impact and ethics of our work.**
+
+Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously.
+
+**We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
+
+_-Clare 12/25/2018_
 
 #### `Take Two` Change Log
 1. New sections added by popular demand or scientific advancement. Please PR additions!
-- Causation
-- Team Members of Data Science
-- Data Science across Domains
+  - Statistics: Causation
+  - Team Members of Data Science
+  - Data Science across Domains
 2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
 3. Pared down links to a more opinionated list.
 
@@ -129,15 +139,13 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 #### **Data Mining**
- * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
+ * Mining Massive Data Sets / Stanford [Coures & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
 #### **Data Design**
 How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
-
-_OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
 ### **Machine Learning**
 
