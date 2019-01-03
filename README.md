@@ -145,11 +145,12 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
-#### **Data Design**
+#### **Data Design & Processing**
 `pip install apache-airflow`
 
 How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+ * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
  * _need tutorial for Airflow, Maxime's blog posts_
 
 ### **Machine Learning**
