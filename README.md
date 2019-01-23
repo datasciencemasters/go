@@ -105,6 +105,7 @@ Human impact is a first-class concern when building machine intelligence technol
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
+ * Introduction to Statistics (https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/lecture-1-introduction-to-statistics/)
 
 #### **Differential Equations & Calculus**
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
