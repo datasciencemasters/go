@@ -111,6 +111,9 @@ Get acquainted with the challenge, terminology, technology, statistics, communic
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 #### **Statistics: Causation**
+
+`pip install numpy pandas [causalinference](https://pypi.org/project/CausalInference/)`
+
 A branch of statistics that uses graphical models and specialized statistics to describe and model cause and effect. Editor: Something to watch closely, this is evolving with new capabilities resulting from modeling with big data.
 
  * Causal Inference in Statistics [Book ```$25```](https://amzn.to/2RiTxmq)
