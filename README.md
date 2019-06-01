@@ -1,4 +1,4 @@
-_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), Product Manager @lyft and Founder at [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
+_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter)_
 
 #### Introduction to `Take Two`
 
