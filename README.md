@@ -1,5 +1,3 @@
-_created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter)_
-
 #### Introduction to `Take Two`
 
 It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I realized that we've arrived at the "future" portended by my opening citation:
@@ -22,7 +20,7 @@ Today, data is one of the sharpest tools in the technological shed. In human his
 
 **We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
 
-_-Clare 12/25/2018_
+_- [Clare](http://bit.ly/clarecorthelltwitter) 12/25/2018_
 
 #### `Take Two` Change Log
 1. New sections added by popular demand or scientific advancement. Please PR additions!
