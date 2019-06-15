@@ -289,11 +289,9 @@ In order to win friends and influence people, I suggest thinking deliberately ab
 
 This group uses analytical thinking, data manipulation, and business sense to analyze and advise the business on its goals and objectives. This group typically does not build software or scalable assets. Data Scientists may prototype fact_ tables (and other assets) which Data Engineering then enables to be scalably and consistently produced.
 
-_Classic example: Analyst or Data Scientist uses analysis to better understand influence on different growth channels_
+_Classic example: Data Scientist uses analysis to better understand growth and churn of different customer segments_
 
-* Analyst (Business Intelligence, Marketing) _sometimes called "Data Scientist" (see [this](https://twitter.com/josh_wills/status/198093512149958656))_
-* Business Data Analyst (Market Analysis, Forecasting)
-* Core Metrics Analyst
+* Data Scientist or Data Analyst (Business Intelligence, Market Analysis, Marketing) _see [this](https://twitter.com/josh_wills/status/198093512149958656)_
 
 #### 2) Product / Research Science 
 **Goal: Experiment to learn.**
