@@ -209,6 +209,9 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
+_Data Intensive System Design_
+[Book](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=asc_df_1449373321/?tag=hyprod-20&linkCode=df0&hvadid=266396064900&hvpos=1o1&hvnetw=g&hvrand=460378578735612828&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032152&hvtargid=pla-432535594773&psc=1)
+
 #### **Python** (Learning)
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
