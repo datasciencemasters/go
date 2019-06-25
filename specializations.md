@@ -4,7 +4,7 @@ _[Note: I'm adding this section due to the overwhelming amount of input from new
 
 #### Machine Learning
 
-* Neural Networks for Machine Learning [U Toronto / Coursera](https://www.coursera.org/course/neuralnets)
+* Neural Networks for Machine Learning [U Toronto](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 * [Building Machine Learning Systems with Python](http://www.packtpub.com/building-machine-learning-systems-with-python/book) [source code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 Packages
