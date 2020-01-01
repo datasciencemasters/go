@@ -107,7 +107,7 @@ Human impact is a first-class concern when building machine intelligence technol
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
 
 #### **Differential Equations & Calculus**
- * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Differential Equations in Data Science [Python Tutorial](https://web.archive.org/web/20190617023702/https://nbviewer.jupyter.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 #### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
