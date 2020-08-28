@@ -16,7 +16,7 @@ In 2015, while these storms brewed and only some had recognized them, I gave a [
 
 > Computers reflect the biases and belief systems of the people programming them -- [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
 
-Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously. And to read [Frankenstein](https://amzn.to/2zUkt4z).
+Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously. And to read [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf).
 
 **We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
 
@@ -30,8 +30,8 @@ _- [Clare](http://bit.ly/clarecorthelltwitter) 12/25/2018_
 2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
 3. Pared down links to a more opinionated list.
 4. Theory + Python tools together under each topic. All you need under one roof.
-
-_RIP [v1.0 commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2)_
+5. [Bookshop.org](http://bookshop.org) links for all books, which supports independent bookshops with commissions.
+6. No change to donations. Since the first commits in 2014, I have donated any related commissions to [Planned Parenthood](https://www.plannedparenthood.org/), which was one of the few healthcare providers in my community growing up and is the largest single provider of reproductive health services in the US.
 
 ## The Open-Source Data Science Masters
 
@@ -67,9 +67,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 -- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
 
 ### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
-Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
-
+This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). The original curriculum is geared toward **Python tools and resources**.
 ***
 
 ## The Open Source Data Science Curriculum
@@ -79,21 +77,17 @@ Out of personal preference and need for focus, I geared the original curriculum 
 ### Intro to Data Science
 Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
 
- 1. The Signal and The Noise / Nate Silver [Book ```$15```](http://amzn.to/1hoxQoG) -- Narrative case studies of Data Science.
- 7. Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
- 3. Python for Data Analysis [Book ```$30```](https://amzn.to/2AftTFF) -- Jump right into Python Pandas, the backbone of data analysis across industries. `pip install numpy pandas`
- 2. Intro to Data Science / University of Washington [Lectures](https://github.com/datasciencemasters/go/issues/102#issuecomment-230376801) *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
- 4. The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
- 5. The Talking Machines [Podcast](http://www.thetalkingmachines.com/)
+ 1. READ The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrative case studies of Data Science.
+ 2. TRY Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058) -- Jump right into Python as the core tool for doing Data Science `pip install numpy pandas jupyter sklearn`
+ 3. WATCH Intro to Data Science / University of Washington [Lectures](https://www.youtube.com/playlist?list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-)
+ 4. WITNESS The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 
 #### **Problem Solving**
- * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
+ * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
 #### **Linear Algebra & Programming**
-`pip install numpy pandas`
-
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
- * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
+ * Linear Algebra / Levandosky [Stanford / Book ```$38```](https://bookshop.org/a/2958/9780536667472)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
  * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
@@ -392,11 +386,10 @@ Please PR your ideas, even if no company known to humans does the thing you're t
 
 ***
 
-### Notation
-Non-Open-Source books, courses, and resources are noted with ```$```.
-
 ## Contribute
 
-Please Contribute -- **this is Open Source!**
+Please Contribute; **this is Open Source!**
 
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+[@clarecorthell](http://bit.ly/clarecorthelltwitter)
+
+_RIP [v1.0 commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2)_
