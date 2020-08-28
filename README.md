@@ -23,7 +23,7 @@ Today, data is one of the sharpest tools in the technological shed. In human his
 
 **We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
 
-_- [Clare](http://bit.ly/clarecorthelltwitter) 12/25/2018_
+- [Clare](http://bit.ly/clarecorthelltwitter)
 
 #### `Take Two` Change Log
 1. New sections added by popular demand or scientific advancement. Please PR additions!
