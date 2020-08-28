@@ -374,7 +374,6 @@ Please PR your ideas, even if no company known to humans does the thing you're t
 ### Resources
 
 #### Read
-* [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
