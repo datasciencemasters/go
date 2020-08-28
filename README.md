@@ -3,12 +3,15 @@
 It's been 5 years since the original OSDSM was published as the first open Masters Curriculum on Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I realized that we've arrived at the "future" portended by my opening citation:
 
 >We need more Data Scientists.
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge. - [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
+> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge. 
+
+_-- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013_
 
 And of the second citation, which has also lapsed:
 
 > There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
--- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
+
+_-- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012_
 
 And sure enough, the challenges today are different. We struggle with the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), and an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify Uyghur](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) who are systematically [detained in China](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), among many others conundrums.
 
