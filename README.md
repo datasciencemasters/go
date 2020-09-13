@@ -241,6 +241,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 #### **Natural Language Processing & Understanding**
    * [NLTK](http://bit.ly/py-nltk) - Natural Language Toolkit
    * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+   *[spaCy](https://spacy.io/usage/spacy-101) - A Python library that process and “understand” large volumes of text.It can be used to build information extraction or natural language understanding systems, or to pre-process text for deep learning.
 
 #### **Data APIs**
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
