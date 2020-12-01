@@ -175,6 +175,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+ * Learn Dataskills [Courses](www.datacamp.com)
 
 #### **in Python**
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
