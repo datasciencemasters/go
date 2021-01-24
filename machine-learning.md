@@ -19,3 +19,7 @@
 ### Statistical Definitions
 
 * [Accuracy & Precision](http://en.wikipedia.org/wiki/Accuracy_and_precision) (relevant to classification, measuring efficacy of learned models)
+
+### MLOps
+
+* [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning).
