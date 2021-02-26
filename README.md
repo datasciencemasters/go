@@ -100,6 +100,7 @@ Human impact is a first-class concern when building machine intelligence technol
 
 #### **Convex Optimization**
  * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+ * Youtube lectures / University of Texas/ [Professor Constantine Caramine](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 
 #### **Statistics**
  * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
