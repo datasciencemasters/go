@@ -25,7 +25,7 @@ Today, data is one of the sharpest tools in the technological shed. In human his
 
 **We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
 
-- [Clare](http://bit.ly/clarecorthelltwitter)
+![](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ENASA&region=follow_link&screen_name=NASA)
 
 #### `Take Two` Change Log
 1. New sections added by popular demand or scientific advancement. Please PR additions!
@@ -199,6 +199,9 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 * Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 ### Data Communication and Design
+
+#### **Effective Communication & Storytelling**
+* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
 #### **Visualization**
 
