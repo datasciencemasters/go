@@ -201,7 +201,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 ### Data Communication and Design
 
 #### **Effective Communication & Storytelling**
-* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)
 
 #### **Visualization**
 
