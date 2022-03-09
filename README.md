@@ -188,6 +188,7 @@ Some sources:
 ### Credential: Document courses + capstone, link on Li
 (how to)
 
+***
 ### So Extra "Extracurriculars"
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
