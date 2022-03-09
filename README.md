@@ -1,42 +1,39 @@
-#### `Take Two`
+#### Editor's Note: `Take Two`
 
-It's been 5 years since I published the first open source Masters Curriculum in Data Science. Much has changed -- including the definition of the term _Data Science_ itself -- and sipping tea by an Arctic fire late one night in December 2018, I realized that we've arrived at the "future" portended by the opening citations:
+In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." _David Hardtke, Nov 2012_. Since then, history has witnessed a few things...
 
->We need more Data Scientists.
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge. 
-> 
-> -- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
+- Data Scientists working across industries and the world
+- social media manipulated to disrupt elections
+- BLM and #metoo
+- machine learning begins falling to engineering
+- a pandemic
+- climate change disasters becoming very frequent
+- remote work becomes normal
 
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-> 
-> -- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
+In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, the adverse consequences and complications of data-driven systems have become core to the Data Science conversation. Data-enabled technologies have enabled a litany of problematic applications -- the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** If nothing else, an afternoon would be well spent reviewing the prescient novel [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf), and to consider what you birth into our world.
 
-And in 10 years of Data Science, the consequences and resulting complications have become a warranted part of the conversation. We struggle with the [ethical implications of learning from data](http://machinebias.org), [undermining elections with psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), and an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify Uyghur](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) who are systematically [detained in China](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), among many others conundrums.
-
-In 2015, while these storms brewed and only some had recognized them, I gave a [talk on the danger of perpetuating cultural bias with machine learning](https://www.youtube.com/watch?v=7N0bIv-5plE). Before the talk, I paced the green room, thinking maybe Josh Wills had been mistaken to give me this slot, that the adverse impacts of our statistically-geared systems were actually irrelevant and trivial in today's world. Would I let everyone down by raining on the techno-utopian parade? Was I too irreverent? Was I overreacting to a distant problem, solving traffic congestion on Mars? As the talk ended, the immediate reaction I received from my peers in leadership was unanimous: **We need to talk about the ethical impact of our work.**
+Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all people. To balance this, we seek to lower the barriers to education for all people. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions.
 
 > Computers reflect the biases and belief systems of the people programming them 
 > 
 > -- [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
 
-Of course, the market need isn't the only reason to bring together an interdisciplinary curriculum for Data Science; nor should the unintended consequences or ill-uses cause condemn it.
+The OSDSM is built with the belief that **open source education enables the possibility for a diverse, collective, generative future-building.** I hope that you are one of the next Data Scientists to make a difference in the world by helping us all make better decisions with the scientific process and critical thinking. This rewritten curriculum focuses on what is needed to be successful in the entry-level role, but I hope it extends far beyond that.
 
-Today, data is one of the sharpest tools in the technological shed. In human history, technology has [strengthened or reshaped social, political, and cultural power](https://mitpress.mit.edu/books/technologies-power), directly impacting who gains and maintains power. Those who can wield data may have an edge to gain power. And with that power, dear data friends, I ask you to take your great responsibility seriously. And to read [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf).
+## The Open Source Data Science Masters
 
-**We have a lot of work to do. Let's make our world a better place -- unless you prefer Mars (I hear they have horrid traffic jams).**
+The open-source curriculum for learning to be a Data Scientist. Curriculum resources from both universities and working Data Scientists focuses on foundational theory and applied skills. The OSDSM is collectively-maintained and open to PRs.
+
+The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials at no cost. The Masters is self-guided and self-accredited. To support this, the structure now includes a Capstone project to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a Credential on LinkedIn.
+
+This is called a "Masters" because it is primarily geared toward learners with some college-level education in mathematics, programming, economics, or related disciplines. Come as you are!
+
+1. **The Core** - This is a critical foundation for what is to come; don't skip the foundational lessons.
+2. **Specialty** - Choose what is most interesting to you, or most relevant to the work you plan to do.
+3. **Data Science at Work** - Learn about how doing science with others and for businesses can work.
+4. **Capstone Project** - Choose a meaningful project or dataset to demonstrate what you've learned.
 
 ![](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ENASA&region=follow_link&screen_name=NASA)
-
-## The Open-Source Data Science Masters
-
-The open-source curriculum for learning Data Science, focused on foundational theory and application. This is the collectively-maintained source for the best training to making use of data.
-
-### OSDSM Structure
-1. Introduction to Data Science
-2. The Core - Courses on crucial topics and skills
-3. Specialization - Pick 2+ courses on special topics
-4. Capstone - Do a final Data Science Project
-5. Publish your Transcript & Capstone Project
 
 ### Motivation
 
