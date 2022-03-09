@@ -88,7 +88,7 @@ Get acquainted with the challenge, terminology, technology, statistics, communic
  4. WITNESS The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 
 #### **Problem Solving**
- * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$18```](https://bookshop.org/a/2958/9780691164076)
+ * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
 #### **Linear Algebra & Programming**
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
