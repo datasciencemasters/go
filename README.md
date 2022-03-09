@@ -201,7 +201,6 @@ Some sources:
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
- * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
  * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
  * Python for Data Analysis [Book ```$55```](https://bookshop.org/a/2958/9781491957660)
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$45```](https://bookshop.org/a/2958/9781491939369)
