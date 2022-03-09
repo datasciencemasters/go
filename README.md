@@ -41,259 +41,181 @@ This is called a "Masters" because it is primarily geared toward learners with s
 ## 📖 The Core
 _This is a critical foundation for what is to come; don't skip!_
 
-Problem Solving
-Data Modeling + Querying
-Linear Algebra
-Intro Statistics (Bayesian Statistics?)
-Programming in Python + Algorithms
-Data Analysis
-Experimentation & Experimental Methods
-Products (ml as high interest credit card)
+### What is Data Science?
+- The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrative case studies of Data Science.
+- The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 
-## ❄️ Specialty
-_Choose what is most interesting to you, or most relevant to the work you plan to do._
+### Foundations of Data Science
 
-Causation
-Natural Language Processing
-Bayesian Methods
-Graph Analysis
-Network Analysis
-Economic modeling
-Machine Learning (more algos)
-Visualization
-Special Topics (optional)
-
-## 🤝 Doing Data Science
-_Learn about how doing science with others and for businesses can work._
-
-What is the job? (get a lot of quotes)
-(Data Science over Zoom) Communication and Persuasion
-The Spec (doc)
-The Experiment Design (doc)
-The Decision Guidance (slide deck, doc)
-
-## 🧑‍💻 Capstone Project
-_Choose a meaningful project or dataset to demonstrate what you've learned._
-
-Pick data that you care about
-Ask a question
-Show your work + explain why you chose this project
-Credential
-Document courses + capstone, link on Li
-
-
-
-***
-OLD COPY EDITING ABOVE
-
-### Intro to Data Science
-Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
-
- 1. READ The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrative case studies of Data Science.
- 2. TRY Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058) -- Jump right into Python as the core tool for doing Data Science `pip install numpy pandas jupyter sklearn`
- 3. WATCH Intro to Data Science / University of Washington [Lectures](https://www.youtube.com/playlist?list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-)
- 4. WITNESS The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
-
-#### **Problem Solving**
+#### Problem Solving
  * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
-#### **Linear Algebra & Programming**
- * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
- * Linear Algebra / Levandosky [Stanford / Book ```$38```](https://bookshop.org/a/2958/9780536667472)
- * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
- * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
- * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
- * A Programmer's Intuition for Matrix Multiplication [Better Explained / Article](https://betterexplained.com/articles/matrix-multiplication/)
- * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
- * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
-
-#### **Statistics: Frequentist & Bayesian**
-`pip install numpy pandas statsmodels`
-
- * Stats in a Nutshell [Book ```$29```](http://amzn.to/1iMnx2X)
- * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$25```](http://amzn.to/RcVnTf)
- * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](http://amzn.to/1hmy4Cr)
-
-#### **Statistics: Causation**
-
-`pip install numpy pandas (causalinference)[https://pypi.org/project/CausalInference/]`
-
-A branch of statistics that uses graphical models and specialized statistics to describe and model cause and effect. Editor: Something to watch closely, this is evolving with new capabilities resulting from modeling with big data.
-
- * Causal Inference in Statistics [Book ```$25```](https://amzn.to/2RiTxmq)
- * The Book of Why [Book ```$22```](https://amzn.to/2Ac3hoQ)
-
-#### **Convex Optimization**
- * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
-#### **Differential Equations & Calculus**
- * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
-
-#### **Algorithms**
- * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
- * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
-
-#### **Distributed Computing**
- * _add new_
-
-#### **Databases**
+#### Data Modeling + Querying
  * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
-#### **Data Mining**
- * Mining Massive Data Sets / Stanford [Coures & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](http://amzn.to/1txocpo)
- * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
- * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
+### Math & Statistics
+#### Linear Algebra
+ * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
+ * A Programmer's Intuition for Matrix Multiplication [Better Explained / Article](https://betterexplained.com/articles/matrix-multiplication/)
+ * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
+ * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
+ * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
 
-#### **Social Network & Graph Analysis**
-`pip install networkx`
+#### Statistics
+ * Stats in a Nutshell [Book ```$46```](https://bookshop.org/a/2958/9781449316822)
+ * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$34```](https://bookshop.org/a/2958/9781491907337)
+ * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](https://bookshop.org/a/2958/9781492089469)
+ * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
 
+### Python
+#### Environment & Libraries
+ * Help installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
+ * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
+
+#### Python
+ * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$37```](https://bookshop.org/a/2958/9780134692883)
+ * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$45```](https://bookshop.org/a/2958/9781491939369)
+
+#### Python Programming + Algorithms
+ * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
+ * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
+
+#### Data Analysis
+* [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+* Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058)
+ * Pandas Cookbook [Examples](http://bit.ly/jvnspandascookbook)
+ * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
+ * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
+ * Python for Data Analysis [Book ```$55```](https://bookshop.org/a/2958/9781491957660)
+- Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+### The Scientific Process & Practice
+(add resources)
+
+### Experimentation & Experimental Methods
+
+### All-in-one Courses
+Courses with most of the topics above included. Just fill in any gaps!
+- Intro to Data Science / University of Washington [Lectures](https://www.youtube.com/playlist?list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-)
+
+## ❄️ Specialty
+_Choose what is most interesting to you, or most relevant to the work you plan to do._
+
+### Causation
+A branch of statistics that uses graphical models and specialized statistics to describe and model cause and effect.
+
+ * Causal Inference in Statistics [Book ```$46```](https://bookshop.org/a/2958/9781119186847)
+ * The Book of Why [Book ```$17```](https://bookshop.org/a/2958/9781541698963)
+
+### Natural Language Processing
+ * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
+ * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
+ * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
+
+#### Bayesian Methods
+
+#### Graph Analysis
+```[networkx](http://bit.ly/py-networkx)```
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
-#### **Data Design & Processing**
-`pip install apache-airflow`
-
-How does the real world get translated into data? How should one structure that data to make it understandable and usable? Extends beyond database design to usability of schemas and models.
- * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
- * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
- * _need tutorial for Airflow, Maxime's blog posts_
-
-### **Machine Learning**
-`pip install -U scikit-learn matplotlib pandas numpy`
-
+#### Machine Learning
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
- * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
-### **Probabilistic Modeling**
- * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
- * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+#### Visualization
 
-#### **Deep Learning (Neural Networks)**
+Courses
+ * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
+ * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
+ * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
 
- * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
- * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
- * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
-
-#### **Natural Language Processing**
-`pip install -U nltk`
-
- * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
- * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
- * How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
-
-### Data Analysis
-`pip install numpy pandas`
-
-One of the "unteachable" skills of data science is an intuition for analysis. What constitutes valuable, achievable, and well-designed analysis is extremely dependent on context and ends at hand.
-
- * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
- * [Pandas Cookbook](http://bit.ly/jvnspandascookbook)
- * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
- * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
- * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
- * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
-
-### Designing Machine Intelligence Systems
-
-* Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
-
-### Data Communication and Design
-
-#### **Effective Communication & Storytelling**
-* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)
-
-#### **Visualization**
-
- _Data Visualization and Communication_
- * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
-
- _Theoretical Design of Information_
-
+Books
+ * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](https://bookshop.org/a/2958/9781938377006)
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
+ * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$50`](https://bookshop.org/a/2958/9781491921289)
 
- _Applied Design of Information_
- * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](http://amzn.to/1Vwz21v)
+#### Linear Programming + Convex Optimization
+ * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
+* Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
- _Theoretical Courses / Design & Visualization_
+#### Deep Learning / Neural Networks
+ * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
+ * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
- * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
- * Berkeley's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
- * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
+### Special Topics
+"Extracurriculars"
+* The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
+ * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
+ * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+ * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+ * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
 
- _Practical Visualization Resources_
+## 🤝 Doing Data Science
+_Learn about how doing science with others and for businesses can work._
 
- * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
- * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
+### What is the job?
+ * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$50```](https://bookshop.org/a/2958/9781449358655)
+ * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
 
-#### **Python** Learning
- * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
- * Python [Class / Google](http://bit.ly/T4j40A)
- * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
- 
-#### **Python** Environment & Libraries
- * Help installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
- * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
+### Realities of Building Data-Driven Products
+- Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
-_More Libraries can be found in the ["awesome machine learning"](https://github.com/josephmisiti/awesome-machine-learning#python) repo_
+### (Data Science over Zoom) Communication and Persuasion
+* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)
 
-#### **Python** (Libraries)
+#### The Spec (doc)
+#### The Experiment Design (doc)
+#### Case Presentation (slide deck, doc)
 
-#### **Data Structures & Analysis Packages**
-   * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+## 🧑‍💻 Capstone Project
+_Choose a meaningful project or dataset to demonstrate what you've learned._
 
-#### **Machine Learning Packages**
-   * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis
+### Pick a dataset that you care about
+(Links and ideas)
 
-#### **Networks Packages**
-   * [networkx](http://bit.ly/py-networkx) - Network Modeling & Viz
+* Datasets are now [here](http://bit.ly/osdsm-datasets-link)
+* Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
+* Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
+* Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 
-#### **Statistical Packages**
-   * [PyMC](http://bit.ly/py-pymc) - Bayesian Inference & Markov Chain Monte Carlo sampling toolkit
-   * [Statsmodels](http://bit.ly/py-statsmodel) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests
-   * [PyMVPA](http://bit.ly/py-mvpa) - Multivariate Pattern Analysis in Python
+### Ask a question (Spec)
+(Example)
 
-#### **Natural Language Processing & Understanding**
-   * 
-   * [Gensim](http://bit.ly/py-gensim) - Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+### Formulate a hypothesis
+(Resource needed)
 
-#### **Data APIs**
-   * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API
-
-#### **Visualization Packages**
-   * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
-   * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
-
-#### **iPython Data Science Notebooks**
+### Show your work + explain why you chose this project (Case Presentation)
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
 
-#### Datasets are now [here](http://bit.ly/osdsm-datasets-link)
+### Credential: Document courses + capstone, link on Li
+(how to)
 
-#### R resources are now [here](http://bit.ly/osdsm-rresources)
+### Other Resources of Interest
+ * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
+ * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
+ * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
+ * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+ * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
+ * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
+ * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+
+
+
+
+
 
 ***
 
-### Data Science as a Profession
-
-> Data Team #squadgoals with [metrics]:
- 
-> Data Science = Improve decision making [ROI, NPV, IRR], create Hypotheses [business mechanisms]
- 
-> Data Platform / Engineering = Engineer data to the product [internal and/or customer trust of data metrics]
-
-> Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
-
-_Data Science_, especially in the moment when its moniker rose to prominence, was considered to be a lone wolf sport. The last 5 years have proven not only that **Data Science is a team sport**, but that Data Science requires leadership, tech transformation, and execution follow-through. The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties. I've bucketed the most discretely defined functions, which as we all know, are in reality much more blurred in definition. 
-
-In order to win friends and influence people, I suggest thinking deliberately about contributors' **strengths** and **impact** in terms of domain (problem space) and role (solution space). Effective teamwork is dependent on framing the right problem, then leveraging each others' strengths to solve together. Teamwork makes the dream work!
 
 #### 1) Analytics 
 **Goal: Build business knowledge and advise decision-making.**
@@ -323,50 +245,6 @@ Data Engineering entails designing the production and maintenance of data such t
 
 _Classic Example: Data Engineer builds data flows from events to produced fact\_ tables, which reflect the bookings made across the company and their sources_
 
-### Ethics in Data Science & Machine Intelligence
-Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
-* [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
-
-### Data Science Across Domains
-
-**Huge Disclaimer:** You can "Data Science" almost _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
-
-| Domain | Problem Space | 
-| -- | -- | -- | -- |
-| **Risk & Economic Modeling** | | | |
-| Is this person who they say they are? | Financial & Identity Risk | 
-| Which customers to target with this Ad? | Customer Targeting and Ads Applications | 
-| What credit terms to assign this consumer? | Creditworthiness | 
-| Price of a given thing? | Econometrics and Price Modeling | 
-| What observable factors predict patient risk of a given adverse condition? | Healthcare Risk Modeling and Projections | 
-| What might the range of effects of upcoming policy be? | Policy Simulation | 
-| Where might the next natural disaster occur? | 
-| How might we assign risk to high-impact, rare events? | Surveillance Platforms | 
-| | | |
-| **Features & Optimization** | | | |
-| What information is relevant? | Information Extraction, Structuring Applications, NLP | Google knowledge graph and similar teams | |
-| What else would this consumer likely buy? | Recommendations | 
-| When and where will traffic happen? | Transportation | 
-| How might we optimize supply chain throughput, bandwidth, marginal profit? | Supply Chain and Ops Mgmt | 
-| | | |
-| **[Data Journalism](https://datajournalismhandbook.org/1.0/en/index.html)** | 
-| What evidence can be derived from available data? | 
-| | | |
-| **Consulting** | Management Consulting and Software Consulting | 
-| | | |
-| **Platform Tooling** | Analytics, Infrastructure, Platform Tools | 
-| Is this hypothesis valid? | Experimentation, AB Testing |
-
-Please PR your ideas, even if no company known to humans does the thing you're thinking of.
-
-#### Advice from Professionals
- * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
- * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
-
-### Capstone Project
-* Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
-* Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
-* Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 
 ***
 
