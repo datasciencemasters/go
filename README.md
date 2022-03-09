@@ -16,7 +16,7 @@ Like any tool, data-driven technologies are indifferent to the morality of their
 
 > Computers reflect the biases and belief systems of the people programming them 
 > 
-> -- [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
+> [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
 
 The OSDSM is built with the belief that **open source education enables the possibility for a diverse, collective, generative future-building.** I hope that you are one of the next Data Scientists to make a difference in the world by helping us all make better decisions with the scientific process and critical thinking. This rewritten curriculum focuses on what is needed to be successful in the entry-level role, but I hope it extends far beyond that.
 
@@ -71,25 +71,23 @@ _This is a critical foundation for what is to come; don't skip!_
 
 ### Python
 #### Environment & Libraries
- * Help installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
+ * Installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
  * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
 
 #### Python
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$37```](https://bookshop.org/a/2958/9780134692883)
- * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$45```](https://bookshop.org/a/2958/9781491939369)
 
 #### Python Programming + Algorithms
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
 
 #### Data Analysis
-* [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+* [pandas](http://bit.ly/py-pandas) tutorials
 * Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058)
- * Pandas Cookbook [Examples](http://bit.ly/jvnspandascookbook)
- * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
- * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
- * Python for Data Analysis [Book ```$55```](https://bookshop.org/a/2958/9781491957660)
-- Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
+* Pandas Cookbook [Examples](http://bit.ly/jvnspandascookbook)
+* Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
+* Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
+* Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
 
 ### The Scientific Process & Practice
 (add resources)
@@ -100,7 +98,7 @@ _This is a critical foundation for what is to come; don't skip!_
 Courses with most of the topics above included. Just fill in any gaps!
 - Intro to Data Science / University of Washington [Lectures](https://www.youtube.com/playlist?list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-)
 
-## ❄️ Specialty
+## ❄️ Specialty: Choose 2
 _Choose what is most interesting to you, or most relevant to the work you plan to do._
 
 ### Causation
@@ -114,32 +112,27 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
  * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
-#### Bayesian Methods
-
 #### Graph Analysis
-```[networkx](http://bit.ly/py-networkx)```
+[```networkx```](http://bit.ly/py-networkx)
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 #### Machine Learning
+ * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
+ * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
- * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
- * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
+ * Programming Collective Intelligence [Book ```$46```](https://bookshop.org/a/2958/9780596529321)
 
 #### Visualization
 
 Courses
  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
  * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
- * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
 
 Books
- * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](https://bookshop.org/a/2958/9781938377006)
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
- * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$50`](https://bookshop.org/a/2958/9781491921289)
 
 #### Linear Programming + Convex Optimization
@@ -150,19 +143,13 @@ Books
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
-### Special Topics
-"Extracurriculars"
-* The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
- * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
- * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
- * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
- * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
- * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
-
 ## 🤝 Doing Data Science
 _Learn about how doing science with others and for businesses can work._
 
 ### What is the job?
+
+The Data Scientist advises strategic decision-making with data-backed analysis and tested hypotheses.
+
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$50```](https://bookshop.org/a/2958/9781449358655)
  * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
 
@@ -173,16 +160,17 @@ _Learn about how doing science with others and for businesses can work._
 * LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)
 
 #### The Spec (doc)
+
 #### The Experiment Design (doc)
+
 #### Case Presentation (slide deck, doc)
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
 
 ### Pick a dataset that you care about
-(Links and ideas)
-
-* Datasets are now [here](http://bit.ly/osdsm-datasets-link)
+Some sources:
+* Some datasets [here](http://bit.ly/osdsm-datasets-link)
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
@@ -200,7 +188,7 @@ _Choose a meaningful project or dataset to demonstrate what you've learned._
 ### Credential: Document courses + capstone, link on Li
 (how to)
 
-### Other Resources of Interest
+### So Extra "Extracurriculars"
  * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
@@ -208,43 +196,17 @@ _Choose a meaningful project or dataset to demonstrate what you've learned._
  * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
-
-
-
-
-
-
-***
-
-
-#### 1) Analytics 
-**Goal: Build business knowledge and advise decision-making.**
-
-This group uses analytical thinking, data manipulation, and business sense to analyze and advise the business on its goals and objectives. This group typically does not build software or scalable assets. Data Scientists may prototype fact_ tables (and other assets) which Data Engineering then enables to be scalably and consistently produced.
-
-_Classic example: Data Scientist uses analysis to better understand growth and churn of different customer segments_
-
-#### 2) Product / Research Science 
-**Goal: Experiment to learn.**
-
-A Research Scientist uses the scientific method to validate the value of a change in process or product. They will come up with an idea of how to model a real world phenomenon, then validate through experimental methods.
-
-_Classic example: Research Scientist builds experimental methods to estimate the acceptance or rejection of new features across the user base_
-
-#### 3) Intelligence Engineering 
-**Goal: Build and grow intelligent applications and products.**
-
-Machine Intelligence Engineers play a role at the intersection of science and scale. They are responsible for engineering algorithmic and statistical machinery at scale to satisfy customer needs and experience.
-
-_Classic Example: NLP Engineer who improves language translations using neural networks and a combination of reference texts and behavioral data like repeated queries_
-
-#### 4) Data Design & Engineering 
-**Goal: Define how the real world is encoded in data.**
-
-Data Engineering entails designing the production and maintenance of data such that it most accurately reflects the world being modeled by Data Scientists, Research Scientists, and Intelligence Engineers. They may take data models which Analysts have prototyped and turn them into living data assets. Data Design is always evolving and never "done".
-
-_Classic Example: Data Engineer builds data flows from events to produced fact\_ tables, which reflect the bookings made across the company and their sources_
-
+* The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
+ * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
+ * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+ * [Functional Data Engineering — a modern paradigm for batch data processing / Maxime Beauchemin](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+ * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
+ * Python for Data Analysis [Book ```$55```](https://bookshop.org/a/2958/9781491957660)
+ * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$45```](https://bookshop.org/a/2958/9781491939369)
+ * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
+ * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](https://bookshop.org/a/2958/9781938377006)
+ * D3 Library / Scott Murray [Blog / Tutorials](https://alignedleft.com/tutorials)
 
 ***
 
