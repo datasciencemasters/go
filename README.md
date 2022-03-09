@@ -20,6 +20,10 @@ Like any tool, data-driven technologies are indifferent to the morality of their
 
 The OSDSM is built with the belief that **open source education enables the possibility for a diverse, collective, generative future-building.** I hope that you are one of the next Data Scientists to make a difference in the world by helping us all make better decisions with the scientific process and critical thinking. This rewritten curriculum focuses on what is needed to be successful in the entry-level role, but I hope it extends far beyond that.
 
+***
+
+# Start here 👇
+
 ## The Open Source Data Science Masters
 
 The open-source curriculum for learning to be a Data Scientist. Curriculum resources from both universities and working Data Scientists focuses on foundational theory and applied skills. The OSDSM is collectively-maintained and open to PRs.
@@ -28,20 +32,59 @@ The goal of this curriculum is to prepare the student for an entry level Data Sc
 
 This is called a "Masters" because it is primarily geared toward learners with some college-level education in mathematics, programming, economics, or related disciplines. Come as you are!
 
-1. **The Core** - This is a critical foundation for what is to come; don't skip the foundational lessons.
-2. **Specialty** - Choose what is most interesting to you, or most relevant to the work you plan to do.
-3. **Data Science at Work** - Learn about how doing science with others and for businesses can work.
-4. **Capstone Project** - Choose a meaningful project or dataset to demonstrate what you've learned.
+1. **📖 The Core** - This is a critical foundation for what is to come; don't skip the foundational lessons.
+2. **❄️ Specialty** - Choose what is most interesting to you, or most relevant to the work you plan to do.
+3. **🤝 Doing Data Science** - Learn about how doing science with others and for businesses can work.
+4. **🧑‍💻 Capstone Project** - Choose a meaningful project or dataset to demonstrate what you've learned.
 
-![](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ENASA&region=follow_link&screen_name=NASA)
 
-### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). The original curriculum is geared toward **Python tools and resources**.
+## 📖 The Core
+_This is a critical foundation for what is to come; don't skip!_
+
+Problem Solving
+Data Modeling + Querying
+Linear Algebra
+Intro Statistics (Bayesian Statistics?)
+Programming in Python + Algorithms
+Data Analysis
+Experimentation & Experimental Methods
+Products (ml as high interest credit card)
+
+## ❄️ Specialty
+_Choose what is most interesting to you, or most relevant to the work you plan to do._
+
+Causation
+Natural Language Processing
+Bayesian Methods
+Graph Analysis
+Network Analysis
+Economic modeling
+Machine Learning (more algos)
+Visualization
+Special Topics (optional)
+
+## 🤝 Doing Data Science
+_Learn about how doing science with others and for businesses can work._
+
+What is the job? (get a lot of quotes)
+(Data Science over Zoom) Communication and Persuasion
+The Spec (doc)
+The Experiment Design (doc)
+The Decision Guidance (slide deck, doc)
+
+## 🧑‍💻 Capstone Project
+_Choose a meaningful project or dataset to demonstrate what you've learned._
+
+Pick data that you care about
+Ask a question
+Show your work + explain why you chose this project
+Credential
+Document courses + capstone, link on Li
+
+
+
 ***
-
-## The Open Source Data Science Curriculum
-
-# Start here.
+OLD COPY EDITING ABOVE
 
 ### Intro to Data Science
 Get acquainted with the challenge, terminology, technology, statistics, communication, and day-to-day of the Data Scientist.
