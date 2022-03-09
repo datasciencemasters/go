@@ -277,8 +277,11 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 ### Data Science as a Profession
 
 > Data Team #squadgoals with [metrics]:
+ 
 > Data Science = Improve decision making [ROI, NPV, IRR], create Hypotheses [business mechanisms]
+ 
 > Data Platform / Engineering = Engineer data to the product [internal and/or customer trust of data metrics]
+
 > Data Product / Research Science = Design and deliver strategic use of data [revenue or product metrics], Disprove Hypotheses [business mechanisms]
 
 _Data Science_, especially in the moment when its moniker rose to prominence, was considered to be a lone wolf sport. The last 5 years have proven not only that **Data Science is a team sport**, but that Data Science requires leadership, tech transformation, and execution follow-through. The best and most impactful work done in Data Science, much like in other domains, is the product of collaboration between people of many different specialties. I've bucketed the most discretely defined functions, which as we all know, are in reality much more blurred in definition. 
@@ -292,19 +295,12 @@ This group uses analytical thinking, data manipulation, and business sense to an
 
 _Classic example: Data Scientist uses analysis to better understand growth and churn of different customer segments_
 
-* Data Scientist or Data Analyst (Business Intelligence, Market Analysis, Marketing) _see [this](https://twitter.com/josh_wills/status/198093512149958656)_
-
 #### 2) Product / Research Science 
 **Goal: Experiment to learn.**
 
 A Research Scientist uses the scientific method to validate the value of a change in process or product. They will come up with an idea of how to model a real world phenomenon, then validate through experimental methods.
 
 _Classic example: Research Scientist builds experimental methods to estimate the acceptance or rejection of new features across the user base_
-
-* Research Scientist
-* Experimental Statistician
-* Technical Behavioral Economist
-* Product Scientist
 
 #### 3) Intelligence Engineering 
 **Goal: Build and grow intelligent applications and products.**
@@ -313,21 +309,12 @@ Machine Intelligence Engineers play a role at the intersection of science and sc
 
 _Classic Example: NLP Engineer who improves language translations using neural networks and a combination of reference texts and behavioral data like repeated queries_
 
-* Machine Intelligence Engineer — Risk
-* Machine Intelligence Engineer — Search & NLP
-* Machine Intelligence Engineer — Recommendations and “Personalization”
-
 #### 4) Data Design & Engineering 
 **Goal: Define how the real world is encoded in data.**
 
 Data Engineering entails designing the production and maintenance of data such that it most accurately reflects the world being modeled by Data Scientists, Research Scientists, and Intelligence Engineers. They may take data models which Analysts have prototyped and turn them into living data assets. Data Design is always evolving and never "done".
 
 _Classic Example: Data Engineer builds data flows from events to produced fact\_ tables, which reflect the bookings made across the company and their sources_
-
-* Data Engineering
-* Data Architect
-* Product Management
-* Application Engineering
 
 ### Ethics in Data Science & Machine Intelligence
 Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
@@ -373,22 +360,6 @@ Please PR your ideas, even if no company known to humans does the thing you're t
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
-
-***
-### Resources
-
-#### Read
-* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
-* [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
-* [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
-* [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
-* [/r/MachineLearning](http://bit.ly/1uANaEM)
-
-#### Learn
-* [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
-* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
-* [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
-* [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
 
 ***
 
