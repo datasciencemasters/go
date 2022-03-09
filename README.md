@@ -27,43 +27,18 @@ Today, data is one of the sharpest tools in the technological shed. In human his
 
 ![](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ENASA&region=follow_link&screen_name=NASA)
 
-#### `Take Two` Change Log
-1. New sections added by popular demand or scientific advancement. Please PR additions!
-  - Statistics: Causation
-  - Team Members of Data Science
-  - Data Science across Domains
-2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
-3. Pared down links to a more opinionated list.
-4. Theory + Python tools together under each topic. All you need under one roof.
-5. [Bookshop.org](http://bookshop.org) links for all books, which supports independent bookshops with commissions.
-6. No change to donations. Since the first commits in 2014, I have donated any related commissions to [Planned Parenthood](https://www.plannedparenthood.org/), which was one of the few healthcare providers in my community growing up and is the largest single provider of reproductive health services in the US.
-
 ## The Open-Source Data Science Masters
 
 The open-source curriculum for learning Data Science, focused on foundational theory and application. This is the collectively-maintained source for the best training to making use of data.
 
-### Contents
-- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
-  - [Contents](#contents)
-  - [The Motivation](#the-motivation)
-  - [An Academic Shortfall](#an-academic-shortfall)
-  - [Ready?](#ready)
-- [The Open Source Data Science Curriculum](#the-open-source-data-science-curriculum)
-  - [A Note About Direction](#a-note-about-direction)
-  - [Computing](#computing)
-  - [Data Analysis](#data-analysis)
-  - [Data Communication and Design](#data-communication-and-design)
-  - [Data Science as a Profession](#data-science-as-a-profession)
-  - [Capstone Project](#capstone-project)
-  - [Resources](#resources)
-  - [Notation](#notation)
-- [Contribute](#contribute)
+### OSDSM Structure
+1. Introduction to Data Science
+2. The Core - Courses on crucial topics and skills
+3. Specialization - Pick 2+ courses on special topics
+4. Capstone - Do a final Data Science Project
+5. Publish your Transcript & Capstone Project
 
-### An Academic Shortfall
-
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
-
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
+### Motivation
 
 > We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
 
@@ -324,31 +299,31 @@ Human impact is a first-class concern when building machine intelligence technol
 
 **Huge Disclaimer:** You can "Data Science" almost _anything_. This captures a high level view of how Data Science is being applied in a handful of domains. Use your new-found data science chops!
 
-| Domain | Problem Space | Example Organizations | Example Non-Profit, US Govt |
+| Domain | Problem Space | 
 | -- | -- | -- | -- |
 | **Risk & Economic Modeling** | | | |
-| Is this person who they say they are? | Financial & Identity Risk | (FinTech) banks, Stripe, Sift Science, Square | |
-| Which customers to target with this Ad? | Customer Targeting and Ads Applications | Move, SolarCity, Twitter, Netflix, ad networks | |
-| What credit terms to assign this consumer? | Creditworthiness | (FinTech) Square Capital, Affirm, SoFi | CFPB |
-| Price of a given thing? | Econometrics and Price Modeling | Trulia, Airbnb, Stripe, Ads/GFTA | |
-| What observable factors predict patient risk of a given adverse condition? | Healthcare Risk Modeling and Projections | Aspire Health, Amino, Strava, Nuna | Medicare & Medicaid |
-| What might the range of effects of upcoming policy be? | Policy Simulation | | GAO |
-| Where might the next natural disaster occur? | Jupiter FloodScore | NOAA |
-| How might we assign risk to high-impact, rare events? | Surveillance Platforms | Palantir, Quid | |
+| Is this person who they say they are? | Financial & Identity Risk | 
+| Which customers to target with this Ad? | Customer Targeting and Ads Applications | 
+| What credit terms to assign this consumer? | Creditworthiness | 
+| Price of a given thing? | Econometrics and Price Modeling | 
+| What observable factors predict patient risk of a given adverse condition? | Healthcare Risk Modeling and Projections | 
+| What might the range of effects of upcoming policy be? | Policy Simulation | 
+| Where might the next natural disaster occur? | 
+| How might we assign risk to high-impact, rare events? | Surveillance Platforms | 
 | | | |
 | **Features & Optimization** | | | |
 | What information is relevant? | Information Extraction, Structuring Applications, NLP | Google knowledge graph and similar teams | |
-| What else would this consumer likely buy? | Recommendations | StitchFix, Pinterest, GFTA | |
-| When and where will traffic happen? | Transportation | Lyft, Uber, KeepTruckin, CityMapper | City of San Francisco |
-| How might we optimize supply chain throughput, bandwidth, marginal profit? | Supply Chain and Ops Mgmt | Walmart, Target, Sight Machine, Flexport | |
+| What else would this consumer likely buy? | Recommendations | 
+| When and where will traffic happen? | Transportation | 
+| How might we optimize supply chain throughput, bandwidth, marginal profit? | Supply Chain and Ops Mgmt | 
 | | | |
-| **[Data Journalism](https://datajournalismhandbook.org/1.0/en/index.html)** | | |
-| What evidence can be derived from available data? | NYTimes Labs | |
+| **[Data Journalism](https://datajournalismhandbook.org/1.0/en/index.html)** | 
+| What evidence can be derived from available data? | 
 | | | |
-| **Consulting** | Management Consulting and Software Consulting | Pivotal Labs, SVDS, Accenture, Thinking Machines | |
+| **Consulting** | Management Consulting and Software Consulting | 
 | | | |
-| **Platform Tooling** | Analytics, Infrastructure, Platform Tools | Cloudera, Mode Analytics, Crowdflower, Quid | |
-| Is this hypothesis valid? | Experimentation, AB Testing | Optimizely | | 
+| **Platform Tooling** | Analytics, Infrastructure, Platform Tools | 
+| Is this hypothesis valid? | Experimentation, AB Testing |
 
 Please PR your ideas, even if no company known to humans does the thing you're thinking of.
 
@@ -360,6 +335,15 @@ Please PR your ideas, even if no company known to humans does the thing you're t
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
+
+***
+
+#### `Take Two` Change Log
+1. Restructured ala the [2022 Plan](https://docs.google.com/presentation/d/18iSlwSG6F57URqIl47KUmEJCtvS_x4Uxp71caY0-wp8/edit#slide=id.g1196d9e5821_0_0).
+2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
+3. Pared down links to a more opinionated list.
+4. Theory + Python tools together under each topic. All you need under one roof.
+5. Proceeds. [Bookshop.org](http://bookshop.org) links for all books, which supports independent bookshops with commissions. Since the first commits in 2014, I have donated any related commissions to [Planned Parenthood](https://www.plannedparenthood.org/), which was one of the few healthcare providers in my community growing up and is the largest single provider of reproductive health services in the US. Though donations should flow to independent bookshops from now on, my personal commitment to PP remains.
 
 ***
 
