@@ -1,6 +1,6 @@
 #### Editor's Note: `Take Two`
 
-In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." _David Hardtke, Nov 2012_. Since then, history has witnessed a few things...
+In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." (_David Hardtke, Nov 2012_) Since then, history has witnessed a few things...
 
 - Data Scientists working across industries and the world
 - social media manipulated to disrupt elections
@@ -12,7 +12,7 @@ In the old days of 2013, the OSDSM was born. Then, there were "little to no Data
 
 In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** Please join the conversation by spending a day with the prescient novel [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) and considering what you birth.
 
-Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all people. To balance this, we seek to lower the barriers to education for all people. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions.
+Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all of us. To balance this, open source movements seek to lower the barriers to education for everyone. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions. After all, the things we build are mirrors of ourselves (seriously, read Shelley's Frankenstein).
 
 > Computers reflect the biases and belief systems of the people programming them 
 > 
@@ -24,7 +24,7 @@ The OSDSM is built with the belief that **open source education enables the poss
 
 The open-source curriculum for learning to be a Data Scientist. Curriculum resources from both universities and working Data Scientists focuses on foundational theory and applied skills. The OSDSM is collectively-maintained and open to PRs.
 
-The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials at no cost. The Masters is self-guided and self-accredited. To support this, the structure now includes a Capstone project to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a Credential on LinkedIn.
+The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials, at no cost. The Masters is self-guided and self-accredited. To better support credibility, the structure now includes a Capstone project intended to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from the Open Source Data Science Masters.
 
 This is called a "Masters" because it is primarily geared toward learners with some college-level education in mathematics, programming, economics, or related disciplines. Come as you are!
 
@@ -34,14 +34,6 @@ This is called a "Masters" because it is primarily geared toward learners with s
 4. **Capstone Project** - Choose a meaningful project or dataset to demonstrate what you've learned.
 
 ![](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ENASA&region=follow_link&screen_name=NASA)
-
-### Motivation
-
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
-
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
 
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). The original curriculum is geared toward **Python tools and resources**.
