@@ -110,18 +110,18 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
  * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
-#### Graph Analysis
+### Graph Analysis
 [```networkx```](http://bit.ly/py-networkx)
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
-#### Machine Learning
+### Machine Learning
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * Programming Collective Intelligence [Book ```$46```](https://bookshop.org/a/2958/9780596529321)
 
-#### Visualization
+### Visualization
 
 Courses
  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
@@ -131,11 +131,11 @@ Books
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$50`](https://bookshop.org/a/2958/9781491921289)
 
-#### Linear Programming + Convex Optimization
+### Linear Programming + Convex Optimization
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
 * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-#### Deep Learning / Neural Networks
+### Deep Learning / Neural Networks
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
