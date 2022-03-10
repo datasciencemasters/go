@@ -1,28 +1,26 @@
-#### Editor's Note: `Take Two`
+Note from the [Editor](): `Take Two`
 
-In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." (_David Hardtke, Nov 2012_) Since then, history has witnessed a few things...
+<sup>In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." (_David Hardtke, Nov 2012_) Since then, history has witnessed a few things...</sup>
 
-- Data Scientists working across industries and the world
-- social media manipulated to disrupt elections
-- BLM and #metoo
-- machine learning begins falling to engineering
-- a pandemic
-- climate change disasters becoming very frequent
-- remote work becomes normal
+<sup>• Data Scientists working across industries and the world</sup><br />
+<sup>• social media manipulated to disrupt elections</sup><br />
+<sup>• BLM and #metoo</sup><br />
+<sup>• machine learning begins falling to engineering</sup><br />
+<sup>• a pandemic</sup><br />
+<sup>• climate change disasters becoming very frequent</sup><br />
+<sup>• remote work becomes normal</sup>
 
-In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** A prescient [novel](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) grappled with considering what you birth.
+<sup>In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** A prescient [novel](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) grappled with considering what you birth.</sup>
 
-Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all of us. To balance this, open source movements seek to lower the barriers to education for everyone. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions. After all, the things we build are mirrors of ourselves (seriously, read Shelley's [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf).
+<sup>Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all of us. To balance this, open source movements seek to lower the barriers to education for everyone. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions. After all, the things we build are mirrors of ourselves (seriously, read Shelley's [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf).</sup>
 
-> Computers reflect the biases and belief systems of the people programming them 
-> 
-> [@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)
+> <sup>_Computers reflect the biases and belief systems of the people programming them_ -[@alicegoldfuss](https://twitter.com/alicegoldfuss/status/1016034359134941184)</sup>
 
-The OSDSM is built with the belief that **open source education enables the possibility for a diverse, collective, generative future-building.** I hope that you are one of the next Data Scientists to make a difference in the world by helping us all make better decisions with the scientific process and critical thinking. This rewritten curriculum focuses on what is needed to be successful in the entry-level role, but I hope it extends far beyond that.
+<sup>The OSDSM is built with the belief that **open source education enables the possibility for a diverse, collective, generative future-building.** I hope that you are one of the next Data Scientists to make a difference in the world by helping us all make better decisions with the scientific process and critical thinking. This rewritten curriculum focuses on what is needed to be successful in the entry-level role, but I hope it extends far beyond that.</sup>
 
 ***
 
-# Start here 👇
+Start here 👇
 
 ## The Open Source Data Science Masters
 
@@ -185,7 +183,7 @@ A slide deck or document with the goal of conveying the results of the work and 
 
 Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work. In the remote work era, think about how your work will be passed around and make sure your "above the fold" is easy to understand and clearly conveys the "why" and results in particular.
 
-__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different annual license for about $10mi. The impact of this work was a) increased confidence in service reliability and b) saved company ~$10mi/yr.
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of our [study](https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view) on map quality, which caused the company to decide against buying a commercially available annual license. The impact of this work was a) increased confidence in service reliability and b) saved company ~$10mi/yr.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
