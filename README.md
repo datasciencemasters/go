@@ -87,10 +87,9 @@ _This is a critical foundation for what is to come; don't skip!_
 * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
 * Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
 
-### The Scientific Process & Practice
-(add resources)
-
-### Experimentation & Experimental Methods
+### The Scientific Process & Experimentation
+- [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/)
+- [A Quick Guide to Experimental Design | 5 Steps & Examples](https://www.scribbr.com/methodology/experimental-design/)
 
 ### All-in-one Courses
 Courses with most of the topics above included. Just fill in any gaps!
