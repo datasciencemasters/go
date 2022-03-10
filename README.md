@@ -44,6 +44,7 @@ _This is a critical foundation for what is to come; don't skip!_
 ### What is Data Science?
 - The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrated cases of Data Science at play in the real world.
 - Dataclysm: Who We Are (When We Think No One's Looking) / Christian Rudder [Book ```$17```](https://bookshop.org/a/2958/9780385347396) -- From the inside of OKCupid, real examples of how data science can illustrate human behavior.
+ * A showcase of [Jupyter Python Data Analysis Notebooks](https://github.com/jupyter/jupyter/wiki) across disciplines.
 
 ### Foundations of Data Science
 
@@ -145,13 +146,11 @@ _Learn about how doing science with others and for businesses can work._
 
 ### What is the job?
 
-The Data Scientist advises strategic decision-making with data-backed analysis and tested hypotheses.
+In ideal terms, a Data Scientist advises strategic decision-making using data-backed analysis and tested hypotheses. YMMV as this depends on the company needs and the team being supported.
 
 * What Professional Data Scientists Actually Do [Video](https://youtu.be/iPdO9MwdcLE)
- * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
-
-### Realities of Building Data-Driven Products
-- Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+* The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
+* Required reading about whether machine learning is always the best tool for the job. [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 ### Communication and Teamwork
 
@@ -159,41 +158,52 @@ For a Data Scientist's work to be impactful, they must be effective at communica
 
 * LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/). Recommend watching this twice and taking notes.
 
-(process diagram)
+#### A note on teams
+In the modern organization, it is very rare that a Data Scientist works in isolation. Communicating the value of the work being done is crucial to getting buy-in from partners whose decisions and operations depend on your work. Those partners might be:
+- Product Managment
+- Engineering
+- Design (User Experience, Research, Product)
+- Operations (Project Management, Customer Service Agents, Data Management)
+- Marketing
+- Finance Operations
+- etc.
 
-#### The Spec (doc)
-* Goal -- What is the point of this work? What decision is the organization trying to make?
-* Impact -- What decisions might be made differently as a result of this work?
+Typically, the more clearly you are able to communicate the "why", the **value of what you are doing**, the more these teams will be able to support you and your work in conversations you may not be a part of. Even if others don't understand "how" you do your work (which is very important to you and your manager!), they will be able to understand and repeat a well-communicated "why". This is why we write Specs, to get buy-in and allow for questions or input, before the work starts.
+
+#### The Spec
+A document conveying the motives, direction, investment, and expected value of the work.
+
+* Goal / "Why" -- What is the point of this work? What decision is the organization trying to make?
+* Impact -- What decisions might be made differently as a result of this work? What is the expected value?
 * Data -- What evidence will this draw on?
 * Assumptions -- What evidence does not exist? What assumptions are necessary or agreed upon?
-* Methods -- Overview methods expected to be used. Analysis, with what tools? Experimentation, with what methodology?
+* Methods / "How" -- Overview methods expected to be used. Analysis, with what tools? Experimentation, with what methodology?
+* Results -- (to be filled in as completed)
 
-#### The Presentation (slide deck, doc)
-Purpose is to convey the results of the work and how the findings support a decision.
+#### Results Presentation
+A slide deck or document with the goal of conveying the results of the work and how the findings support an important decision(s).
 
-Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work.
+Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work. In the remote work era, think about how your work will be passed around and make sure your "above the fold" is easy to understand and clearly conveys the "why" and results in particular.
 
-__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different annual license for about $10mi.
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different annual license for about $10mi. The impact of this work was a) increased confidence in service reliability and b) saved company ~$10mi/yr.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
 
 ### Pick a dataset that you care about
-* Collection of datasets [here](http://bit.ly/osdsm-datasets-link)
-* Toy problems [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
+* The very detailed [data is plural](https://www.data-is-plural.com/)
+* Collection of [datasets](http://bit.ly/osdsm-datasets-link)
 
-### Ask a question (Spec)
-(Example)
-
-### Formulate a hypothesis
-(Resource needed)
+### Formulate a Hypothesis & Write a Spec
+Review the earlier reading on [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/). Formulate a clear, concise hypothesis. This is the headliner of your [Spec](#the-spec), flesh that out.
 
 ### Show your work + explain why you chose this project (Case Presentation)
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
 
-### Credential: Document courses + capstone, link on Li
-(how to)
+### Graduate!
+1. Create a document or github repo showcasing the list of courses and materials you completed. Include your project materials. Also recommended: include a personal statement about why you chose this course of study and what you seek to do with it.
+2. Award yourself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from _The Open Source Data Science Masters_, with a link to the documentation you created.
+3. Congratulations! 🎉
 
 ***
 ### So Extra "Extracurriculars"
