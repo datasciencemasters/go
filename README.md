@@ -152,8 +152,13 @@ The Data Scientist advises strategic decision-making with data-backed analysis a
 ### Realities of Building Data-Driven Products
 - Machine Learning: The High-Interest Credit Card of Technical Debt [Paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
-### (Data Science over Zoom) Communication and Persuasion
-* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)
+### Communication and Teamwork
+
+For a Data Scientist's work to be impactful, they must be effective at communicating their work and findings. In any setting, clear logic and effective business writing are crucial to reaching your audience. And of course, doing Data Science with a team over zoom is different from being in person in an office. There is much more written communication and asynchronous consumption of content in the remote office environment. More than ever, writing and communication skills are crucial to being an effective Data Scientist for yourself and your team.
+
+* LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/). Recommend watching this twice and taking notes.
+
+(process diagram)
 
 #### The Spec (doc)
 
