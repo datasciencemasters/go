@@ -28,7 +28,7 @@ The OSDSM is built with the belief that **open source education enables the poss
 
 The open-source curriculum for learning to be a Data Scientist. Curriculum resources from both universities and working Data Scientists focuses on foundational theory and applied skills. The OSDSM is collectively-maintained and open to PRs.
 
-The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials, at no cost. The Masters is self-guided and self-accredited. To better support credibility, the structure now includes a Capstone project intended to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from the Open Source Data Science Masters.
+The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials, at no cost. Books not offered for free are often available through a public library, indicated here with current list price. The Masters is self-guided and self-accredited. To better support credibility, the structure now includes a Capstone project intended to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from the Open Source Data Science Masters.
 
 This is called a "Masters" because it is primarily geared toward learners with some college-level education in mathematics, programming, economics, or related disciplines. Come as you are!
 
@@ -42,7 +42,8 @@ This is called a "Masters" because it is primarily geared toward learners with s
 _This is a critical foundation for what is to come; don't skip!_
 
 ### What is Data Science?
-- The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrative case studies of Data Science.
+- The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrated cases of Data Science at play in the real world.
+- Dataclysm: Who We Are (When We Think No One's Looking) / Christian Rudder [Book ```$17```](https://bookshop.org/a/2958/9780385347396) -- From the inside of OKCupid, real examples of how data science can illustrate human behavior.
 
 ### Foundations of Data Science
 
@@ -80,7 +81,6 @@ _This is a critical foundation for what is to come; don't skip!_
 
 #### Data Analysis
 * [pandas](http://bit.ly/py-pandas) tutorials
-* Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058)
 * Pandas Cookbook [Examples](http://bit.ly/jvnspandascookbook)
 * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
 * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
@@ -102,18 +102,19 @@ _Choose what is most interesting to you, or most relevant to the work you plan t
 ### Causation
 A branch of statistics that uses graphical models and specialized statistics to describe and model cause and effect.
 
- * Causal Inference in Statistics [Book ```$46```](https://bookshop.org/a/2958/9781119186847)
  * The Book of Why [Book ```$17```](https://bookshop.org/a/2958/9781541698963)
+ * Causal Inference in Statistics [Book ```$46```](https://bookshop.org/a/2958/9781119186847)
 
 ### Natural Language Processing
+The imperfect and immensely useful art (science?) of transforming human language into data.
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
- * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
+ * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$55```](https://bookshop.org/a/2958/9780596516499)
  * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
 ### Graph Analysis
-[```networkx```](http://bit.ly/py-networkx)
+Human relationships can be modeled as a network or graph. Many other things suit this model, too. Working with graphs 
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
- * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
+ * Social Network Analysis for Startups [Chapter 1](https://www.oreilly.com/library/view/social-network-analysis/9781449311377/ch01.html) & [Book ```$25```](https://bookshop.org/a/2958/9781449306465) [```networkx```](http://bit.ly/py-networkx)
 
 ### Machine Learning
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
@@ -161,10 +162,18 @@ For a Data Scientist's work to be impactful, they must be effective at communica
 (process diagram)
 
 #### The Spec (doc)
+* Goal -- What is the point of this work? What decision is the organization trying to make?
+* Impact -- What decisions might be made differently as a result of this work?
+* Data -- What evidence will this draw on?
+* Assumptions -- What evidence does not exist? What assumptions are necessary or agreed upon?
+* Methods -- Overview methods expected to be used. Analysis, with what tools? Experimentation, with what methodology?
 
-#### The Experiment Design (doc)
+#### The Presentation (slide deck, doc)
+Purpose is to convey the results of the work and how the findings support a decision.
 
-#### Case Presentation (slide deck, doc)
+Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work.
+
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different license for $10mi+/yr.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
@@ -188,14 +197,15 @@ _Choose a meaningful project or dataset to demonstrate what you've learned._
 
 ***
 ### So Extra "Extracurriculars"
- * The Manga Guide to Linear Algebra [Book ```$19```](http://amzn.to/1n4hM5l)
- * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
- * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
- * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
+* The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$90```](https://bookshop.org/a/2958/9780387848570) & [Study Group](http://www.reddit.com/r/eosl)
+* Python Data Science Handbook: Essential Tools for Working with Data [Book ```$60```](https://bookshop.org/a/2958/9781491912058)
+ * The Manga Guide to Linear Algebra [Book ```$19```](https://bookshop.org/a/2958/9781593274139)
+ * Mining The Social Web [Book ```$46```](https://bookshop.org/a/2958/9781491985045)
+ * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$50```](https://bookshop.org/a/2958/9780321934079)
+ * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa) [```$113```](https://bookshop.org/books/exploratory-data-analysis-classic-version/9780134995458)
  * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
-* The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
@@ -215,15 +225,10 @@ _Choose a meaningful project or dataset to demonstrate what you've learned._
 1. Restructured ala the [2022 Plan](https://docs.google.com/presentation/d/18iSlwSG6F57URqIl47KUmEJCtvS_x4Uxp71caY0-wp8/edit#slide=id.g1196d9e5821_0_0).
 2. Pruned broken links. It's been a while, and some of these resources have moved -- or worse -- been taken down.
 3. Pared down links to a more opinionated list.
-4. Theory + Python tools together under each topic. All you need under one roof.
-5. Proceeds. [Bookshop.org](http://bookshop.org) links for all books, which supports independent bookshops with commissions. Since the first commits in 2014, I have donated any related commissions to [Planned Parenthood](https://www.plannedparenthood.org/), which was one of the few healthcare providers in my community growing up and is the largest single provider of reproductive health services in the US. Though donations should flow to independent bookshops from now on, my personal commitment to PP remains.
-
-***
-
-## Contribute
+4. Proceeds. [Bookshop.org](http://bookshop.org) links for all books, which supports independent bookshops with commissions. Since the first commits in 2014, I have donated any related commissions to [Planned Parenthood](https://www.plannedparenthood.org/), which was one of the few healthcare providers in my community growing up and is the largest single provider of reproductive health services in the US. Though donations should flow to independent bookshops from now on, my personal commitment to PP remains.
 
 Please Contribute; **this is Open Source!**
 
-[@clarecorthell](http://bit.ly/clarecorthelltwitter)
+Fearless Maintainer: [@clarecorthell](http://bit.ly/clarecorthelltwitter)
 
 _RIP [v1.0 commit](https://github.com/datasciencemasters/go/tree/d6cec020ac3d038cd787e9a779a3cea188c779f2)_
