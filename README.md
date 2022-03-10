@@ -10,9 +10,9 @@ In the old days of 2013, the OSDSM was born. Then, there were "little to no Data
 - climate change disasters becoming very frequent
 - remote work becomes normal
 
-In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** Please join the conversation by spending a day with the prescient novel [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) and considering what you birth.
+In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** A prescient [novel](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) grappled with considering what you birth.
 
-Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all of us. To balance this, open source movements seek to lower the barriers to education for everyone. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions. After all, the things we build are mirrors of ourselves (seriously, read Shelley's Frankenstein).
+Like any tool, data-driven technologies are indifferent to the morality of their ends. Perhaps the greatest risk of all is leaving this tool in the hands of the few expensively-educated people who cannot possibly represent all of us. To balance this, open source movements seek to lower the barriers to education for everyone. Data science and data literacy must be widespread, accessible, and leveraged for building our collective future. More than ever, we need that future to be built by members of society who are diverse and focused on generative, resilient solutions. After all, the things we build are mirrors of ourselves (seriously, read Shelley's [Frankenstein](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf).
 
 > Computers reflect the biases and belief systems of the people programming them 
 > 
@@ -43,7 +43,6 @@ _This is a critical foundation for what is to come; don't skip!_
 
 ### What is Data Science?
 - The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrative case studies of Data Science.
-- The Life of a Data Scientist / Josh Wills [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 
 ### Foundations of Data Science
 
@@ -92,9 +91,10 @@ _This is a critical foundation for what is to come; don't skip!_
 - [Research Design A Step-by-Step Guide](https://www.scribbr.com/methodology/research-design/)
 - [A Quick Guide to Experimental Design](https://www.scribbr.com/methodology/experimental-design/)
 
-### All-in-one Courses
-Courses with most of the topics above included. Just fill in any gaps!
+### Survey Courses
+Courses with many of the topics above included. Be sure you fill in any gaps!
 - Intro to Data Science / University of Washington [Lectures](https://www.youtube.com/playlist?list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-)
+- (Short Survey) Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$50```](https://bookshop.org/a/2958/9781449358655)
 
 ## ❄️ Specialty: Choose 2
 _Choose what is most interesting to you, or most relevant to the work you plan to do._
@@ -146,7 +146,7 @@ _Learn about how doing science with others and for businesses can work._
 
 The Data Scientist advises strategic decision-making with data-backed analysis and tested hypotheses.
 
- * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$50```](https://bookshop.org/a/2958/9781449358655)
+* What Professional Data Scientists Actually Do [Video](https://youtu.be/iPdO9MwdcLE)
  * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
 
 ### Realities of Building Data-Driven Products
