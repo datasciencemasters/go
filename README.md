@@ -50,10 +50,8 @@ _This is a critical foundation for what is to come; don't skip!_
 #### Problem Solving
  * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
-#### Data Modeling + Querying
- * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
+#### Data Querying
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
- * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 ### Math & Statistics
 #### Linear Algebra
@@ -121,8 +119,6 @@ A branch of statistics that uses graphical models and specialized statistics to 
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
- * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
- * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
  * Programming Collective Intelligence [Book ```$46```](https://bookshop.org/a/2958/9780596529321)
 
 #### Visualization
@@ -169,11 +165,8 @@ The Data Scientist advises strategic decision-making with data-backed analysis a
 _Choose a meaningful project or dataset to demonstrate what you've learned._
 
 ### Pick a dataset that you care about
-Some sources:
-* Some datasets [here](http://bit.ly/osdsm-datasets-link)
-* Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
-* Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
-* Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
+* Collection of datasets [here](http://bit.ly/osdsm-datasets-link)
+* Toy problems [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 
 ### Ask a question (Spec)
 (Example)
@@ -207,6 +200,9 @@ Some sources:
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
  * Information Dashboard Design: Displaying Data for At-a-Glance Monitoring [Stephen Few / Book ```$29```](https://bookshop.org/a/2958/9781938377006)
  * D3 Library / Scott Murray [Blog / Tutorials](https://alignedleft.com/tutorials)
+ * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
+ * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
+ * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
 
 ***
 
