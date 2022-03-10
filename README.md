@@ -40,6 +40,7 @@ This is called a "Masters" because it is primarily geared toward learners with s
 _This is a critical foundation for what is to come; don't skip!_
 
 ### What is Data Science?
+Get a taste of what exists under the big umbrella.
 - The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrated cases of Data Science at play in the real world.
 - Dataclysm: Who We Are (When We Think No One's Looking) / Christian Rudder [Book ```$17```](https://bookshop.org/a/2958/9780385347396) -- From the inside of OKCupid, real examples of how data science can illustrate human behavior.
  * A showcase of [Jupyter Python Data Analysis Notebooks](https://github.com/jupyter/jupyter/wiki) across disciplines.
@@ -47,13 +48,22 @@ _This is a critical foundation for what is to come; don't skip!_
 ### Foundations of Data Science
 
 #### Problem Solving
+When there are no answers in the back of the book, how do you break down problems? You might think you know how to solve problems, but I can't recommend more that you learn Pólya's process. For extra credit, seek out resources on computer science [decomposition](http://sites.fas.harvard.edu/~libs111/files/lectures/unit1-3.pdf).
  * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
+### The Scientific Process & Experimentation
+It is crucial as a Data Scientist that you show integrity in your scientific process. Even if you've been here before, review and draw out the process diagram for the scientific method.
+- [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/)
+- [Research Design A Step-by-Step Guide](https://www.scribbr.com/methodology/research-design/)
+- [A Quick Guide to Experimental Design](https://www.scribbr.com/methodology/experimental-design/)
+
 #### Querying Data
+Get familiar and comfortable with manipulating data in a database with a common relational querying language.
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
 
 ### Math & Statistics
 #### Linear Algebra
+This is the foundation of working with large samples of data. Spend time in exercises until you feel highly confident in the key topics of Linear Algebra. It will serve you well.
  * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
  * A Programmer's Intuition for Matrix Multiplication [Better Explained / Article](https://betterexplained.com/articles/matrix-multiplication/)
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
@@ -61,18 +71,22 @@ _This is a critical foundation for what is to come; don't skip!_
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
 
 #### Statistics
+How can we answer questions with data? Everywhere you look, you'll see methods from statistics. Spend a lot of time here.
  * Stats in a Nutshell [Book ```$46```](https://bookshop.org/a/2958/9781449316822)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$34```](https://bookshop.org/a/2958/9781491907337)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](https://bookshop.org/a/2958/9781492089469)
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
 
-### Python
+### Working in Python
+
+#### Learn Python
+If you're starting from scratch with Python, start with this series.
+ * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$37```](https://bookshop.org/a/2958/9780134692883)
+
 #### Environment & Libraries
+Set up your computer to use tools locally.
  * Installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
  * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
-
-#### Python
- * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$37```](https://bookshop.org/a/2958/9780134692883)
 
 #### Python Programming + Algorithms
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
@@ -84,11 +98,6 @@ _This is a critical foundation for what is to come; don't skip!_
 * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
 * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
 * Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
-
-### The Scientific Process & Experimentation
-- [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/)
-- [Research Design A Step-by-Step Guide](https://www.scribbr.com/methodology/research-design/)
-- [A Quick Guide to Experimental Design](https://www.scribbr.com/methodology/experimental-design/)
 
 ### Survey Courses
 Courses with many of the topics above included. Be sure you fill in any gaps!
@@ -116,22 +125,25 @@ Human relationships can be modeled as a network or graph. Many other things suit
  * Social Network Analysis for Startups [Chapter 1](https://www.oreilly.com/library/view/social-network-analysis/9781449311377/ch01.html) & [Book ```$25```](https://bookshop.org/a/2958/9781449306465) [```networkx```](http://bit.ly/py-networkx)
 
 ### Machine Learning
+This is a huge space with infinite things to learn. For advanced statistical foundation, see [The Elements of Statistical Learning](http://bit.ly/ebook-elemstatlearn).
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml) & [Stanford CS 229](http://bit.ly/stanfordcs229)
  * Programming Collective Intelligence [Book ```$46```](https://bookshop.org/a/2958/9780596529321)
 
 ### Visualization
+The most persuasive data stories are ones you can see with your own eyes. Make it visual!
 
-Courses
+#### Courses
  * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
  * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
 
-Books
+#### Books
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$50`](https://bookshop.org/a/2958/9781491921289)
 
 ### Linear Programming + Convex Optimization
+If you have interest in operations management, manufacturing, supply chains, or other real world queuing problems, dig in here.
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
 * Convex Optimization / Boyd [Stanford / Lectures](http://stanford.edu/class/ee364a/index.html) / [Book](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
@@ -148,7 +160,7 @@ In ideal terms, a Data Scientist advises strategic decision-making using data-ba
 
 * What Professional Data Scientists Actually Do [Video](https://youtu.be/iPdO9MwdcLE)
 * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$25```](http://amzn.to/1J7lILJ)
-* Required reading about whether machine learning is always the best tool for the job. [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+* Required reading: Why might machine learning not always the best approach? [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 ### Communication and Teamwork
 
@@ -156,7 +168,7 @@ For a Data Scientist's work to be impactful, they must be effective at communica
 
 * LEADERSHIP LAB: The Craft of Writing Effectively [UChicago / Video](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/). Recommend watching this twice and taking notes.
 
-#### A note on teams
+#### The Data Scientist works in a Team
 In the modern organization, it is very rare that a Data Scientist works in isolation. Communicating the value of the work being done is crucial to getting buy-in from partners whose decisions and operations depend on your work. Those partners might be:
 - Product Managment
 - Engineering
@@ -195,8 +207,8 @@ _Choose a meaningful project or dataset to demonstrate what you've learned._
 ### Formulate a Hypothesis & Write a Spec
 Review the earlier reading on [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/). Formulate a clear, concise hypothesis. This is the headliner of your [Spec](#the-spec), flesh that out.
 
-### Show your work + explain why you chose this project (Case Presentation)
- * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
+### Show your work + Explain why you chose this project
+Show the process you used to disprove your hypothesis, preferably in a jupyter notebook. See [examples](https://github.com/jupyter/jupyter/wiki) to get a taste of how you can showcase your work.
 
 ### Graduate!
 1. Create a document or github repo showcasing the list of courses and materials you completed. Include your project materials. Also recommended: include a personal statement about why you chose this course of study and what you seek to do with it.
@@ -213,6 +225,7 @@ Review the earlier reading on [The Scientific Process](https://courses.lumenlear
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa) [```$113```](https://bookshop.org/books/exploratory-data-analysis-classic-version/9780134995458)
  * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
+  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
