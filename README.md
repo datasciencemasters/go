@@ -50,7 +50,7 @@ _This is a critical foundation for what is to come; don't skip!_
 #### Problem Solving
  * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
-#### Data Querying
+#### Querying Data
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
 
 ### Math & Statistics
