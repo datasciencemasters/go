@@ -173,7 +173,7 @@ Purpose is to convey the results of the work and how the findings support a deci
 
 Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work.
 
-__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different license for $10mi+/yr.
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of results of a study on map quality, which caused the company to decide against buying a different annual license for about $10mi.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
