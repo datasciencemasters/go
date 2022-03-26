@@ -180,6 +180,9 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
+ * Intro to Python for Data Science [Interactive Tutorial](http://bit.ly/1OHx2uV)
+ * Python for Data Science by Microsoft [MOOC edX](http://bit.ly/2l9Dogt)
+ * Applied Data Science with Python [MOOC Coursera](http://bit.ly/2danP4n)
 
 ### Data Communication and Design
 
@@ -213,6 +216,7 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
  * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
+ * CodeCademy Python Tutorial [Interactive Tutorial](http://bit.ly/1GO0Fx1)
 
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
