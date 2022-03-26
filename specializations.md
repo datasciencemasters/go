@@ -25,6 +25,7 @@ Packages
 
 * Deep Learning [Tutorials](http://deeplearning.net/tutorial/)
 * Deep Learning Course [Stanford / OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
+* A python library for deep learning [NoLearn](https://pythonhosted.org/nolearn/), and an example tutorial using it for MNIST handwritten digit recognition [at PyImageSearch](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 
 #### Web Scraping & Crawling
 
