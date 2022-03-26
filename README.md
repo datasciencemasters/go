@@ -76,6 +76,9 @@ Start here.
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
 
+**Specilization Track in Data Mining** [UIUC / Coursera] (http://bit.ly/18FKi5T)
+* *Topics:* Pattern discovery, clustering, information retrieval, text mining, processing structured/unstructured, visualization, implementing search engine
+
 ### A Note About Direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
