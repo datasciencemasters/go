@@ -40,9 +40,10 @@ This is called a "Masters" because it is primarily geared toward learners with s
 _This is a critical foundation for what is to come; don't skip!_
 
 ### What is Data Science?
-Get a taste of what exists under the big umbrella.
+One could argue that "Data Science" is a recent term for an extant information analysis discipline. Humans instinctually search for patterns, a purpose we also see in this more digitized discipline.
 - The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrated cases of Data Science at play in the real world.
 - Dataclysm: Who We Are (When We Think No One's Looking) / Christian Rudder [Book ```$17```](https://bookshop.org/a/2958/9780385347396) -- From the inside of OKCupid, real examples of how data science can illustrate human behavior.
+- Informatics of the Oppressed / Rodrigo Ochigame [Logic Magazine](https://logicmag.io/care/informatics-of-the-oppressed/) -- _Algorithms of oppression have been around for a long time. So have radical projects to dismantle them and build emancipatory alternatives._
  * A showcase of [Jupyter Python Data Analysis Notebooks](https://github.com/jupyter/jupyter/wiki) across disciplines.
 
 ### Foundations of Data Science
