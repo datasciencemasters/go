@@ -1,4 +1,5 @@
 This is free and unencumbered software released into the public domain.
+modified by subash
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
