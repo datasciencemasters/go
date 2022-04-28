@@ -6,7 +6,7 @@
 * [Vectorization and Features in sci-kit (ipynb)](http://nbviewer.ipython.org/github/bigsnarfdude/machineLearning/blob/master/Vectorizing.ipynb)
 
 ### Regression
-* [Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
+* [Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)
 
 ### Models & Methods
 
