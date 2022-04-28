@@ -2,7 +2,7 @@
 
 #### Machine Learning
 
-* [UCI Machine Learning Dataset Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [UCI Machine Learning Dataset Repository](https://archive.ics.uci.edu/ml/datasets.php)
 * [Machine Learning Dataset Repository](http://mldata.org/)
 
 #### Deep Learning
