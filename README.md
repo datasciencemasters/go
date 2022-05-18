@@ -1,4 +1,4 @@
-Note from the [Editor](): `Take Two`
+Note from the [Editor](http://clarecorthell.org): `Take Two`
 
 <sup>In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." (_David Hardtke, Nov 2012_) Since then, history has witnessed many things, including:</sup>
 
