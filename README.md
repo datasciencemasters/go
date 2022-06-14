@@ -113,7 +113,7 @@ Human impact is a first-class concern when building machine intelligence technol
 
 ### Computing
 
-Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
+Get your environment up and running with the [Data Science Toolbox](https://github.com/datasciencetoolbox/datasciencetoolbox)
 
 #### **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
