@@ -4,7 +4,7 @@ I couldn't wait to go back to grad school. Literally. So I designed my own grad 
 
 ### My Background ([linkedin](http://bit.ly/clarecorthell))
 
-I'm a Stanford-educated Engineer, previously a Front-End Developer and UX Designer on early-stage products. I'm always in hot pursuit of deeper insight to social questions!
+I'm a Stanford-educated Engineer, previously a Front-End Developer and UX Designer on early-stage products. I'm always in hot pursuit of deeper insight to social questions !
 
 ### Goals & Motivations of the Open Source M.S.
 
