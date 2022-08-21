@@ -14,17 +14,18 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### Basic Statistics with R
 
  * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
- 
+
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
  * Practical Data Science with R [Manning Publications / Book ```$49.99```](http://www.manning.com/zumel/)
- 
+
 #### Statistical Learning with R
 
  * Statistical Learning [Stanford / OpenEdX Course](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
- 
+ * The elements of Statistical Learning  [T. Hastie et al. (2009)/ Book 2nd. edition](https://hastie.su.domains/ElemStatLearn/)
+
 #### Forecasting with R
 
  * Forecasting: Principles and Practice *(Regression, Time Series, Forecasting)* [Monash University / Book](http://otexts.com/fpp/)
@@ -56,5 +57,5 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 #### R Blogs & Media
 
  * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
-####R interactive visualizations 
+####R interactive visualizations
  * [Shiny](http://shiny.rstudio.com/) Interactive web application framework for R
