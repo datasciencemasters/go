@@ -25,6 +25,7 @@
 * [Qandl](http://www.quandl.com) provides a lot of interesting data with a clean API.
 * [Time Series Data Library](http://datamarket.com/data/list/?q=provider:tsdl)
 * USA Congressional Voting Records [Voteview](http://voteview.org/downloads.asp)
+* [Traffic data](https://github.com/graphhopper/open-traffic-collection)
 
 ### Datasets Sources
 
