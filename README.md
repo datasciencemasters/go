@@ -27,7 +27,7 @@ Start here 👇
 
 The open-source curriculum for learning to be a Data Scientist. Curriculum resources from both universities and working Data Scientists focuses on foundational theory and applied skills. The OSDSM is collectively-maintained and open to PRs.
 
-The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials, at no cost but with the same calibur of materials found in the most reputable paid programs. Books not offered for free are often available through a public library, indicated here with current list price. The Masters is self-guided and self-accredited. To better support credibility, the structure now includes a Capstone project intended to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from the Open Source Data Science Masters. As with all things, the OSDSM is best played as a team sport (try finding people on [r/learndatascience](https://www.reddit.com/r/learndatascience/)).
+The goal of this curriculum is to prepare the student for an entry level Data Scientist role, using open source materials, at no cost but with the same calibur of materials found in the most reputable paid programs. Books not offered for free are often available through a public library, also indicated here with current list price. The Masters is self-guided and self-accredited. To better support credibility, the structure now includes a Capstone project intended to demonstrate the student's problem solving approach, skills in execution, and communication. Upon completion, the student can award oneself a [Credential](https://help.accredible.com/add-your-credential-to-linkedin) on LinkedIn from the Open Source Data Science Masters. As with all things, the OSDSM is best played as a team sport (try finding people on [r/learndatascience](https://www.reddit.com/r/learndatascience/)).
 
 This is called a "Masters" because it is primarily concerned with "upper-level" college course material in mathematics, programming, economics, or related disciplines. Come as you are!
 
@@ -41,7 +41,7 @@ This is called a "Masters" because it is primarily concerned with "upper-level" 
 _This is a critical foundation for what is to come; don't skip!_
 
 ### What is Data Science?
-One could argue that "Data Science" is a recent term for an extant information analysis discipline. Humans instinctually search for patterns, a purpose we also see in this more digitized discipline.
+One could argue that "Data Science" is a recent term for an already existing information analysis discipline. Humans instinctually search for patterns, a purpose we also see in this more digitized discipline. Read different sources (and search beyond this list) about the uses of data science.
 - The Signal and The Noise / Nate Silver [Book ```$18```](https://bookshop.org/a/2958/9780143125082) -- Narrated cases of Data Science at play in the real world.
 - Dataclysm: Who We Are (When We Think No One's Looking) / Christian Rudder [Book ```$17```](https://bookshop.org/a/2958/9780385347396) -- From the inside of OKCupid, real examples of how data science can illustrate human behavior.
 - Informatics of the Oppressed / Rodrigo Ochigame [Logic Magazine](https://logicmag.io/care/informatics-of-the-oppressed/) -- _Algorithms of oppression have been around for a long time. So have radical projects to dismantle them and build emancipatory alternatives._
@@ -50,22 +50,22 @@ One could argue that "Data Science" is a recent term for an extant information a
 ### Foundations of Data Science
 
 #### Problem Solving
-When there are no answers in the back of the book, how do you break down problems? You might think you know how to solve problems, but I can't recommend more that you learn Pólya's process. For extra credit, seek out resources on computer science [decomposition](http://sites.fas.harvard.edu/~libs111/files/lectures/unit1-3.pdf).
+When there are no answers in the back of the book, how do you proceed? Breaking down problems is a skill, one that can and should be learned. Follow Pólya's process, and for extra credit, seek out resources on computer science [decomposition](http://sites.fas.harvard.edu/~libs111/files/lectures/unit1-3.pdf).
  * Problem-Solving Heuristics "How To Solve It" George Pólya [Berkeley / Summary](https://math.berkeley.edu/~gmelvin/polya.pdf) [Book ```$18```](https://bookshop.org/a/2958/9780691164076)
 
 ### The Scientific Process & Experimentation
-It is crucial as a Data Scientist that you show integrity in your scientific process. Even if you've been here before, review and draw out the process diagram for the scientific method.
+It is crucial as a Data Scientist that you show integrity in and transparency of scientific process. Even if you've been here before, review and draw out the process diagram for the scientific method.
 - [The Scientific Process](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-the-scientific-process-replace-content/)
 - [Research Design A Step-by-Step Guide](https://www.scribbr.com/methodology/research-design/)
 - [A Quick Guide to Experimental Design](https://www.scribbr.com/methodology/experimental-design/)
 
 #### Querying Data
-Get familiar and comfortable with manipulating data in a database with a common relational querying language.
+Get familiar and comfortable with manipulating data in a database with a common relational querying language. There are diverse query languages, but SQL is a widely used foundation.
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
 
 ### Math & Statistics
 #### Linear Algebra
-This is the foundation of working with large samples of data. Spend time in exercises until you feel highly confident in the key topics of Linear Algebra. It will serve you well.
+The foundational mathematics for working with large samples of data. Spend time in exercises until you feel highly confident in the key topics of Linear Algebra. It will serve you well.
  * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
  * A Programmer's Intuition for Matrix Multiplication [Better Explained / Article](https://betterexplained.com/articles/matrix-multiplication/)
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
@@ -73,7 +73,7 @@ This is the foundation of working with large samples of data. Spend time in exer
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
 
 #### Statistics
-How can we answer questions with data? Everywhere you look, you'll see methods from statistics. Spend a lot of time here.
+How can we answer questions with data? Everywhere you look, you'll see methods from statistics. Spend a lot of time here!
  * Stats in a Nutshell [Book ```$46```](https://bookshop.org/a/2958/9781449316822)
  * Think Stats: Probability and Statistics for Programmers [Digital](http://bit.ly/ebook-thinkstats) & [Book ```$34```](https://bookshop.org/a/2958/9781491907337)
  * Think Bayes [Digital](http://bit.ly/ebook-thinkbayes) & [Book ```$25```](https://bookshop.org/a/2958/9781492089469)
@@ -90,16 +90,18 @@ Set up your computer to use tools locally.
  * Installing Basic Packages: [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install)
  * For scientific uses: [Using Python Scientifically](http://bit.ly/lecture-scipy) & [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
 
-#### Python Programming + Algorithms
- * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
- * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
-
 #### Data Analysis
+Get familiar with using tools to do data analysis. Pro tip: Write out what you're going to do before you do it! When you hit a snag, return to your plan and rechart as necessary.
 * [pandas](http://bit.ly/py-pandas) tutorials
 * Pandas Cookbook [Examples](http://bit.ly/jvnspandascookbook)
 * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
 * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
 * Intro to Data Science / [Course $0](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+#### Python Programming + Algorithms
+How does a computer know what to do? Algorithms are instructions with a fancy name. Learn how instructions are encoded, how to think about structuring those instructions, and patterns for making it work in code.
+ * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
+ * [numpy Tutorial / Stanford CS231N](http://cs231n.github.io/python-numpy-tutorial/)
 
 ### Survey Courses
 Courses with many of the topics above included. Be sure you fill in any gaps!
