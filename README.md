@@ -3,12 +3,13 @@ Note from the [Editor](http://clarecorthell.org): `Take Two`
 <sup>In the old days of 2013, the OSDSM was born. Then, there were "little to no Data Scientists with 5 years experience, because the job simply did not exist." (_David Hardtke, Nov 2012_) Since then, history has witnessed many things, including:</sup>
 
 <sup>• Data Scientists working across industries and the world</sup><br />
-<sup>• social media manipulated to disrupt elections</sup><br />
-<sup>• BLM and #metoo</sup><br />
-<sup>• machine learning begins falling to engineering</sup><br />
+<sup>• social media manipulation disrupts many elections</sup><br />
+<sup>• BLM and #metoo and Extinction Rebellion and many other social movements</sup><br />
+<sup>• machine learning begins falling under engineering domain</sup><br />
 <sup>• a pandemic</sup><br />
-<sup>• climate change disasters becoming very frequent</sup><br />
+<sup>• climate change disasters becoming very frequent while climate warms faster than predicted</sup><br />
 <sup>• remote work becoming common</sup>
+<sup>• multiple global recession shocks</sup>
 
 <sup>In that decade, Data Science has seen growth of jobs, shortfall of goals, success in many industries, abject failure in others, and nefarious use cases. In particular, [adverse consequences and complications of learning from data](http://machinebias.org) appear in too many examples: [elections undermined by psychographics](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), [dismal gender (Men=74%) and BIPOC diversity in the AI field](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html), a revived [eugenics](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/), an [explainability crisis](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself), [facial recognition](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues) used to [identify people](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278) and systematically [detain them](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims), ["aggression" detection microphones in schools](https://features.propublica.org/aggression-detector/the-unproven-invasive-surveillance-technology-schools-are-using-to-monitor-students/), and many others. It has never been more clear that **we need to talk about the real world impacts of our work, and consider how our creations are used.** As you consider this, read a prescient [novel](https://library.oapen.org/bitstream/id/24cb1da5-a512-4de1-b24c-639b6452dbec/628778.pdf) that grapples with the consequences of birthing, of creation, of technology.</sup>
 
