@@ -13,7 +13,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 
 #### Basic Statistics with R
 
- * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
+ * An Introduction to Statistical Learning [Book pdf](https://www.statlearning.com/) ^also a Machine Learning resource
  
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
