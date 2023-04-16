@@ -120,7 +120,7 @@ A branch of statistics that uses graphical models and specialized statistics to 
 ### Natural Language Processing
 The imperfect and immensely useful art (science?) of transforming human language into data.
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
- * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$55```](https://bookshop.org/a/2958/9780596516499)
+ * NLP with Python (NLTK library) [Digital](https://www.nltk.org/book/), [Book ```$55```](https://bookshop.org/a/2958/9780596516499)
  * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
 ### Graph Analysis
