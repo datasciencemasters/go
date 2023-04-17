@@ -230,7 +230,6 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa) [```$113```](https://bookshop.org/books/exploratory-data-analysis-classic-version/9780134995458)
  * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
-  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
  * Differential Equations in Data Science [Python Tutorial](https://web.archive.org/web/20190617023702/https://nbviewer.jupyter.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
