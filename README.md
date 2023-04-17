@@ -153,6 +153,7 @@ If you have interest in operations management, manufacturing, supply chains, or 
 
 ### Deep Learning / Neural Networks
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
+ * Neural Networks for Machine Learning [Geoffrey Hinton / U Toronto](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 ## 🤝 Doing Data Science
