@@ -231,7 +231,7 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
   * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
- * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Differential Equations in Data Science [Python Tutorial](https://web.archive.org/web/20190617023702/https://nbviewer.jupyter.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
  * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
