@@ -76,6 +76,7 @@ The foundational mathematics for working with large samples of data. Spend time 
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
  * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
+ * Linear Algebra [MIT](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 #### Statistics
 How can we answer questions with data? Everywhere you look, you'll see methods from statistics. Spend a lot of time here!
