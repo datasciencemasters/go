@@ -206,7 +206,7 @@ A slide deck or document with the goal of conveying the results of the work and 
 
 Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short document may be easier to look through to understand the results of the work. In the remote work era, think about how your work will be passed around and make sure your "above the fold" is easy to understand and clearly conveys the "why" and results in particular.
 
-__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of [map quality study results](https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view) showing higher data quality in US maps on OSM than commercially available alternatives.  The impact of this work was a) increased confidence in service reliability and b) enabled the company to decide against buying a commercially available annual license costing ~$10mi/yr.
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of [map quality study results](https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view) showing higher data quality in US maps on OSM than commercially available alternatives.  The impact of this work was a) increased confidence in service reliability for the company and b) enabled the company to decide against buying a commercially available annual license costing millions of dollars annually.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
