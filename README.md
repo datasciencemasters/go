@@ -243,6 +243,7 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
+ * Designing Data Intensive Applications [Book ```$56```](https://bookshop.org/a/2958/9781449373320)
 
 ***
 
