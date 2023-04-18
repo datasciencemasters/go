@@ -64,6 +64,11 @@ Get familiar and comfortable with manipulating data in a database with a common 
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
 
 ### Math & Statistics
+
+#### Calculus
+ * Single Variable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ * Multivariable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+
 #### Linear Algebra
 The foundational mathematics for working with large samples of data. Spend time in exercises until you feel highly confident in the key topics of Linear Algebra. It will serve you well.
  * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
