@@ -64,6 +64,11 @@ Get familiar and comfortable with manipulating data in a database with a common 
  * SQL School [Mode Analytics / Tutorials](http://bit.ly/sqlschool)
 
 ### Math & Statistics
+
+#### Calculus
+ * Single Variable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+ * Multivariable Calculus [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+
 #### Linear Algebra
 The foundational mathematics for working with large samples of data. Spend time in exercises until you feel highly confident in the key topics of Linear Algebra. It will serve you well.
  * An Intuitive Guide to Linear Algebra [Better Explained / Article](https://betterexplained.com/articles/linear-algebra-guide/)
@@ -71,6 +76,7 @@ The foundational mathematics for working with large samples of data. Spend time 
  * Vector Calculus: Understanding the Cross Product [Better Explained / Article](https://betterexplained.com/articles/cross-product/)
  * Vector Calculus: Understanding the Dot Product [Better Explained / Article](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
+ * Linear Algebra [MIT](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 #### Statistics
 How can we answer questions with data? Everywhere you look, you'll see methods from statistics. Spend a lot of time here!
@@ -120,7 +126,7 @@ A branch of statistics that uses graphical models and specialized statistics to 
 ### Natural Language Processing
 The imperfect and immensely useful art (science?) of transforming human language into data.
  * From Languages to Information / Stanford CS147 [Materials](http://bit.ly/nlpcs124)
- * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$55```](https://bookshop.org/a/2958/9780596516499)
+ * NLP with Python (NLTK library) [Digital](http://bit.ly/py-nltk), [Book ```$55```](https://bookshop.org/a/2958/9780596516499)
  * How to Write a Spelling Correcter / Norvig [Tutorial](http://norvig.com/spell-correct.html)
 
 ### Graph Analysis
@@ -153,6 +159,7 @@ If you have interest in operations management, manufacturing, supply chains, or 
 
 ### Deep Learning / Neural Networks
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
+ * Neural Networks for Machine Learning [Geoffrey Hinton / U Toronto](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 ## 🤝 Doing Data Science
@@ -197,9 +204,9 @@ A document conveying the motives, direction, investment, and expected value of t
 #### Results Presentation
 A slide deck or document with the goal of conveying the results of the work and how the findings support an important decision(s).
 
-Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short docuemnt may be easier to look through to understand the results of the work. In the remote work era, think about how your work will be passed around and make sure your "above the fold" is easy to understand and clearly conveys the "why" and results in particular.
+Best appended to the Spec, and summarized in a slide deck for easy consumption. Depending on the culture of the group, slides or a short document may be easier to look through to understand the results of the work. In the remote work era, think about how your work will be passed around and make sure your "above the fold" is easy to understand and clearly conveys the "why" and results in particular.
 
-__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of [map quality study results](https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view) showing higher data quality in US maps on OSM than commercially available alternatives.  The impact of this work was a) increased confidence in service reliability and b) enabled the company to decide against buying a commercially available annual license costing ~$10mi/yr.
+__Example__: A particularly polished [presentation](https://medium.com/lyft-engineering/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) of [map quality study results](https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view) showing higher data quality in US maps on OSM than commercially available alternatives.  The impact of this work was a) increased confidence in service reliability for the company and b) enabled the company to decide against buying a commercially available annual license costing millions of dollars annually.
 
 ## 🧑‍💻 Capstone Project
 _Choose a meaningful project or dataset to demonstrate what you've learned._
@@ -229,9 +236,8 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa) [```$113```](https://bookshop.org/books/exploratory-data-analysis-classic-version/9780134995458)
  * Mining Massive Data Sets / Stanford [Course & Digital Textbook](http://bit.ly/mmds-course) & [Book ```$58```](https://bookshop.org/a/2958/9781108476348)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$70```](https://bookshop.org/a/2958/9780521865715)
-  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
- * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
+ * Differential Equations in Data Science [Python Tutorial](https://web.archive.org/web/20190617023702/https://nbviewer.jupyter.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
  * Designing, Visualizing and Understanding Deep Neural Networks [Berkeley CS294-129](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
@@ -243,6 +249,7 @@ Show the process you used to disprove your hypothesis, preferably in a jupyter n
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
+ * Designing Data Intensive Applications [Book ```$56```](https://bookshop.org/a/2958/9781449373320)
 
 ***
 
