@@ -48,3 +48,43 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+#include<iostream.h>
+#include<conio.h>
+class  fq
+(
+   private :intn,i,ele,a(20)
+   public :void input();
+                void compute();
+                void output();
+  );
+   void fq::input()
+   (
+       cout<<"enter the number  "<<endl;
+       cin>>n; 
+       cout<<"enter the array "<<endl;
+       for(i=0;i<n;i++)
+       cin>>a(i);
+       cout<<"enter the element"<<endl;
+       cin>>element; 
+       )
+       void fq::compute()
+       (
+          c=0
+          for(i=0;i<n;i++)
+          if(a(i)==ele)
+          c++;
+          )
+          void fq::output()
+          (
+           count <<"c="<<c<<endl;
+           )
+           void main()
+           (
+           fq f; 
+           clrscr();
+           f.input();
+           f.compute();
+           f.output();
+           getch();
+           )
+           
